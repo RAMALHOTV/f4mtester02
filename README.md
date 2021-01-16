@@ -14,691 +14,595 @@
 #EXTINF:-1, [B][COLOR  yellow] RAMALHOTV[/B][/COLOR]  [B][COLOR lime] -SERVIDOR 02[/B][/COLOR]
 http://canais.servidor
 
-#EXTINF:-1,A Fazenda 12 (24 horas)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/127683
-#EXTINF:-1,BR: A&E
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/197
-#EXTINF:-1,BR: A&E HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/198
-#EXTINF:-1,BR: A&E FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/199
-#EXTINF:-1,BR: ALL SPORTS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/236
-#EXTINF:-1,BR: AMC
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/200
-#EXTINF:-1,BR: AMC HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/201
-#EXTINF:-1,BR: AMC FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/202
-#EXTINF:-1,BR: ANIMAL PLANET
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/203
-#EXTINF:-1,BR: ANIMAL PLANET HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/204
-#EXTINF:-1,BR: ANIMAL PLANET FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/205
-#EXTINF:-1,BR: ARTE 1
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/206
-#EXTINF:-1,BR: ARTE 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/207
-#EXTINF:-1,BR: ARTE 1 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/208
-#EXTINF:-1,BR: AXN
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/209
-#EXTINF:-1,BR: AXN HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/210
-#EXTINF:-1,BR: AXN FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/211
-#EXTINF:-1,BR: BABY TV
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/212
-#EXTINF:-1,BR: BABY TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/213
-#EXTINF:-1,BR: BAND CAMPINAS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/214
-#EXTINF:-1,BR: BAND NEWS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/215
-#EXTINF:-1,BR: BAND NEWS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/216
-#EXTINF:-1,BR: BAND NEWS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/217
-#EXTINF:-1,BR: BAND NORDESTE
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/218
-#EXTINF:-1,BR: BAND SP
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/219
-#EXTINF:-1,BR: BAND SP HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/220
-#EXTINF:-1,BR: BAND SP FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/221
-#EXTINF:-1,BR: BAND SPORTS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/222
-#EXTINF:-1,BR: BAND SPORTS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/223
-#EXTINF:-1,BR: BIS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/224
-#EXTINF:-1,BR: BIS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/225
-#EXTINF:-1,BR: BOOMERANG
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/226
-#EXTINF:-1,BR: BOOMERANG HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/227
-#EXTINF:-1,BR: BOOMERANG FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/228
-#EXTINF:-1,BR: CANAL BRASIL
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/229
-#EXTINF:-1,BR: CARTOON NETWORK
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/230
-#EXTINF:-1,BR: CARTOON NETWORK HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/231
-#EXTINF:-1,BR: CARTOON NETWORK FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/232
-#EXTINF:-1,BR: CINEMAX
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/233
-#EXTINF:-1,BR: CINEMAX HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/234
-#EXTINF:-1,BR: CINEMAX FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/235
-#EXTINF:-1,BR: CNN BRASIL
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/118199
-#EXTINF:-1,BR: COMBATE
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/237
-#EXTINF:-1,BR: COMBATE HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/238
-#EXTINF:-1,BR: COMBATE FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/239
-#EXTINF:-1,BR: COMEDY CENTRAL
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/240
-#EXTINF:-1,BR: COMEDY CENTRAL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/241
-#EXTINF:-1,BR: COMEDY CENTRAL FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/242
-#EXTINF:-1,BR: CULTURA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/243
-#EXTINF:-1,BR: CULTURA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/244
-#EXTINF:-1,BR: CURTA!
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/245
-#EXTINF:-1,BR: CURTA! HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/246
-#EXTINF:-1,BR: DAZN 1
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/248
-#EXTINF:-1,BR: DAZN 2
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/247
-#EXTINF:-1,BR: DISCOVERY CHANNEL
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/249
-#EXTINF:-1,BR: DISCOVERY CHANNEL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/250
-#EXTINF:-1,BR: DISCOVERY CHANNEL FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/251
-#EXTINF:-1,BR: DISCOVERY CIVILIZATION
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/252
-#EXTINF:-1,BR: DISCOVERY CIVILIZATION HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/253
-#EXTINF:-1,BR: DISCOVERY CIVILIZATION FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/254
-#EXTINF:-1,BR: DISCOVERY HOME & HEALTH
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/255
-#EXTINF:-1,BR: DISCOVERY HOME & HEALTH HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/256
-#EXTINF:-1,BR: DISCOVERY HOME & HEALTH FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/257
-#EXTINF:-1,BR: DISCOVERY KIDS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/258
-#EXTINF:-1,BR: DISCOVERY KIDS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/259
-#EXTINF:-1,BR: DISCOVERY KIDS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/260
-#EXTINF:-1,BR: DISCOVERY SCIENCE
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/261
-#EXTINF:-1,BR: DISCOVERY SCIENCE HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/262
-#EXTINF:-1,BR: DISCOVERY SCIENCE FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/263
-#EXTINF:-1,BR: DISCOVERY THEATER
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/264
-#EXTINF:-1,BR: DISCOVERY THEATER HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/265
-#EXTINF:-1,BR: DISCOVERY THEATER FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/266
-#EXTINF:-1,BR: DISCOVERY TLC
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/267
-#EXTINF:-1,BR: DISCOVERY TLC HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/268
-#EXTINF:-1,BR: DISCOVERY TURBO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/269
-#EXTINF:-1,BR: DISCOVERY TURBO HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/270
-#EXTINF:-1,BR: DISCOVERY TURBO FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/271
-#EXTINF:-1,BR: DISCOVERY WORLD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/272
-#EXTINF:-1,BR: DISCOVERY WORLD HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/273
-#EXTINF:-1,BR: DISCOVERY WORLD FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/274
-#EXTINF:-1,BR: DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/275
-#EXTINF:-1,BR: DISNEY CHANNEL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/276
-#EXTINF:-1,BR: DISNEY CHANNEL FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/277
-#EXTINF:-1,BR: DISNEY JR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/278
-#EXTINF:-1,BR: DISNEY JR HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/279
-#EXTINF:-1,BR: DISNEY JR FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/280
-#EXTINF:-1,BR: DISNEY XD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/281
-#EXTINF:-1,BR: DISNEY XD HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/282
-#EXTINF:-1,BR: DISNEY XD FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/283
-#EXTINF:-1,BR: E!
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/284
-#EXTINF:-1,BR: E! HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/285
-#EXTINF:-1,BR: EI PLUS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/286
-#EXTINF:-1,BR: ESPN
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/287
-#EXTINF:-1,BR: ESPN HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/288
-#EXTINF:-1,BR: ESPN FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/289
-#EXTINF:-1,BR: ESPN 2
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/290
-#EXTINF:-1,BR: ESPN 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/291
-#EXTINF:-1,BR: ESPN BRASIL
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/292
-#EXTINF:-1,BR: ESPN BRASIL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/293
-#EXTINF:-1,BR: ESPN BRASIL FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/294
-#EXTINF:-1,BR: ESPN EXTRA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/295
-#EXTINF:-1,BR: ESPN EXTRA FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/296
-#EXTINF:-1,BR: FISH TV
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/297
-#EXTINF:-1,BR: FISH TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/298
-#EXTINF:-1,BR: FOOD NETWORK
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/299
-#EXTINF:-1,BR: FOOD NETWORK HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/300
-#EXTINF:-1,BR: FOOD NETWORK FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/301
-#EXTINF:-1,BR: FOX
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/302
-#EXTINF:-1,BR: FOX HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/303
-#EXTINF:-1,BR: FOX FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/304
-#EXTINF:-1,BR: FOX LIFE
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/305
-#EXTINF:-1,BR: FOX LIFE HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/306
-#EXTINF:-1,BR: FOX PREMIUM 1
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/307
-#EXTINF:-1,BR: FOX PREMIUM 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/308
-#EXTINF:-1,BR: FOX PREMIUM 1 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/309
-#EXTINF:-1,BR: FOX PREMIUM 2
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/310
-#EXTINF:-1,BR: FOX PREMIUM 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/311
-#EXTINF:-1,BR: FOX PREMIUM 2 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/312
-#EXTINF:-1,BR: FOX SPORTS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/313
-#EXTINF:-1,BR: FOX SPORTS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/314
-#EXTINF:-1,BR: FOX SPORTS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/315
-#EXTINF:-1,BR: FOX SPORTS 2
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/316
-#EXTINF:-1,BR: FOX SPORTS 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/317
-#EXTINF:-1,BR: FOX SPORTS 2 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/318
-#EXTINF:-1,BR: FUTURA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/319
-#EXTINF:-1,BR: FUTURA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/320
-#EXTINF:-1,BR: FX
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/321
-#EXTINF:-1,BR: FX HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/322
-#EXTINF:-1,BR: FX FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/323
-#EXTINF:-1,BR: GLOBO AMAZONAS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/324
-#EXTINF:-1,BR: GLOBO ANHANGUERA GOIANIA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/325
-#EXTINF:-1,BR: GLOBO BRASILIA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/326
-#EXTINF:-1,BR: GLOBO CUIABA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/327
-#EXTINF:-1,BR: GLOBO EPTV CAMPINAS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/328
-#EXTINF:-1,BR: GLOBO EPTV CAMPINAS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/329
-#EXTINF:-1,BR: GLOBO EPTV RIBEIR?O PRETO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/330
-#EXTINF:-1,BR: GLOBO EPTV SAO CARLOS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/331
-#EXTINF:-1,BR: GLOBO INTERNACIONAL
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/332
-#EXTINF:-1,BR: GLOBO INTERTV CABUGI RN
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/333
-#EXTINF:-1,BR: GLOBO MINAS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/334
-#EXTINF:-1,BR: GLOBO MINAS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/335
-#EXTINF:-1,BR: GLOBO MINAS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/336
-#EXTINF:-1,BR: GLOBO NEWS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/337
-#EXTINF:-1,BR: GLOBO NEWS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/338
-#EXTINF:-1,BR: GLOBO NEWS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/339
-#EXTINF:-1,BR: GLOBO RBS PORTO ALEGRE
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/340
-#EXTINF:-1,BR: GLOBO RIBEIR?O PRETO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/341
-#EXTINF:-1,BR: GLOBO RJ
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/342
-#EXTINF:-1,BR: GLOBO RJ HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/343
-#EXTINF:-1,BR: GLOBO RJ FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/344
-#EXTINF:-1,BR: GLOBO SP
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/345
-#EXTINF:-1,BR: GLOBO SP HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/346
-#EXTINF:-1,BR: GLOBO SP FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/347
-#EXTINF:-1,BR: GLOBO NORDESTE
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/348
-#EXTINF:-1,BR: GLOBO NORDESTE HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/349
-#EXTINF:-1,BR: GLOBO NORDESTE FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/350
-#EXTINF:-1,BR: GLOBO RPC TV
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/351
-#EXTINF:-1,BR: GLOBO RPC TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/352
-#EXTINF:-1,BR: GLOBO TV BAHIA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/353
-#EXTINF:-1,BR: GLOBO TV BELEM
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/354
-#EXTINF:-1,BR: GLOBO TV TEM BAURU
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/355
-#EXTINF:-1,BR: GLOBO TV TEM S?O JOS? DO RIO PRETO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/356
-#EXTINF:-1,BR: GLOBO TV TEM SOROCABA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/357
-#EXTINF:-1,BR: GLOBO TV TRIBUNA SANTOS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/358
-#EXTINF:-1,BR: GLOBO TV VANGUARDA S.J DOS CAMPOS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/359
-#EXTINF:-1,BR: GLOBO TV VERDES MARES FORTALEZA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/360
-#EXTINF:-1,BR: GLOBOSAT
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/361
-#EXTINF:-1,BR: GLOBOSAT HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/362
-#EXTINF:-1,BR: GLOOB
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/363
-#EXTINF:-1,BR: GLOOB HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/364
-#EXTINF:-1,BR: GLOOB FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/365
-#EXTINF:-1,BR: GNT
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/366
-#EXTINF:-1,BR: GNT HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/367
-#EXTINF:-1,BR: H2
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/368
-#EXTINF:-1,BR: H2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/369
-#EXTINF:-1,BR: H2 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/370
-#EXTINF:-1,BR: HBO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/371
-#EXTINF:-1,BR: HBO HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/372
-#EXTINF:-1,BR: HBO FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/373
-#EXTINF:-1,BR: HBO 2
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/374
-#EXTINF:-1,BR: HBO 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/375
-#EXTINF:-1,BR: HBO 2 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/376
-#EXTINF:-1,BR: HBO FAMILY
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/377
-#EXTINF:-1,BR: HBO FAMILY HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/378
-#EXTINF:-1,BR: HBO FAMILY FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/379
-#EXTINF:-1,BR: HBO PLUS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/380
-#EXTINF:-1,BR: HBO PLUS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/381
-#EXTINF:-1,BR: HBO PLUS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/382
-#EXTINF:-1,BR: HBO SIGNATURE
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/385
-#EXTINF:-1,BR: HBO SIGNATURE HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/386
-#EXTINF:-1,BR: HBO SIGNATURE FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/387
-#EXTINF:-1,BR: HISTORY CHANNEL
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/388
-#EXTINF:-1,BR: HISTORY CHANNEL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/389
-#EXTINF:-1,BR: HISTORY CHANNEL FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/390
-#EXTINF:-1,BR: INVESTIGAÇÃO DISCOVERY
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/391
-#EXTINF:-1,BR: INVESTIGAÇÃO DISCOVERY HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/392
-#EXTINF:-1,BR: INVESTIGAÇÃO DISCOVERY FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/393
-#EXTINF:-1,BR: LIFETIME
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/394
-#EXTINF:-1,BR: LIFETIME HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/395
-#EXTINF:-1,BR: MAX
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/396
-#EXTINF:-1,BR: MAX HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/397
-#EXTINF:-1,BR: MAX PRIME
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/398
-#EXTINF:-1,BR: MAX PRIME HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/399
-#EXTINF:-1,BR: MAX PRIME FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/400
-#EXTINF:-1,BR: MAX PRIME*E
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/401
-#EXTINF:-1,BR: MAX PRIME*E HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/402
-#EXTINF:-1,BR: MAX UP
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/403
-#EXTINF:-1,BR: MAX UP HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/404
-#EXTINF:-1,BR: MEGAPIX
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/405
-#EXTINF:-1,BR: MEGAPIX HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/406
-#EXTINF:-1,BR: MEGAPIX FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/407
-#EXTINF:-1,BR: MTV
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/408
-#EXTINF:-1,BR: MTV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/409
-#EXTINF:-1,BR: MTV FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/410
-#EXTINF:-1,BR: MTV LIVE HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/411
-#EXTINF:-1,BR: MTV LIVE FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/412
-#EXTINF:-1,BR: MULTISHOW
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/413
-#EXTINF:-1,BR: MULTISHOW HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/414
-#EXTINF:-1,BR: MULTISHOW FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/415
-#EXTINF:-1,BR: MUSIC BOX BRAZIL
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/416
-#EXTINF:-1,BR: NATGEO KIDS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/417
-#EXTINF:-1,BR: NATGEO KIDS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/418
-#EXTINF:-1,BR: NATGEO KIDS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/419
-#EXTINF:-1,BR: NATGEO WILD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/420
-#EXTINF:-1,BR: NATGEO WILD HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/421
-#EXTINF:-1,BR: NATGEO WILD FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/422
-#EXTINF:-1,BR: NATIONAL GEOGRAPHIC
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/423
-#EXTINF:-1,BR: NATIONAL GEOGRAPHIC HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/424
-#EXTINF:-1,BR: NATIONAL GEOGRAPHIC FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/425
-#EXTINF:-1,BR: NICK JR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/426
-#EXTINF:-1,BR: NICK JR HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/427
-#EXTINF:-1,BR: NICK JR FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/428
-#EXTINF:-1,BR: NICKELODEON
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/429
-#EXTINF:-1,BR: NICKELODEON HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/430
-#EXTINF:-1,BR: NICKELONDEON FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/431
-#EXTINF:-1,BR: NOVO TEMPO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/432
-#EXTINF:-1,BR: OFF
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/433
-#EXTINF:-1,BR: OFF HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/434
-#EXTINF:-1,BR: PARAMOUNT CHANNEL
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/435
-#EXTINF:-1,BR: PARAMOUNT CHANNEL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/436
-#EXTINF:-1,BR: PARAMOUNT CHANNEL FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/437
-#EXTINF:-1,BR: PLAY TV
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/438
-#EXTINF:-1,BR: PREMIERE 1
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/439
-#EXTINF:-1,BR: PREMIERE 2
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/440
-#EXTINF:-1,BR: PREMIERE 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/441
-#EXTINF:-1,BR: PREMIERE 2 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/442
-#EXTINF:-1,BR: PREMIERE 3
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/443
-#EXTINF:-1,BR: PREMIERE 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/444
-#EXTINF:-1,BR: PREMIERE 3 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/445
-#EXTINF:-1,BR: PREMIERE 4
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/446
-#EXTINF:-1,BR: PREMIERE 4 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/447
-#EXTINF:-1,BR: PREMIERE 4 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/448
-#EXTINF:-1,BR: PREMIERE 5
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/449
-#EXTINF:-1,BR: PREMIERE 5 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/450
-#EXTINF:-1,BR: PREMIERE 5 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/451
-#EXTINF:-1,BR: PREMIERE 6
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/452
-#EXTINF:-1,BR: PREMIERE 6 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/453
-#EXTINF:-1,BR: PREMIERE 7
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/454
-#EXTINF:-1,BR: PREMIERE 8
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/455
-#EXTINF:-1,BR: PREMIERE CLUBES
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/456
-#EXTINF:-1,BR: PREMIERE CLUBES HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/457
-#EXTINF:-1,BR: PREMIERE CLUBES FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/458
-#EXTINF:-1,BR: RECORD NEWS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/459
-#EXTINF:-1,BR: RECORD NEWS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/460
-#EXTINF:-1,BR: RECORD NEWS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/461
-#EXTINF:-1,BR: RECORD NORDESTE HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/462
-#EXTINF:-1,BR: RECORD RJ
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/463
-#EXTINF:-1,BR: RECORD SP
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/464
-#EXTINF:-1,BR: RECORD SP HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/465
-#EXTINF:-1,BR: RECORD SP FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/466
-#EXTINF:-1,BR: REDE TV
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/467
-#EXTINF:-1,BR: REDE TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/468
-#EXTINF:-1,BR: REDE VIDA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/469
-#EXTINF:-1,BR: REDE VIDA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/470
-#EXTINF:-1,BR: SBT
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/471
-#EXTINF:-1,BR: SBT FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/472
-#EXTINF:-1,BR: SBT HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/473
-#EXTINF:-1,BR: SBT NORDESTE HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/474
-#EXTINF:-1,BR: SONY
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/475
-#EXTINF:-1,BR: SONY HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/476
-#EXTINF:-1,BR: SONY FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/477
-#EXTINF:-1,BR: SPACE
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/478
-#EXTINF:-1,BR: SPACE HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/479
-#EXTINF:-1,BR: SPACE FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/480
-#EXTINF:-1,BR: SPORTV
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/481
-#EXTINF:-1,BR: SPORTV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/482
-#EXTINF:-1,BR: SPORTV FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/483
-#EXTINF:-1,BR: SPORTV 2
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/484
-#EXTINF:-1,BR: SPORTV 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/485
-#EXTINF:-1,BR: SPORTV2 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/486
-#EXTINF:-1,BR: SPORTV 3
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/487
-#EXTINF:-1,BR: SPORTV 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/488
-#EXTINF:-1,BR: SPORTV3 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/489
-#EXTINF:-1,BR: STUDIO UNIVERSAL
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/490
-#EXTINF:-1,BR: STUDIO UNIVERSAL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/491
-#EXTINF:-1,BR: STUDIO UNIVERSAL FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/492
-#EXTINF:-1,BR: SYFY
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/493
-#EXTINF:-1,BR: SYFY HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/494
-#EXTINF:-1,BR: SYFY FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/495
-#EXTINF:-1,BR: TBS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/496
-#EXTINF:-1,BR: TCM
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/497
-#EXTINF:-1,BR: TELECINE ACTION
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/498
-#EXTINF:-1,BR: TELECINE ACTION HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/499
-#EXTINF:-1,BR: TELECINE ACTION FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/500
-#EXTINF:-1,BR: TELECINE PIPOCA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/501
-#EXTINF:-1,BR: TELECINE PIPOCA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/502
-#EXTINF:-1,BR: TELECINE PIPOCA FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/503
-#EXTINF:-1,BR: TELECINE PREMIUM
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/504
-#EXTINF:-1,BR: TELECINE PREMIUM HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/505
-#EXTINF:-1,BR: TELECINE PREMIUM FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/506
-#EXTINF:-1,BR: TELECINE FUN
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/507
-#EXTINF:-1,BR: TELECINE FUN HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/508
-#EXTINF:-1,BR: TELECINE FUN FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/509
-#EXTINF:-1,BR: TELECINE CULT
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/510
-#EXTINF:-1,BR: TELECINE CULT HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/511
-#EXTINF:-1,BR: TELECINE CULT FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/512
-#EXTINF:-1,BR: TELECINE TOUCH
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/513
-#EXTINF:-1,BR: TELECINE TOUCH HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/514
-#EXTINF:-1,BR: TELECINE TOUCH FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/515
-#EXTINF:-1,BR: TNT
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/516
-#EXTINF:-1,BR: TNT HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/517
-#EXTINF:-1,BR: TNT FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/518
-#EXTINF:-1,BR: TNT SERIES
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/519
-#EXTINF:-1,BR: TNT SERIES HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/520
-#EXTINF:-1,BR: TNT SERIES FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/521
-#EXTINF:-1,BR: TOONCAST
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/522
-#EXTINF:-1,BR: TOONCAST HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/523
-#EXTINF:-1,BR: TOONCAST FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/524
-#EXTINF:-1,BR: TV GAZETA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/525
-#EXTINF:-1,BR: UNIVERSAL CHANNEL
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/526
-#EXTINF:-1,BR: UNIVERSAL CHANNEL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/527
-#EXTINF:-1,BR: UNIVERSAL CHANNEL FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/528
-#EXTINF:-1,BR: VH1
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/529
-#EXTINF:-1,BR: VH1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/530
-#EXTINF:-1,BR: VIVA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/531
-#EXTINF:-1,BR: VIVA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/532
-#EXTINF:-1,BR: VIVA FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/533
-#EXTINF:-1,BR: WARNER CHANNEL
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/534
-#EXTINF:-1,BR: WARNER CHANNEL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/535
-#EXTINF:-1,BR: WARNER CHANNEL FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/536
-#EXTINF:-1,BR: WOOHOO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/537
-#EXTINF:-1,BR: WOOHOO HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/538
-#EXTINF:-1,BR: ZOOMOO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/539
-#EXTINF:-1,BR: ZOOMOO HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://melhordomundo.in:8080/123456/123456/540
+#EXTINF:-1,A&E HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68835
+#EXTINF:-1,Animal Planet HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68789
+#EXTINF:-1,Arte 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69148
+#EXTINF:-1,AXN HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68839
+#EXTINF:-1,Baby HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69031
+#EXTINF:-1,Band HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68729
+#EXTINF:-1,Band News HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69071
+#EXTINF:-1,Band Sports HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69109
+#EXTINF:-1,BIS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69151
+#EXTINF:-1,Boomerang HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69034
+#EXTINF:-1,Canal Brasil HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69155
+#EXTINF:-1,Cartoon Network HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69037
+#EXTINF:-1,Chef TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69158
+#EXTINF:-1,Cinemax HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68842
+#EXTINF:-1,CNN Espanhol HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69074
+#EXTINF:-1,CNN Internacional HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69077
+#EXTINF:-1,Combate HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69113
+#EXTINF:-1,Comedy Central HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69161
+#EXTINF:-1,Curta! HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69164
+#EXTINF:-1,Discovery Channel HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68792
+#EXTINF:-1,Discovery Civilization HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68795
+#EXTINF:-1,Discovery Home & Health HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68798
+#EXTINF:-1,Discovery ID HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68801
+#EXTINF:-1,Discovery Kids HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69040
+#EXTINF:-1,Discovery Science HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68807
+#EXTINF:-1,Discovery Theather HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68810
+#EXTINF:-1,Discovery Turbo HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68813
+#EXTINF:-1,Discovery World HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68816
+#EXTINF:-1,Disney Channel HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69043
+#EXTINF:-1,Disney JR HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69046
+#EXTINF:-1,Disney XD HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69049
+#EXTINF:-1,E! HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69168
+#EXTINF:-1,ESPN 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69116
+#EXTINF:-1,ESPN Brasil HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69119
+#EXTINF:-1,ESPN Extra HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69121
+#EXTINF:-1,ESPN HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69124
+#EXTINF:-1,Fish TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69171
+#EXTINF:-1,Food Network HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69174
+#EXTINF:-1,FOX HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68845
+#EXTINF:-1,Fox Life HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68847
+#EXTINF:-1,Fox Premium 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68850
+#EXTINF:-1,Fox Premium 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68852
+#EXTINF:-1,Fox Sport HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69126
+#EXTINF:-1,Fox Sports 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69128
+#EXTINF:-1,FX HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68855
+#EXTINF:-1,Globo Centro America HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68910
+#EXTINF:-1,Globo EPTV Campinas HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68912
+#EXTINF:-1,Globo SP HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68933
+#EXTINF:-1,Globo News HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69081
+#EXTINF:-1,Globo NSC Florianopolis HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68945
+#EXTINF:-1,Globo RPC Paranaense HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68961
+#EXTINF:-1,Globo TV Bahia HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68976
+#EXTINF:-1,Globo TV Belem HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68980
+#EXTINF:-1,Globo TV Mirante HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68990
+#EXTINF:-1,Globo TV Morena HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68992
+#EXTINF:-1,Globo TV Verdes Mares HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69011
+#EXTINF:-1,GloboTV Anhanguera HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69014
+#EXTINF:-1,Gloob HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69052
+#EXTINF:-1,Gloobinho HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69055
+#EXTINF:-1,GNT HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69178
+#EXTINF:-1,H2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68820
+#EXTINF:-1,HBO Family HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69019
+#EXTINF:-1,HBO HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69022
+#EXTINF:-1,HBO Plus HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69024
+#EXTINF:-1,HBO Signature HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69028
+#EXTINF:-1,i SAT HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69181
+#EXTINF:-1,Lifetime HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69185
+#EXTINF:-1,Mais Globosat HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69188
+#EXTINF:-1,MAX HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68859
+#EXTINF:-1,Max Prime HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68861
+#EXTINF:-1,Max UP HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68865
+#EXTINF:-1,Megapix HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68868
+#EXTINF:-1,MTV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69191
+#EXTINF:-1,Multishow HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69194
+#EXTINF:-1,Music Box Brasil HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69197
+#EXTINF:-1,Natgeo HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68823
+#EXTINF:-1,Natgeo Kids HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69058
+#EXTINF:-1,Natgeo Wild HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68826
+#EXTINF:-1,Nick HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69061
+#EXTINF:-1,Nick JR HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69063
+#EXTINF:-1,OFF HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69203
+#EXTINF:-1,Paramount Channel HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69206
+#EXTINF:-1,Play TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69209
+#EXTINF:-1,Premiere 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69087
+#EXTINF:-1,Premiere 3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69090
+#EXTINF:-1,Premiere 4 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69093
+#EXTINF:-1,Premiere 5 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69096
+#EXTINF:-1,Premiere 6 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69099
+#EXTINF:-1,Premiere 7 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69102
+#EXTINF:-1,PREMIERE CLUBES HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69106
+#EXTINF:-1,Prime Box Brasil HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69213
+#EXTINF:-1,Record News HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69084
+#EXTINF:-1,Rede TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68762
+#EXTINF:-1,SBT HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68766
+#EXTINF:-1,Sony HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68871
+#EXTINF:-1,Space HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68874
+#EXTINF:-1,SporTV 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69139
+#EXTINF:-1,SporTV 3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69142
+#EXTINF:-1,SporTV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69145
+#EXTINF:-1,Studio Universal HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68877
+#EXTINF:-1,SYFY HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68880
+#EXTINF:-1,TBS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68883
+#EXTINF:-1,TC Action HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68710
+#EXTINF:-1,TC Cult HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68713
+#EXTINF:-1,TC Fun HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68716
+#EXTINF:-1,TC Pipoca HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68719
+#EXTINF:-1,TC Premium HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68722
+#EXTINF:-1,TC Touch HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68725
+#EXTINF:-1,TCM HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68886
+#EXTINF:-1,The History HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68829
+#EXTINF:-1,TLC HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68889
+#EXTINF:-1,TNT HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68892
+#EXTINF:-1,TNT Series HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68895
+#EXTINF:-1,Tooncast HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69067
+#EXTINF:-1,True TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68832
+#EXTINF:-1,TV Ra Tim Bum HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68784
+#EXTINF:-1,Universal Channel HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68899
+#EXTINF:-1,VH1 Mega Hits HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69228
+#EXTINF:-1,Viva HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69231
+#EXTINF:-1,Warner Channel HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68902
+#EXTINF:-1,Record  HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68744
+#EXTINF:-1,Globo Minas HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68929
+#EXTINF:-1,Globo Nordeste HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68940
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68948
+#EXTINF:-1,HBO 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69016
+#EXTINF:-1,CNN BRASIL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/72752
+#EXTINF:-1,GLOBO RJ HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/72755
+#EXTINF:-1,TV RIO SUL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/72757
+#EXTINF:-1,A&E FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68834
+#EXTINF:-1,Animal Planet FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68788
+#EXTINF:-1,Arte 1 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69147
+#EXTINF:-1,AXN FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68838
+#EXTINF:-1,Baby FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69030
+#EXTINF:-1,Band FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68728
+#EXTINF:-1,Band News FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69070
+#EXTINF:-1,Band Sports FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69108
+#EXTINF:-1,BIS FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69150
+#EXTINF:-1,Boomerang FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69033
+#EXTINF:-1,Canal Brasil FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69154
+#EXTINF:-1,Cartoon Network FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69036
+#EXTINF:-1,Chef TV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69157
+#EXTINF:-1,Cinemax FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68841
+#EXTINF:-1,CNN Espanhol FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69073
+#EXTINF:-1,CNN Internacional FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69076
+#EXTINF:-1,Combate FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69112
+#EXTINF:-1,Comedy Central FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69160
+#EXTINF:-1,Curta! FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69163
+#EXTINF:-1,Discovery Channel FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68791
+#EXTINF:-1,Discovery Civilization FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68794
+#EXTINF:-1,Discovery Home & Health FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68797
+#EXTINF:-1,Discovery ID FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68800
+#EXTINF:-1,Discovery Kids FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69039
+#EXTINF:-1,Discovery Science FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68806
+#EXTINF:-1,Discovery Theather FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68809
+#EXTINF:-1,Discovery Turbo FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68812
+#EXTINF:-1,Discovery World FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68815
+#EXTINF:-1,Disney Channel FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69042
+#EXTINF:-1,Disney JR FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69045
+#EXTINF:-1,Disney XD FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69048
+#EXTINF:-1,E! FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69167
+#EXTINF:-1,ESPN 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69115
+#EXTINF:-1,ESPN Brasil FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69118
+#EXTINF:-1,ESPN FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69123
+#EXTINF:-1,Fish TV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69170
+#EXTINF:-1,Food Network FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69173
+#EXTINF:-1,FOX FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68844
+#EXTINF:-1,Fox Life FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68846
+#EXTINF:-1,Fox Premium 1 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68849
+#EXTINF:-1,Fox Premium 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68851
+#EXTINF:-1,Fox Sports 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69127
+#EXTINF:-1,Fox Sports FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69130
+#EXTINF:-1,FX FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68854
+#EXTINF:-1,Globo Centro America FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68909
+#EXTINF:-1,Globo EPTV Campinas FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68911
+#EXTINF:-1,Globo Minas FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68927
+#EXTINF:-1,Globo SP FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68932
+#EXTINF:-1,Globo News FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68934
+#EXTINF:-1,Globo Nordeste FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68937
+#EXTINF:-1,Globo NSC Florianopolis FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68944
+#EXTINF:-1,GLOBO RBS TV POA FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68950
+#EXTINF:-1,Globo TV Bahia FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68975
+#EXTINF:-1,GLOBO TV LIBERAL FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68987
+#EXTINF:-1,Globo TV Mirante FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68989
+#EXTINF:-1,Globo TV Morena FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68991
+#EXTINF:-1,Globo TV Verdes Mares FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69009
+#EXTINF:-1,GloboTV Anhanguera FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69013
+#EXTINF:-1,Gloob FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69051
+#EXTINF:-1,GNT FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69177
+#EXTINF:-1,H2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68819
+#EXTINF:-1,HBO 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69015
+#EXTINF:-1,HBO FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69021
+#EXTINF:-1,HBO Plus FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69023
+#EXTINF:-1,HBO Signature FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69027
+#EXTINF:-1,i SAT FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69180
+#EXTINF:-1,Lifetime FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69184
+#EXTINF:-1,Mais Globosat FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69187
+#EXTINF:-1,MAX FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68857
+#EXTINF:-1,Max Prime FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68860
+#EXTINF:-1,Max UP FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68864
+#EXTINF:-1,Megapix FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68867
+#EXTINF:-1,MTV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69190
+#EXTINF:-1,Multishow FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69193
+#EXTINF:-1,Music Box Brasil FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69196
+#EXTINF:-1,Natgeo FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68822
+#EXTINF:-1,Natgeo Kids FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69057
+#EXTINF:-1,Natgeo Wild FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68825
+#EXTINF:-1,Nick FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69060
+#EXTINF:-1,Nick JR FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69062
+#EXTINF:-1,OFF FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69202
+#EXTINF:-1,Paramount Channel FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69205
+#EXTINF:-1,Play TV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69208
+#EXTINF:-1,Premiere 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69086
+#EXTINF:-1,Premiere 3 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69089
+#EXTINF:-1,Premiere 4 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69092
+#EXTINF:-1,Premiere 5 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69095
+#EXTINF:-1,Premiere 6 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69098
+#EXTINF:-1,Premiere 7 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69101
+#EXTINF:-1,Premiere Clubes FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69105
+#EXTINF:-1,Prime Box Brasil FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69212
+#EXTINF:-1,Record  FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68743
+#EXTINF:-1,Record News FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69083
+#EXTINF:-1,Rede TV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68761
+#EXTINF:-1,SBT FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68765
+#EXTINF:-1,Sony FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68870
+#EXTINF:-1,Space FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68873
+#EXTINF:-1,SporTV 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69138
+#EXTINF:-1,SporTV 3 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69141
+#EXTINF:-1,SporTV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69144
+#EXTINF:-1,Studio Universal FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68876
+#EXTINF:-1,SYFY FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68879
+#EXTINF:-1,TBS FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68882
+#EXTINF:-1,TC ACTION FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68709
+#EXTINF:-1,TC Cult FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68712
+#EXTINF:-1,TC Fun FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68715
+#EXTINF:-1,TC Pipoca FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68718
+#EXTINF:-1,TC Premium FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68721
+#EXTINF:-1,TC Touch FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68724
+#EXTINF:-1,TCM FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68885
+#EXTINF:-1,The History FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68828
+#EXTINF:-1,TLC FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68888
+#EXTINF:-1,TNT FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68891
+#EXTINF:-1,TNT Series FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68894
+#EXTINF:-1,Tooncast FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69066
+#EXTINF:-1,True TV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68831
+#EXTINF:-1,TV Ra Tim Bum FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68783
+#EXTINF:-1,Universal Channel FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68898
+#EXTINF:-1,VH1 Mega Hits FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69227
+#EXTINF:-1,Viva FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69230
+#EXTINF:-1,Warner Channel FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/68901
+#EXTINF:-1,RECORD SP HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/71809
+#EXTINF:-1,LIBERTADORES FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/71810
+#EXTINF:-1,RECORD RJ HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/71811
+#EXTINF:-1,RECORD DF HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/71812
+#EXTINF:-1,RECORD BH HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/71813
+#EXTINF:-1,RECORD BA HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/71814
+#EXTINF:-1,RECORD PA HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/71815
+#EXTINF:-1,RECORD GO HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/71816
+#EXTINF:-1,RECORD RS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/71817
+#EXTINF:-1,RECORD ES HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/71818
+#EXTINF:-1,### TABELA JOGOS ###
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/71820
+#EXTINF:-1,CNN BRASIL FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/71821
+#EXTINF:-1,JASMIN TV
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/71909
+#EXTINF:-1,TV CAMARA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/71910
+#EXTINF:-1,TV APARECIDA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/71911
+#EXTINF:-1,TV NOVO TEMPO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/71912
+#EXTINF:-1,TV GIDEOES
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/71913
+#EXTINF:-1,REDE VIDA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/71914
+#EXTINF:-1,CANCAO NOVA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/71915
+#EXTINF:-1,TV EVANGELIZAR
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/71916
+#EXTINF:-1,TV FAAP
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/71919
+#EXTINF:-1,TERRA VIVA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/71920
+#EXTINF:-1,TV JUSTICA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/71921
+#EXTINF:-1,TV SENADO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/71922
+#EXTINF:-1,TOP TV
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/71923
+#EXTINF:-1,TV CARIOCA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/71924
+#EXTINF:-1,GOSPEL CARTOON
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/71925
+#EXTINF:-1,PLAY KIDS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/72079
+#EXTINF:-1,GLOBO RJ FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/72754
+#EXTINF:-1,TV RIO SUL FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/72756
+#EXTINF:-1,[24H] A Casa do Mickey
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69248
+#EXTINF:-1,[24H] As Aventuras de Jackie Chan
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69249
+#EXTINF:-1,[24h] A Turma da Monica
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69250
+#EXTINF:-1,[24H] Dragon Ball GT
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69251
+#EXTINF:-1,[24H] A Escolinha do  Professor Raimundo
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69252
+#EXTINF:-1,[24H] Dragon Ball Kai
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69253
+#EXTINF:-1,[24H] Dragon Ball
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69254
+#EXTINF:-1,[24H] Dragon Ball Super
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69255
+#EXTINF:-1,[24H] Dragon Ball Z - Saga de Cell
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69256
+#EXTINF:-1,[24H] Dragon Ball Z - Saga de Freeza
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69257
+#EXTINF:-1,[24H] Dragon Ball Z - Saga de Garlic Jr
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69258
+#EXTINF:-1,[24H] Dragon Ball Z - Saga de Majin Boo
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69259
+#EXTINF:-1,[24H] Dragon Ball Z - Saga de Androids
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69260
+#EXTINF:-1,[24H] Dragon Ball Z - Saga de Sayajins
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69261
+#EXTINF:-1,[24H] Dragon Ball Z - Saga Torneio do outro Mundo
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69262
+#EXTINF:-1,[24H] Os Trapalhoes
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69263
+#EXTINF:-1,[24H] Patati Patata
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://node7.homelinux.com:80/barbara123/barbara123/69264
