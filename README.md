@@ -1,340 +1,1085 @@
 #EXTM3U
 #EXTINF:-1, [B][COLOR  yellow] RAMALHOTV[/B][/COLOR]  [B][COLOR lime] -SERVIDOR 02[/B][/COLOR]
 http://canais.servidor
-#EXTINF:-1 tvg-id="" tvg-name="A&E " tvg-logo="http://distv.net/icons/ae.png" group-title="FILMES E SERIES",A&E 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/113
-#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="http://distv.net/icons/amc.png" group-title="FILMES E SERIES",AMC
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/223
-#EXTINF:-1 tvg-id="ANIMALPLANET" tvg-name="ANIMAL PLANET" tvg-logo="http://distv.net/icons/animalplanet.png" group-title="ENTRETENIMENTO",ANIMAL PLANET
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/114
-#EXTINF:-1 tvg-id="" tvg-name="ARTE 1" tvg-logo="http://distv.net/icons/arte1.png" group-title="ENTRETENIMENTO",ARTE 1
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/115
-#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="http://distv.net/icons/axn.png" group-title="FILMES E SERIES",AXN
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/116
-#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="http://distv.net/icons/babytv.png" group-title="KIDS",BABY TV
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/117
-#EXTINF:-1 tvg-id="" tvg-name="BAND" tvg-logo="http://distv.net/icons/band.png" group-title="CANAIS LOCAIS",BAND
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/224
-#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS" tvg-logo="http://distv.net/icons/bandnews.png" group-title="REPORTAGEM",BAND NEWS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/118
-#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS" tvg-logo="http://distv.net/icons/bandsports.png" group-title="SPORTS",BAND SPORTS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/119
-#EXTINF:-1 tvg-id="" tvg-name="BIS" tvg-logo="http://distv.net/icons/bis.png" group-title="ENTRETENIMENTO",BIS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/120
-#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG" tvg-logo="http://distv.net/icons/boomerang.png" group-title="KIDS",BOOMERANG
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/121
-#EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL" tvg-logo="http://distv.net/icons/canalbrasil.png" group-title="ENTRETENIMENTO",CANAL BRASIL
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/122
-#EXTINF:-1 tvg-id="" tvg-name="CANAL SONY" tvg-logo="http://distv.net/icons/sonychannel.png" group-title="FILMES E SERIES",CANAL SONY
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/123
-#EXTINF:-1 tvg-id="" tvg-name="CANÇÃO NOVA" tvg-logo="http://distv.net/icons/cancaonovoceara.png" group-title="CANAIS LOCAIS",CANÇÃO NOVA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/65
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="http://distv.net/icons/cartoonnetwork.png" group-title="KIDS",CARTOON NETWORK
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/124
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 01
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/48
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 02" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 02
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/49
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 03" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 03
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/50
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 04" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 04
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/51
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 05" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 05
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/52
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 06" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 06
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/53
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 07" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 07
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/54
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 08" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 08
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/55
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 09" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 09
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/56
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 10
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/57
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="http://distv.net/icons/cinemax.png" group-title="FILMES E SERIES",CINEMAX
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/125
-#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL" tvg-logo="http://distv.net/icons/cnnbrasil.png" group-title="REPORTAGEM",CNN BRASIL
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/225
-#EXTINF:-1 tvg-id="" tvg-name="COMBATE" tvg-logo="http://distv.net/icons/combate.png" group-title="SPORTS",COMBATE
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/126
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="http://distv.net/icons/comedycentral.png" group-title="FILMES E SERIES",COMEDY CENTRAL
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/127
-#EXTINF:-1 tvg-id="" tvg-name="CULTURA" tvg-logo="http://distv.net/icons/cultura.png" group-title="ENTRETENIMENTO",CULTURA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/128
-#EXTINF:-1 tvg-id="" tvg-name="CURTA" tvg-logo="http://distv.net/icons/curta.png" group-title="ENTRETENIMENTO",CURTA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/129
-#EXTINF:-1 tvg-id="" tvg-name="DAZN" tvg-logo="http://distv.net/icons/dazn.png" group-title="SPORTS",DAZN
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/226
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://distv.net/icons/discoverychannel.png" group-title="ENTRETENIMENTO",DISCOVERY CHANNEL
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/130
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HOME & HEALTH" tvg-logo="http://distv.net/icons/discoveryhomehealth.png" group-title="ENTRETENIMENTO",DISCOVERY HOME & HEALTH
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/131
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ID" tvg-logo="http://distv.net/icons/discoveryid.png" group-title="ENTRETENIMENTO",DISCOVERY ID
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/132
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS" tvg-logo="http://distv.net/icons/discoverykids.png" group-title="KIDS",DISCOVERY KIDS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/133
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://distv.net/icons/discoveryscience.png" group-title="ENTRETENIMENTO",DISCOVERY SCIENCE
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/134
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER" tvg-logo="http://distv.net/icons/discoverytheater.png" group-title="ENTRETENIMENTO",DISCOVERY THEATER
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/135
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO" tvg-logo="http://distv.net/icons/discoveryturbo.png" group-title="ENTRETENIMENTO",DISCOVERY TURBO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/136
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD" tvg-logo="http://distv.net/icons/discoveryworld.png" group-title="ENTRETENIMENTO",DISCOVERY WORLD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/137
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="http://distv.net/icons/disneychannel.png" group-title="KIDS",DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/138
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR" tvg-logo="http://distv.net/icons/disneyjr.png" group-title="KIDS",DISNEY JR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/139
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD" tvg-logo="http://distv.net/icons/disneyxd.png" group-title="KIDS",DISNEY XD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/140
-#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="http://distv.net/icons/e.png" group-title="ENTRETENIMENTO",E!
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/141
-#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://distv.net/icons/espn.png" group-title="SPORTS",ESPN
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/142
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="http://distv.net/icons/espn2.png" group-title="SPORTS",ESPN 2
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/143
-#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL" tvg-logo="http://distv.net/icons/espnbrasil.png" group-title="SPORTS",ESPN BRASIL
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/144
-#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA" tvg-logo="http://distv.net/icons/espnextra.png" group-title="SPORTS",ESPN EXTRA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/145
-#EXTINF:-1 tvg-id="" tvg-name="FILMS & ARTS" tvg-logo="http://distv.net/icons/filmeseartes.png" group-title="ENTRETENIMENTO",FILMS & ARTS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/227
-#EXTINF:-1 tvg-id="" tvg-name="FISH TV" tvg-logo="http://distv.net/icons/fishtv.png" group-title="ENTRETENIMENTO",FISH TV
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/146
-#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK" tvg-logo="http://distv.net/icons/foodnetwork.png" group-title="ENTRETENIMENTO",FOOD NETWORK
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/147
-#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="http://distv.net/icons/foxchannel.png" group-title="FILMES E SERIES",FOX
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/148
-#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tvg-logo="http://distv.net/icons/foxlife.png" group-title="FILMES E SERIES",FOX LIFE
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/149
-#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 1" tvg-logo="http://distv.net/icons/foxpremium1.png" group-title="FILMES E SERIES",FOX PREMIUM 1
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/150
-#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 2" tvg-logo="http://distv.net/icons/foxpremium2.png" group-title="FILMES E SERIES",FOX PREMIUM 2
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/151
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS" tvg-logo="http://distv.net/icons/foxsports.png" group-title="SPORTS",FOX SPORTS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/152
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="http://distv.net/icons/foxsports2.png" group-title="SPORTS",FOX SPORTS 2
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/153
-#EXTINF:-1 tvg-id="" tvg-name="FUTURA" tvg-logo="http://distv.net/icons/futura.png" group-title="ENTRETENIMENTO",FUTURA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/228
-#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="http://distv.net/icons/fx.png" group-title="ENTRETENIMENTO",FX
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/229
-#EXTINF:-1 tvg-id="" tvg-name="GAZETA" tvg-logo="http://distv.net/icons/gazeta.png" group-title="ENTRETENIMENTO",GAZETA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/230
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO" tvg-logo="http://distv.net/icons/globo.png" group-title="CANAIS LOCAIS",GLOBO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/231
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA HD" tvg-logo="http://distv.net/icons/globo.png" group-title="CANAIS LOCAIS",GLOBO BRASILIA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/3
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO FLORIANOPOLIS HD" tvg-logo="http://distv.net/icons/globo.png" group-title="CANAIS LOCAIS",GLOBO FLORIANOPOLIS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/5
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS HD" tvg-logo="http://distv.net/icons/globo.png" group-title="CANAIS LOCAIS",GLOBO MINAS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/6
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NATAL HD" tvg-logo="http://distv.net/icons/globo.png" group-title="CANAIS LOCAIS",GLOBO NATAL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/7
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS" tvg-logo="http://distv.net/icons/globonews.png" group-title="REPORTAGEM",GLOBO NEWS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/232
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO REDE AMAZÔNICA HD" tvg-logo="http://distv.net/icons/globo.png" group-title="CANAIS LOCAIS",GLOBO REDE AMAZÔNICA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/11
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO HD" tvg-logo="http://distv.net/icons/globo.png" group-title="CANAIS LOCAIS",GLOBO RIO HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/13
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC CURITIBA HD" tvg-logo="http://distv.net/icons/globo.png" group-title="CANAIS LOCAIS",GLOBO RPC CURITIBA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/14
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP HD" tvg-logo="http://distv.net/icons/globo.png" group-title="CANAIS LOCAIS",GLOBO SP HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/15
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ANHANGUERA GOIANIA HD" tvg-logo="http://distv.net/icons/globo.png" group-title="CANAIS LOCAIS",GLOBO TV ANHANGUERA GOIANIA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/16
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV BAHIA HD" tvg-logo="http://distv.net/icons/globo.png" group-title="CANAIS LOCAIS",GLOBO TV BAHIA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/17
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV LIBERAL BELEM HD" tvg-logo="http://distv.net/icons/globo.png" group-title="CANAIS LOCAIS",GLOBO TV LIBERAL BELEM HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/18
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MIRANTE HD (MA)" tvg-logo="http://distv.net/icons/globo.png" group-title="CANAIS LOCAIS",GLOBO TV MIRANTE HD (MA)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/19
-#EXTINF:-1 tvg-id="" tvg-name="GLOOB" tvg-logo="http://distv.net/icons/gloob.png" group-title="KIDS",GLOOB
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/154
-#EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO" tvg-logo="http://distv.net/icons/gloobinho.png" group-title="KIDS",GLOOBINHO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/215
-#EXTINF:-1 tvg-id="" tvg-name="GNT" tvg-logo="http://distv.net/icons/gnt.png" group-title="ENTRETENIMENTO",GNT
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/155
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://distv.net/icons/hbo.png" group-title="FILMES E SERIES",HBO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/156
-#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2" tvg-logo="http://distv.net/icons/hbo2.png" group-title="FILMES E SERIES",HBO 2
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/157
-#EXTINF:-1 tvg-id="HBOFAMILY" tvg-name="HBO FAMILY" tvg-logo="http://distv.net/icons/hbofamily.png" group-title="FILMES E SERIES",HBO FAMILY
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/158
-#EXTINF:-1 tvg-id="HBOMUNDI" tvg-name="HBO MUNDI" tvg-logo="http://distv.net/icons/hbomundi.png" group-title="FILMES E SERIES",HBO MUNDI
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/159
-#EXTINF:-1 tvg-id="HBOPLUS" tvg-name="HBO PLUS" tvg-logo="http://distv.net/icons/hboplus.png" group-title="FILMES E SERIES",HBO PLUS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/160
-#EXTINF:-1 tvg-id="HBOPOP" tvg-name="HBO POP" tvg-logo="http://distv.net/icons/hbopop.png" group-title="FILMES E SERIES",HBO POP
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/161
-#EXTINF:-1 tvg-id="HBOSIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="http://distv.net/icons/hbosignature.png" group-title="FILMES E SERIES",HBO SIGNATURE
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/162
-#EXTINF:-1 tvg-id="HBOXTREME" tvg-name="HBO XTREME" tvg-logo="http://distv.net/icons/hboextreme.png" group-title="FILMES E SERIES",HBO XTREME
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/163
-#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="http://distv.net/icons/hgtv.png" group-title="ENTRETENIMENTO",HGTV
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/164
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY" tvg-logo="http://distv.net/icons/historychannel.png" group-title="ENTRETENIMENTO",HISTORY
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/165
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY 2" tvg-logo="http://distv.net/icons/h2.png" group-title="ENTRETENIMENTO",HISTORY 2
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/166
-#EXTINF:-1 tvg-id="" tvg-name="LIFE TIME" tvg-logo="http://distv.net/icons/lifetime.png" group-title="ENTRETENIMENTO",LIFE TIME
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/167
-#EXTINF:-1 tvg-id="" tvg-name="LIKE" tvg-logo="http://distv.net/icons/like.png" group-title="ENTRETENIMENTO",LIKE
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/233
-#EXTINF:-1 tvg-id="" tvg-name="MAIS GLOBOSAT" tvg-logo="http://distv.net/icons/maisglobosat.png" group-title="ENTRETENIMENTO",MAIS GLOBOSAT
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/235
-#EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="http://distv.net/icons/megapix.png" group-title="FILMES E SERIES",MEGAPIX
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/168
-#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="http://distv.net/icons/mtv.png" group-title="ENTRETENIMENTO",MTV
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/169
-#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE" tvg-logo="http://distv.net/icons/mtv.png" group-title="ENTRETENIMENTO",MTV LIVE
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/236
-#EXTINF:-1 tvg-id="" tvg-name="MULTISHOW" tvg-logo="http://distv.net/icons/multishow.png" group-title="ENTRETENIMENTO",MULTISHOW
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/170
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC BOX BRAZIL" tvg-logo="http://distv.net/icons/musicboxbrazil.png" group-title="ENTRETENIMENTO",MUSIC BOX BRAZIL
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/171
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="http://distv.net/icons/natgeo.png" group-title="ENTRETENIMENTO",NAT GEO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/172
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO KIDS" tvg-logo="http://distv.net/icons/natgeokids.png" group-title="KIDS",NAT GEO KIDS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/173
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="http://distv.net/icons/natgeowild.png" group-title="ENTRETENIMENTO",NAT GEO WILD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/174
-#EXTINF:-1 tvg-id="" tvg-name="NICK" tvg-logo="http://distv.net/icons/nick.png" group-title="KIDS",NICK
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/175
-#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="http://distv.net/icons/nickjr.png" group-title="KIDS",NICK JR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/176
-#EXTINF:-1 tvg-id="" tvg-name="OFF" tvg-logo="http://distv.net/icons/off.png" group-title="ENTRETENIMENTO",OFF
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/177
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT" tvg-logo="http://distv.net/icons/paramount.png" group-title="FILMES E SERIES",PARAMOUNT
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/178
-#EXTINF:-1 tvg-id="" tvg-name="PLAY KIDS" tvg-logo="http://distv.net/icons/playkids.png" group-title="KIDS",PLAY KIDS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/216
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2" tvg-logo="http://distv.net/icons/premiere2.png" group-title="SPORTS",PREMIERE 2
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/179
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3" tvg-logo="http://distv.net/icons/premiere3.png" group-title="SPORTS",PREMIERE 3
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/180
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4" tvg-logo="http://distv.net/icons/premeire4.png" group-title="SPORTS",PREMIERE 4
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/181
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5" tvg-logo="http://distv.net/icons/premeire5.png" group-title="SPORTS",PREMIERE 5
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/182
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6" tvg-logo="http://distv.net/icons/premiere6.png" group-title="SPORTS",PREMIERE 6
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/183
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7" tvg-logo="http://distv.net/icons/premiere7.png" group-title="SPORTS",PREMIERE 7
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/237
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES" tvg-logo="http://distv.net/icons/premiereclubes.png" group-title="SPORTS",PREMIERE CLUBES
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/184
-#EXTINF:-1 tvg-id="" tvg-name="PRIME BOX BRAZIL" tvg-logo="http://distv.net/icons/primeboxbrazil.png" group-title="ENTRETENIMENTO",PRIME BOX BRAZIL
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/185
-#EXTINF:-1 tvg-id="" tvg-name="RECORD BAHIA " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS",RECORD BAHIA 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/23
-#EXTINF:-1 tvg-id="" tvg-name="RECORD BRASILIA " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS",RECORD BRASILIA 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/25
-#EXTINF:-1 tvg-id="" tvg-name="RECORD GOIAS " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS",RECORD GOIAS 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/26
-#EXTINF:-1 tvg-id="" tvg-name="RECORD MANAUS" tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS",RECORD MANAUS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/22
-#EXTINF:-1 tvg-id="" tvg-name="RECORD MG" tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS",RECORD MG
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/32
-#EXTINF:-1 tvg-id="" tvg-name="RECORD MINAS " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS",RECORD MINAS 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/27
-#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS " tvg-logo="http://distv.net/icons/recordnews.png" group-title="REPORTAGEM",RECORD NEWS 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/28
-#EXTINF:-1 tvg-id="" tvg-name="RECORD PARA " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS",RECORD PARA 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/30
-#EXTINF:-1 tvg-id="" tvg-name="RECORD RIO " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS",RECORD RIO 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/31
-#EXTINF:-1 tvg-id="" tvg-name="RECORD SP " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS",RECORD SP 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/33
-#EXTINF:-1 tvg-id="" tvg-name="REDE TV" tvg-logo="http://distv.net/icons/redetv.png" group-title="CANAIS LOCAIS",REDE TV
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/69
-#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA" tvg-logo="http://distv.net/icons/redevida.png" group-title="ENTRETENIMENTO",REDE VIDA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/218
-#EXTINF:-1 tvg-id="" tvg-name="SBT" tvg-logo="http://distv.net/icons/sbt.png" group-title="CANAIS LOCAIS",SBT
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/238
-#EXTINF:-1 tvg-id="" tvg-name="SPACE" tvg-logo="http://distv.net/icons/space.png" group-title="FILMES E SERIES",SPACE
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/187
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV" tvg-logo="http://distv.net/icons/sportv.png" group-title="SPORTS",SPORTV
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/188
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2" tvg-logo="http://distv.net/icons/sportv2.png" group-title="SPORTS",SPORTV 2
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/189
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3" tvg-logo="http://distv.net/icons/sportv3.png" group-title="SPORTS",SPORTV 3
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/190
-#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://distv.net/icons/studiouniversal.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/191
-#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="http://distv.net/icons/syfy.png" group-title="FILMES E SERIES",SYFY
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/192
-#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="http://distv.net/icons/tbs.png" group-title="FILMES E SERIES",TBS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/193
-#EXTINF:-1 tvg-id="TELECINEACTION" tvg-name="TELECINE ACTION" tvg-logo="http://distv.net/icons/tcaction.png" group-title="FILMES E SERIES",TELECINE ACTION
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/194
-#EXTINF:-1 tvg-id="TELECINECULT" tvg-name="TELECINE CULT" tvg-logo="http://distv.net/icons/tccult.png" group-title="FILMES E SERIES",TELECINE CULT
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/195
-#EXTINF:-1 tvg-id="TELECINEFUN" tvg-name="TELECINE FUN" tvg-logo="http://distv.net/icons/tcfun.png" group-title="FILMES E SERIES",TELECINE FUN
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/196
-#EXTINF:-1 tvg-id="TELECINEPIPOCA" tvg-name="TELECINE PIPOCA" tvg-logo="http://distv.net/icons/tcpipoca.png" group-title="FILMES E SERIES",TELECINE PIPOCA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/197
-#EXTINF:-1 tvg-id="TELECINEPREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="http://distv.net/icons/tcpremium.png" group-title="FILMES E SERIES",TELECINE PREMIUM
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/198
-#EXTINF:-1 tvg-id="TELECINETOUCH" tvg-name="TELECINE TOUCH" tvg-logo="http://distv.net/icons/tctouch.png" group-title="FILMES E SERIES",TELECINE TOUCH
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/199
-#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="http://distv.net/icons/tlc.png" group-title="ENTRETENIMENTO",TLC
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/200
-#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="http://distv.net/icons/tnt.png" group-title="FILMES E SERIES",TNT
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/201
-#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES" tvg-logo="http://distv.net/icons/tntseries.png" group-title="FILMES E SERIES",TNT SERIES
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/202
-#EXTINF:-1 tvg-id="" tvg-name="TOONCAST" tvg-logo="http://distv.net/icons/tooncast.png" group-title="KIDS",TOONCAST
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/203
-#EXTINF:-1 tvg-id="" tvg-name="TRAVELBOX" tvg-logo="http://distv.net/icons/travelboxbrazil.png" group-title="ENTRETENIMENTO",TRAVELBOX
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/240
-#EXTINF:-1 tvg-id="" tvg-name="TV BRASIL" tvg-logo="http://distv.net/icons/tvbrasil.png" group-title="ENTRETENIMENTO",TV BRASIL
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/241
-#EXTINF:-1 tvg-id="" tvg-name="TV CIDADE-CARIRI CE" tvg-logo="http://distv.net/icons/tvcidade.png" group-title="CANAIS LOCAIS",TV CIDADE-CARIRI CE
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/94
-#EXTINF:-1 tvg-id="" tvg-name="TV CLUBE" tvg-logo="http://distv.net/icons/tvclube.png" group-title="CANAIS LOCAIS",TV CLUBE
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/73
-#EXTINF:-1 tvg-id="" tvg-name="TV DIARIO-CARIRI CE" tvg-logo="http://distv.net/icons/tvdiario.png" group-title="CANAIS LOCAIS",TV DIARIO-CARIRI CE
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/95
-#EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR" tvg-logo="http://distv.net/icons/tvevangelizar.png" group-title="CANAIS LOCAIS",TV EVANGELIZAR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/91
-#EXTINF:-1 tvg-id="" tvg-name="TV GLOBO NE" tvg-logo="http://distv.net/icons/globonordeste.png" group-title="CANAIS LOCAIS",TV GLOBO NE
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/75
-#EXTINF:-1 tvg-id="" tvg-name="TV JORNAL" tvg-logo="http://distv.net/icons/tvjornal.png" group-title="CANAIS LOCAIS",TV JORNAL
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/76
-#EXTINF:-1 tvg-id="" tvg-name="TV NOVO TEMPO" tvg-logo="http://distv.net/icons/novotempo.png" group-title="ENTRETENIMENTO",TV NOVO TEMPO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/242
-#EXTINF:-1 tvg-id="" tvg-name="TV PAI ETERNO" tvg-logo="http://distv.net/icons/tvpaieterno.png" group-title="CANAIS LOCAIS",TV PAI ETERNO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/103
-#EXTINF:-1 tvg-id="" tvg-name="TV RA TIM BUM" tvg-logo="http://distv.net/icons/tvratimbum.png" group-title="KIDS",TV RA TIM BUM
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/204
-#EXTINF:-1 tvg-id="" tvg-name="TV TRIBUNA" tvg-logo="http://distv.net/icons/tvtribuna.png" group-title="CANAIS LOCAIS",TV TRIBUNA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/77
-#EXTINF:-1 tvg-id="" tvg-name="TV-JANGADEIRO-CE-HD" tvg-logo="http://distv.net/icons/tvjangadeiro.png" group-title="CANAIS LOCAIS",TV-JANGADEIRO-CE-HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/90
-#EXTINF:-1 tvg-id="" tvg-name="TV-UNIAO-CE-HD" tvg-logo="http://distv.net/icons/redeuniao.png" group-title="CANAIS LOCAIS",TV-UNIAO-CE-HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/92
-#EXTINF:-1 tvg-id="" tvg-name="TVM -CE-HD" tvg-logo="http://distv.net/icons/tvm.png" group-title="CANAIS LOCAIS",TVM -CE-HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/93
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL TV" tvg-logo="http://distv.net/icons/universalchannel.png" group-title="FILMES E SERIES",UNIVERSAL TV
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/205
-#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="http://distv.net/icons/vh1megahits.png" group-title="ENTRETENIMENTO",VH1
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/206
-#EXTINF:-1 tvg-id="" tvg-name="VIVA" tvg-logo="http://distv.net/icons/viva.png" group-title="ENTRETENIMENTO",VIVA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/207
-#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL" tvg-logo="http://distv.net/icons/warnerchannel.png" group-title="FILMES E SERIES",WARNER CHANNEL
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/208
-#EXTINF:-1 tvg-id="WOOHOO" tvg-name="WOOHOO" tvg-logo="http://distv.net/icons/woohoo.png" group-title="ENTRETENIMENTO",WOOHOO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/243
-#EXTINF:-1 tvg-id="" tvg-name="ZOOMOO" tvg-logo="http://distv.net/icons/zoomoo.png" group-title="KIDS",ZOOMOO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/244
-#EXTINF:-1 tvg-id="" tvg-name="CARIOCÃO" tvg-logo="" group-title="CANAIS LOCAIS",CARIOCÃO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/4
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="CANAIS: 4K ",ANIMAL PLANET 4K
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31029
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND 4K" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/b737d4c99a392be3157a83cb14d6b6fe.png" group-title="CANAIS: 4K ",BAND 4K
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31030
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="CARTOON NETWORK 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/1280px-Cartoon_Network_2004_logo.svg.png" group-title="CANAIS: 4K ",CARTOON NETWORK 4K
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31031
+#EXTINF:-1 tvg-id="Combate FHD" tvg-name="COMBATE 4K" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a2/Premiere_combate.png/revision/latest?cb=20130519152220" group-title="CANAIS: 4K ",COMBATE 4K
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31032
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="DISCOVERY CHANNEL 4K" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/e42be2028f3a5db71c140fef7d466508.png" group-title="CANAIS: 4K ",DISCOVERY CHANNEL 4K
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31033
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4K" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/04d080864054aefd1ef1a9ff87b7d107.png" group-title="CANAIS: 4K ",ESPN 4K
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31034
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 4K" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/505f347dd85fc2b612c01bfcbb7d83fb.png" group-title="CANAIS: 4K ",FOX SPORTS 2 4K
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31035
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 4K" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/e2d6ee43fcc007a66a5fe29e28f2a2cd.png" group-title="CANAIS: 4K ",FOX SPORTS 4K
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31036
+#EXTINF:-1 tvg-id="Tv Gazeta SP HD" tvg-name="GAZETA 4K" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/93f3f8456217740578e7c109767d6475.png" group-title="CANAIS: 4K ",GAZETA 4K
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31037
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO 4K" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/26b2114a8cf92b933b01f5afc90d5b8b.png" group-title="CANAIS: 4K ",GLOBO 4K
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31038
+#EXTINF:-1 tvg-id="Multishow" tvg-name="MULTISHOW 4K" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/a2a19071ba2ca312ce66b902ebb23928.png" group-title="CANAIS: 4K ",MULTISHOW 4K
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31041
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="PREMIERE CLUBES" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: 4K ",PREMIERE CLUBES
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31042
+#EXTINF:-1 tvg-id="" tvg-name="RECORDTV 4K" tvg-logo="http://51.79.39.244/canais/record.png" group-title="CANAIS: 4K ",RECORDTV 4K
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31043
+#EXTINF:-1 tvg-id="Rede TV" tvg-name="REDE TV 4K" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/4da959f750cb8ae4dd6269681f550c27.png" group-title="CANAIS: 4K ",REDE TV 4K
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31044
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT 4K" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/d3e31ea3ed8fa10abfad0c0f93f144be.png" group-title="CANAIS: 4K ",SBT 4K
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31045
+#EXTINF:-1 tvg-id="Space" tvg-name="SPACE 4K" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/2c77a3b4ee7d02edb3fb963888945de4.png" group-title="CANAIS: 4K ",SPACE 4K
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31046
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SPORTV 4K" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/f403e9597b0a4ca7d64cfca666232651.png" group-title="CANAIS: 4K ",SPORTV 4K
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31047
+#EXTINF:-1 tvg-id="Star Channel" tvg-name="STAR CHANNEL" tvg-logo="" group-title="CANAIS: 4K ",STAR CHANNEL
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31048
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA 4K" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/78cf91f49d0c208befeabf8ed37de67b.png" group-title="CANAIS: 4K ",TELECINE PIPOCA 4K
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31049
+#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-name="TELECINE PREMIUM 4K" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/2e31ce17a394e94e2089fcf435e0c142.png" group-title="CANAIS: 4K ",TELECINE PREMIUM 4K
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31050
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT 4K" tvg-logo="https://lh3.googleusercontent.com/proxy/PFbg4L5OdoNim-7v3taWKf-OSqQ6W3ljxVEPQQziaWF2VQfekpOcwTQtkx6qCMzkZXDj8GtUIITgKMzQVO2bFftppoeU226jkW0hzpKheJWTy2k1nQ" group-title="CANAIS: 4K ",TNT 4K
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31051
+#EXTINF:-1 tvg-id="" tvg-name="BAND RJ HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Band_Marca.png" group-title="CANAIS: ABERTOS",BAND RJ HD²
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31053
+#EXTINF:-1 tvg-id="" tvg-name="BAND RJ HD³" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/84447c1c037e891da9824b86b4ab65d1.png" group-title="CANAIS: ABERTOS",BAND RJ HD³
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31055
+#EXTINF:-1 tvg-id="" tvg-name="BAND RJ SD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/84447c1c037e891da9824b86b4ab65d1.png" group-title="CANAIS: ABERTOS",BAND RJ SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31056
+#EXTINF:-1 tvg-id="" tvg-name="TV ALTIORA" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/b42f2759b9dfdc1b9f03b4f0ee082572.png" group-title="CANAIS: ABERTOS",TV ALTIORA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31058
+#EXTINF:-1 tvg-id="" tvg-name="BAND CAMPINAS ¹" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/b737d4c99a392be3157a83cb14d6b6fe.png" group-title="CANAIS: ABERTOS",BAND CAMPINAS ¹
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31059
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/b737d4c99a392be3157a83cb14d6b6fe.png" group-title="CANAIS: ABERTOS",BAND FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31060
+#EXTINF:-1 tvg-id="" tvg-name="BAND HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/b737d4c99a392be3157a83cb14d6b6fe.png" group-title="CANAIS: ABERTOS",BAND HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31061
+#EXTINF:-1 tvg-id="" tvg-name="BAND PA (RBATV)" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/b737d4c99a392be3157a83cb14d6b6fe.png" group-title="CANAIS: ABERTOS",BAND PA (RBATV)
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31062
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="CANAL BRASIL FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/99c99a1c36c4dc188705905b5471c263.png" group-title="CANAIS: ABERTOS",CANAL BRASIL FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31063
+#EXTINF:-1 tvg-id="Canal do Boi" tvg-name="CANAL DO BOI" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/e1755fec015678ee31550fc9ccd216b6.png" group-title="CANAIS: ABERTOS",CANAL DO BOI
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31064
+#EXTINF:-1 tvg-id="" tvg-name="CLASSIQUE TV" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/e61827e47c8159264d13654819d019cd.png" group-title="CANAIS: ABERTOS",CLASSIQUE TV
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31066
+#EXTINF:-1 tvg-id="" tvg-name="CLASSIQUE TV 2" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/e61827e47c8159264d13654819d019cd.png" group-title="CANAIS: ABERTOS",CLASSIQUE TV 2
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31067
+#EXTINF:-1 tvg-id="" tvg-name="GAZETA ¹ SP" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/0b6a222adaa081ef3201e6ee412314f1.png" group-title="CANAIS: ABERTOS",GAZETA ¹ SP
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31069
+#EXTINF:-1 tvg-id="" tvg-name="GOSPEL CARTOON" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/336b8abfa862d4024c9730bc77b4e6ca.png" group-title="CANAIS: ABERTOS",GOSPEL CARTOON
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31070
+#EXTINF:-1 tvg-id="Rede TV" tvg-name="REDE TV FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/4da959f750cb8ae4dd6269681f550c27.png" group-title="CANAIS: ABERTOS",REDE TV FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31071
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/4da959f750cb8ae4dd6269681f550c27.png" group-title="CANAIS: ABERTOS",REDE TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31072
+#EXTINF:-1 tvg-id="" tvg-name="SBT" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/908acd0d6203ce2887dcb9d42cbcc741.png" group-title="CANAIS: ABERTOS",SBT
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31075
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/d3e31ea3ed8fa10abfad0c0f93f144be.png" group-title="CANAIS: ABERTOS",SBT FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31076
+#EXTINF:-1 tvg-id="" tvg-name="SBT RJ ¹" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/908acd0d6203ce2887dcb9d42cbcc741.png" group-title="CANAIS: ABERTOS",SBT RJ ¹
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31077
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT TV ALTEROSA HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/d3e31ea3ed8fa10abfad0c0f93f144be.png" group-title="CANAIS: ABERTOS",SBT TV ALTEROSA HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31078
+#EXTINF:-1 tvg-id="" tvg-name="SBT TV SERRA DOURADA FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/908acd0d6203ce2887dcb9d42cbcc741.png" group-title="CANAIS: ABERTOS",SBT TV SERRA DOURADA FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31080
+#EXTINF:-1 tvg-id="SBT" tvg-name="TV ARATU HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/4b6b42a17d169d906ffa8a97004577df.png" group-title="CANAIS: ABERTOS",TV ARATU HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31082
+#EXTINF:-1 tvg-id="TV Cultura HD" tvg-name="TV CULTURA" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/071d4d7c98f1f4d43932abc07cc036cb.png" group-title="CANAIS: ABERTOS",TV CULTURA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31083
+#EXTINF:-1 tvg-id="" tvg-name="TV CULTURA HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/3b05b706ee016feaf6ce46d8d441a679.png" group-title="CANAIS: ABERTOS",TV CULTURA HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31084
+#EXTINF:-1 tvg-id="TV Diário" tvg-name="TV DIARIO FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/9bf4e5767bd543e482481528b0790810.png" group-title="CANAIS: ABERTOS",TV DIARIO FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31085
+#EXTINF:-1 tvg-id="" tvg-name="TV DIGITAL BIRIGUI" tvg-logo="https://2.bp.blogspot.com/-FyuPxPq-klc/XQ0tqGbS0KI/AAAAAAAABME/q0GLmUzUG18A3R0IRqW-7u1jnOkk_ogpQCPcBGAYYCw/s320/Screenshot_2019-06-21-16-17-17.png%22" group-title="CANAIS: ABERTOS",TV DIGITAL BIRIGUI
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31086
+#EXTINF:-1 tvg-id="" tvg-name="TV GAZETA" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/35dd13721f6cd18b1b96916168600a60.png" group-title="CANAIS: ABERTOS",TV GAZETA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31087
+#EXTINF:-1 tvg-id="" tvg-name="TV GAZETA NORTE MINEIRA" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/86a4ddf13b37417deaf639bab101e0a5.png" group-title="CANAIS: ABERTOS",TV GAZETA NORTE MINEIRA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31088
+#EXTINF:-1 tvg-id="" tvg-name="TV JORNAL DO NORDESTE" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/cde7657893ad2af867542959b26d8147.png" group-title="CANAIS: ABERTOS",TV JORNAL DO NORDESTE
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31091
+#EXTINF:-1 tvg-id="TV Justiça" tvg-name="TV JUSTIÇA" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/54319c0c314f2faec48d7b703a413ba0.png" group-title="CANAIS: ABERTOS",TV JUSTIÇA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31092
+#EXTINF:-1 tvg-id="" tvg-name="TV NOVA ONDA" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/bb8664a14a14e60820d720840d9e24ea.png" group-title="CANAIS: ABERTOS",TV NOVA ONDA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31097
+#EXTINF:-1 tvg-id="" tvg-name="TV SERRA VERDE" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/6ff9a8121d1da127296f38c282a9f065.png" group-title="CANAIS: ABERTOS",TV SERRA VERDE
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31099
+#EXTINF:-1 tvg-id="" tvg-name="TV UNIÃO DE NATAL" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/7aa421c5563e3e542201ef4700757219.png" group-title="CANAIS: ABERTOS",TV UNIÃO DE NATAL
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31101
+#EXTINF:-1 tvg-id="Animal  Planet FHD" tvg-name="ANIMAL PLANET FULLHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/animalplanet2019.png" group-title="CANAIS: DOCUMENTARIOS",ANIMAL PLANET FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31104
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="ANIMAL PLANET HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/40e4afcfd925c2e4ea83a767993ea8b0.png" group-title="CANAIS: DOCUMENTARIOS",ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31105
+#EXTINF:-1 tvg-id="Discovery Channel FHD" tvg-name="DISCOVERY CHANNEL FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/3950c7106dabe0a1c95f93b8d6d61f0d.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY CHANNEL FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31106
+#EXTINF:-1 tvg-id="Discovery Home Health FHD" tvg-name="DISCOVERY HOME & HEALTH FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/109cdb8901bf793f95f6bca6c6fa7260.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY HOME & HEALTH FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31107
+#EXTINF:-1 tvg-id="Discovery Home Health HD" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/109cdb8901bf793f95f6bca6c6fa7260.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY HOME & HEALTH HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31108
+#EXTINF:-1 tvg-id="ID - Investigação Discovery HD" tvg-name="DISCOVERY ID FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/38add9c2fc7b1ba2dfae0659fe141664.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY ID FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31109
+#EXTINF:-1 tvg-id="ID - Investigação Discovery HD" tvg-name="DISCOVERY ID HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/38add9c2fc7b1ba2dfae0659fe141664.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY ID HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31110
+#EXTINF:-1 tvg-id="Discovery Science HD" tvg-name="DISCOVERY SCIENCE FULL HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/c1b60c507ebb241c94a78ef528af2f6e.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY SCIENCE FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31111
+#EXTINF:-1 tvg-id="Discovery Science HD" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/c1b60c507ebb241c94a78ef528af2f6e.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY SCIENCE HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31112
+#EXTINF:-1 tvg-id="Discovery Theater FHD" tvg-name="DISCOVERY THEATHER FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/e283234df4e07ea91bc55e080f2eb7cb.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY THEATHER FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31113
+#EXTINF:-1 tvg-id="Discovery Turbo FHD" tvg-name="DISCOVERY TURBO FULL HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/b640432d94401e9f00b2b937e8d370de.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY TURBO FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31114
+#EXTINF:-1 tvg-id="Discovery Turbo HD" tvg-name="DISCOVERY TURBO HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/b640432d94401e9f00b2b937e8d370de.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY TURBO HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31115
+#EXTINF:-1 tvg-id="Discovery World FHD" tvg-name="DISCOVERY WORLD FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/a258cbe45875c1443fb3a985f1feee77.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY WORLD FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31116
+#EXTINF:-1 tvg-id="Discovery World HD" tvg-name="DISCOVERY WORLD HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/a258cbe45875c1443fb3a985f1feee77.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY WORLD HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31117
+#EXTINF:-1 tvg-id="H2 HD" tvg-name="H2 FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/5114ba9215c48572a9e2108cb8865e1c.png" group-title="CANAIS: DOCUMENTARIOS",H2 FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31118
+#EXTINF:-1 tvg-id="H2 HD" tvg-name="H2 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/5114ba9215c48572a9e2108cb8865e1c.png" group-title="CANAIS: DOCUMENTARIOS",H2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31119
+#EXTINF:-1 tvg-id="" tvg-name="HGTV HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/1890e0812faeb12f2f66110349f4f4cb.png" group-title="CANAIS: DOCUMENTARIOS",HGTV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31121
+#EXTINF:-1 tvg-id="The History Channel FHD" tvg-name="HISTORY FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/55bcb8252e8ea7a686ac5cb33c4e51be.png" group-title="CANAIS: DOCUMENTARIOS",HISTORY FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31122
+#EXTINF:-1 tvg-id="History Channel HD" tvg-name="HISTORY HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/55bcb8252e8ea7a686ac5cb33c4e51be.png" group-title="CANAIS: DOCUMENTARIOS",HISTORY HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31123
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO FULL HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/665009c30f9c9e343c0fd675e0d20826.png" group-title="CANAIS: DOCUMENTARIOS",NATGEO FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31124
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/665009c30f9c9e343c0fd675e0d20826.png" group-title="CANAIS: DOCUMENTARIOS",NATGEO HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31125
+#EXTINF:-1 tvg-id="Nat Geo Wild FHD" tvg-name="NATGEO WILD FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/835c503f8a33fe5691345a7ef1c6a323.png" group-title="CANAIS: DOCUMENTARIOS",NATGEO WILD FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31126
+#EXTINF:-1 tvg-id="NatGeoWild HD" tvg-name="NATGEO WILD HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/835c503f8a33fe5691345a7ef1c6a323.png" group-title="CANAIS: DOCUMENTARIOS",NATGEO WILD HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31127
+#EXTINF:-1 tvg-id="" tvg-name="SMITHSONIAN HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/1da8d41433aef449563d03d757aa18e8.png" group-title="CANAIS: DOCUMENTARIOS",SMITHSONIAN HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31128
+#EXTINF:-1 tvg-id="TLC HD" tvg-name="TLC FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/c914eaaca945935936bde32238e80e7d.png" group-title="CANAIS: DOCUMENTARIOS",TLC FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31129
+#EXTINF:-1 tvg-id="" tvg-name="TRAVEL BOX BRAZIL" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/b09e07e568e0e3e12419495c35b1ac23.png" group-title="CANAIS: DOCUMENTARIOS",TRAVEL BOX BRAZIL
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31130
+#EXTINF:-1 tvg-id="" tvg-name="ALL SPORTS TV²" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/all-sports.png" group-title="CANAIS: ESPORTES ESPECIAIS",ALL SPORTS TV²
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31131
+#EXTINF:-1 tvg-id="" tvg-name="ALL SPORTS" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/dd0adb2707019ec75c7ab58f6f9c0962.png" group-title="CANAIS: ESPORTES ESPECIAIS",ALL SPORTS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31132
+#EXTINF:-1 tvg-id="Band Sports HD" tvg-name="BAND SPORTS FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/52d0460c88bc29c07be4f40b7f059774.png" group-title="CANAIS: ESPORTES ESPECIAIS",BAND SPORTS FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31133
+#EXTINF:-1 tvg-id="Band Sports HD" tvg-name="BAND SPORTS HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/52d0460c88bc29c07be4f40b7f059774.png" group-title="CANAIS: ESPORTES ESPECIAIS",BAND SPORTS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31134
+#EXTINF:-1 tvg-id="Band Sports HD" tvg-name="BAND SPORTS HD*" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/52d0460c88bc29c07be4f40b7f059774.png" group-title="CANAIS: ESPORTES ESPECIAIS",BAND SPORTS HD*
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31135
+#EXTINF:-1 tvg-id="Combate FHD" tvg-name="COMBATE FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/3353303223750327ec2e6b8c18ed849f.png" group-title="CANAIS: ESPORTES ESPECIAIS",COMBATE FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31136
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="COMBATE HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/3353303223750327ec2e6b8c18ed849f.png" group-title="CANAIS: ESPORTES ESPECIAIS",COMBATE HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31137
+#EXTINF:-1 tvg-id="Combate FHD" tvg-name="COMBATE HD*" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/3353303223750327ec2e6b8c18ed849f.png" group-title="CANAIS: ESPORTES ESPECIAIS",COMBATE HD*
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31138
+#EXTINF:-1 tvg-id="ESPN 2 FHD H.265" tvg-name="ESPN 2 FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/5be93103d24dda3acadd3af51bf19f11.png" group-title="CANAIS: ESPORTES ESPECIAIS",ESPN 2 FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31139
+#EXTINF:-1 tvg-id="ESPN 2 FHD H.265" tvg-name="ESPN 2 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/5be93103d24dda3acadd3af51bf19f11.png" group-title="CANAIS: ESPORTES ESPECIAIS",ESPN 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31140
+#EXTINF:-1 tvg-id="ESPN 2 FHD H.265" tvg-name="ESPN 2 HD+" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/5be93103d24dda3acadd3af51bf19f11.png" group-title="CANAIS: ESPORTES ESPECIAIS",ESPN 2 HD+
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31141
+#EXTINF:-1 tvg-id="ESPN Brasil HD" tvg-name="ESPN BRASIL FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/216856b56d2ef374d89343c17b492c74.png" group-title="CANAIS: ESPORTES ESPECIAIS",ESPN BRASIL FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31142
+#EXTINF:-1 tvg-id="ESPN Brasil FHD" tvg-name="ESPN BRASIL HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/216856b56d2ef374d89343c17b492c74.png" group-title="CANAIS: ESPORTES ESPECIAIS",ESPN BRASIL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31143
+#EXTINF:-1 tvg-id="ESPN Brasil FHD" tvg-name="ESPN BRASIL HD+" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/02471b75c570c28c92ada4df1452fb99.png" group-title="CANAIS: ESPORTES ESPECIAIS",ESPN BRASIL HD+
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31144
+#EXTINF:-1 tvg-id="ESPN Extra FHD" tvg-name="ESPN EXTRA FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/4c99d7606f9ce8ca7ec97cb995907311.png" group-title="CANAIS: ESPORTES ESPECIAIS",ESPN EXTRA FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31145
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN EXTRA HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/4c99d7606f9ce8ca7ec97cb995907311.png" group-title="CANAIS: ESPORTES ESPECIAIS",ESPN EXTRA HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31146
+#EXTINF:-1 tvg-id="ESPN Extra HD" tvg-name="ESPN EXTRA HD+" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/4c99d7606f9ce8ca7ec97cb995907311.png" group-title="CANAIS: ESPORTES ESPECIAIS",ESPN EXTRA HD+
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31147
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN FULL HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/738d4432270707a387203d9d3365869b.png" group-title="CANAIS: ESPORTES ESPECIAIS",ESPN FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31148
+#EXTINF:-1 tvg-id="ESPN FHD" tvg-name="ESPN HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/738d4432270707a387203d9d3365869b.png" group-title="CANAIS: ESPORTES ESPECIAIS",ESPN HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31149
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN HD+" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/738d4432270707a387203d9d3365869b.png" group-title="CANAIS: ESPORTES ESPECIAIS",ESPN HD+
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31150
+#EXTINF:-1 tvg-id="Fish TV HD [Alter]" tvg-name="FISH TV FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/4d2187339c2c0f316b0849a8b027c40c.png" group-title="CANAIS: ESPORTES ESPECIAIS",FISH TV FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31151
+#EXTINF:-1 tvg-id="Fish TV" tvg-name="FISH TV HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/4d2187339c2c0f316b0849a8b027c40c.png" group-title="CANAIS: ESPORTES ESPECIAIS",FISH TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31152
+#EXTINF:-1 tvg-id="FOX Sports 2 HD" tvg-name="FOX SPORTS 2 FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/e968825c1ba1e66034a83f748b3aec92.png" group-title="CANAIS: ESPORTES ESPECIAIS",FOX SPORTS 2 FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31153
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/e968825c1ba1e66034a83f748b3aec92.png" group-title="CANAIS: ESPORTES ESPECIAIS",FOX SPORTS 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31154
+#EXTINF:-1 tvg-id="Fox Sports FHD" tvg-name="FOX SPORTS FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/e2d6ee43fcc007a66a5fe29e28f2a2cd.png" group-title="CANAIS: ESPORTES ESPECIAIS",FOX SPORTS FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31155
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/e2d6ee43fcc007a66a5fe29e28f2a2cd.png" group-title="CANAIS: ESPORTES ESPECIAIS",FOX SPORTS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31156
+#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/7b7ed641e55ed13760eef372bd92bb05.png" group-title="CANAIS: ESPORTES ESPECIAIS",GOLF CHANNEL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31158
+#EXTINF:-1 tvg-id="OFF HD" tvg-name="OFF FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/b7531a621044588d818c2c33d9ae9fed.png" group-title="CANAIS: ESPORTES ESPECIAIS",OFF FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31159
+#EXTINF:-1 tvg-id="OFF HD" tvg-name="OFF HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/b7531a621044588d818c2c33d9ae9fed.png" group-title="CANAIS: ESPORTES ESPECIAIS",OFF HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31160
+#EXTINF:-1 tvg-id="Sportv 2 FHD" tvg-name="SPORTV 2 FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/1739aa2dd0453ee08e9ea7580dbdba96.png" group-title="CANAIS: ESPORTES ESPECIAIS",SPORTV 2 FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31162
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SPORTV 2 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/36b7f8fdd08f59090bcd2fde2c1307a4.png" group-title="CANAIS: ESPORTES ESPECIAIS",SPORTV 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31163
+#EXTINF:-1 tvg-id="Sportv 3 FHD" tvg-name="SPORTV 3 FULL HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/1739aa2dd0453ee08e9ea7580dbdba96.png" group-title="CANAIS: ESPORTES ESPECIAIS",SPORTV 3 FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31165
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SPORTV 3 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/365fc6d09ecab42eb99b787a6df6477b.png" group-title="CANAIS: ESPORTES ESPECIAIS",SPORTV 3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31166
+#EXTINF:-1 tvg-id="Sportv FHD" tvg-name="SPORTV FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/1739aa2dd0453ee08e9ea7580dbdba96.png" group-title="CANAIS: ESPORTES ESPECIAIS",SPORTV FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31168
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SPORTV HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/86d84e83d0f11bb41146421975d001dd.png" group-title="CANAIS: ESPORTES ESPECIAIS",SPORTV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31169
+#EXTINF:-1 tvg-id="Sportv FHD" tvg-name="SPORTV HD*" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/86d84e83d0f11bb41146421975d001dd.png" group-title="CANAIS: ESPORTES ESPECIAIS",SPORTV HD*
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31170
+#EXTINF:-1 tvg-id="Woohoo HD" tvg-name="WOOHOO FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/11ebae91a48b8cc287f9f5f5836c03ed.png" group-title="CANAIS: ESPORTES ESPECIAIS",WOOHOO FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31171
+#EXTINF:-1 tvg-id="Woohoo HD" tvg-name="WOOHOO HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/11ebae91a48b8cc287f9f5f5836c03ed.png" group-title="CANAIS: ESPORTES ESPECIAIS",WOOHOO HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31172
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 3" tvg-logo="http://51.222.46.117:80/images/b1a9e4fc5726288c44fe4eb28c2b3fb9.png" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL 3
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31189
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 4" tvg-logo="http://51.222.46.117:80/images/b1a9e4fc5726288c44fe4eb28c2b3fb9.png" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL 4
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31191
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2 HD" tvg-logo="http://51.222.46.117:80/images/5631eb07e7db08d61ba10d8907b937e4.png" group-title="CANAIS: ESPORTES ESPECIAIS",COPA DO NORDESTE 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31203
+#EXTINF:-1 tvg-id="" tvg-name="DAZN2 FULL HD" tvg-logo="http://51.222.46.117:80/images/afc6cdbeb8d0332c4977764380e2d567.png" group-title="CANAIS: ESPORTES ESPECIAIS",DAZN2 FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31210
+#EXTINF:-1 tvg-id="" tvg-name="DAZN2 HD" tvg-logo="http://51.222.46.117:80/images/afc6cdbeb8d0332c4977764380e2d567.png" group-title="CANAIS: ESPORTES ESPECIAIS",DAZN2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31211
+#EXTINF:-1 tvg-id="" tvg-name="FLATV 01 HD" tvg-logo="http://51.222.46.117:80/images/a280dc7d0d9a0cafb9615d368323c0d4.png" group-title="CANAIS: ESPORTES ESPECIAIS",FLATV 01 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31213
+#EXTINF:-1 tvg-id="" tvg-name="FLATV 02 HD" tvg-logo="http://51.222.46.117:80/images/a280dc7d0d9a0cafb9615d368323c0d4.png" group-title="CANAIS: ESPORTES ESPECIAIS",FLATV 02 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31215
+#EXTINF:-1 tvg-id="" tvg-name="FLATV 02 SD" tvg-logo="http://51.222.46.117:80/images/a280dc7d0d9a0cafb9615d368323c0d4.png" group-title="CANAIS: ESPORTES ESPECIAIS",FLATV 02 SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31216
+#EXTINF:-1 tvg-id="" tvg-name="LIGA FUTSAL 2 HD" tvg-logo="http://51.222.46.117:80/images/ed2c01c67be72f8c29f14b4890e49085.png" group-title="CANAIS: ESPORTES ESPECIAIS",LIGA FUTSAL 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31217
+#EXTINF:-1 tvg-id="" tvg-name="LIGA FUTSAL 2 SD" tvg-logo="http://51.222.46.117:80/images/ed2c01c67be72f8c29f14b4890e49085.png" group-title="CANAIS: ESPORTES ESPECIAIS",LIGA FUTSAL 2 SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31218
+#EXTINF:-1 tvg-id="" tvg-name="LIGA FUTSAL HD" tvg-logo="http://51.222.46.117:80/images/ed2c01c67be72f8c29f14b4890e49085.png" group-title="CANAIS: ESPORTES ESPECIAIS",LIGA FUTSAL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31219
+#EXTINF:-1 tvg-id="" tvg-name="LIGA FUTSAL SD" tvg-logo="http://51.222.46.117:80/images/ed2c01c67be72f8c29f14b4890e49085.png" group-title="CANAIS: ESPORTES ESPECIAIS",LIGA FUTSAL SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31220
+#EXTINF:-1 tvg-id="" tvg-name="ONE FOOTBALL 03 HD" tvg-logo="http://51.222.46.117:80/images/3af9de0f0091aeee93dca66e83c38972.png" group-title="CANAIS: ESPORTES ESPECIAIS",ONE FOOTBALL 03 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31221
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 2" tvg-logo="http://51.222.46.117:80/images/08bfd3c9b0258f1797ecbeee925a9b95.png" group-title="CANAIS: ESPORTES ESPECIAIS",TNT SPORTS 2
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31223
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 2 HD" tvg-logo="http://51.222.46.117:80/images/08bfd3c9b0258f1797ecbeee925a9b95.png" group-title="CANAIS: ESPORTES ESPECIAIS",TNT SPORTS 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31224
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 3 HD" tvg-logo="http://51.222.46.117:80/images/08bfd3c9b0258f1797ecbeee925a9b95.png" group-title="CANAIS: ESPORTES ESPECIAIS",TNT SPORTS 3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31226
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 4 HD" tvg-logo="http://51.222.46.117:80/images/08bfd3c9b0258f1797ecbeee925a9b95.png" group-title="CANAIS: ESPORTES ESPECIAIS",TNT SPORTS 4 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31227
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 4 SD" tvg-logo="http://51.222.46.117:80/images/08bfd3c9b0258f1797ecbeee925a9b95.png" group-title="CANAIS: ESPORTES ESPECIAIS",TNT SPORTS 4 SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31228
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 5 HD" tvg-logo="http://51.222.46.117:80/images/08bfd3c9b0258f1797ecbeee925a9b95.png" group-title="CANAIS: ESPORTES ESPECIAIS",TNT SPORTS 5 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31229
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 5 HD" tvg-logo="http://51.222.46.117:80/images/08bfd3c9b0258f1797ecbeee925a9b95.png" group-title="CANAIS: ESPORTES ESPECIAIS",TNT SPORTS 5 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31230
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 6 HD" tvg-logo="http://51.222.46.117:80/images/08bfd3c9b0258f1797ecbeee925a9b95.png" group-title="CANAIS: ESPORTES ESPECIAIS",TNT SPORTS 6 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31231
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 7 HD" tvg-logo="http://51.222.46.117:80/images/08bfd3c9b0258f1797ecbeee925a9b95.png" group-title="CANAIS: ESPORTES ESPECIAIS",TNT SPORTS 7 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31233
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 8 HD" tvg-logo="http://51.222.46.117:80/images/08bfd3c9b0258f1797ecbeee925a9b95.png" group-title="CANAIS: ESPORTES ESPECIAIS",TNT SPORTS 8 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31235
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 1 HD" tvg-logo="http://51.222.46.117:80/images/08bfd3c9b0258f1797ecbeee925a9b95.png" group-title="CANAIS: ESPORTES ESPECIAIS",TNT SPORTS 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31237
+#EXTINF:-1 tvg-id="" tvg-name="VASCO TV 01 HD" tvg-logo="http://51.222.46.117:80/images/f307c55de7647649bb30089d39eca89c.png" group-title="CANAIS: ESPORTES ESPECIAIS",VASCO TV 01 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31238
+#EXTINF:-1 tvg-id="" tvg-name="VASCO TV 01 SD" tvg-logo="http://51.222.46.117:80/images/f307c55de7647649bb30089d39eca89c.png" group-title="CANAIS: ESPORTES ESPECIAIS",VASCO TV 01 SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31239
+#EXTINF:-1 tvg-id="" tvg-name="VASCO TV 02 HD" tvg-logo="http://51.222.46.117:80/images/f307c55de7647649bb30089d39eca89c.png" group-title="CANAIS: ESPORTES ESPECIAIS",VASCO TV 02 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31240
+#EXTINF:-1 tvg-id="" tvg-name="VASCO TV 02 SD" tvg-logo="http://51.222.46.117:80/images/f307c55de7647649bb30089d39eca89c.png" group-title="CANAIS: ESPORTES ESPECIAIS",VASCO TV 02 SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31241
+#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/9c8fcb2b35712d84729766222a43ee37.png" group-title="CANAIS: ESPORTES ESPECIAIS",BTV
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31242
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="CANAIS: ESPORTES ESPECIAIS",ELEVEN SPORTS 1
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31243
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="CANAIS: ESPORTES ESPECIAIS",ELEVEN SPORTS 2
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31244
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 3" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="CANAIS: ESPORTES ESPECIAIS",ELEVEN SPORTS 3
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31245
+#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/d3f677104e3e511bcca3e147c2d2e674.png" group-title="CANAIS: ESPORTES ESPECIAIS",GOLF CHANNEL
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31246
+#EXTINF:-1 tvg-id="" tvg-name="MLB NETWORK" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/520d92e760446afb14e097e05e972849.png" group-title="CANAIS: ESPORTES ESPECIAIS",MLB NETWORK
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31247
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/ebf323cac56411c17e5ba272e6633267.png" group-title="CANAIS: ESPORTES ESPECIAIS",NBA TV
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31248
+#EXTINF:-1 tvg-id="" tvg-name="NFL NETWORK HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/6c6ad98cd6ab16b698bcae1106fd38ae.png" group-title="CANAIS: ESPORTES ESPECIAIS",NFL NETWORK HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31249
+#EXTINF:-1 tvg-id="" tvg-name="RED BULL TV" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/2d97c6fab3c83d78eda766397d4c88b3.png" group-title="CANAIS: ESPORTES ESPECIAIS",RED BULL TV
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31250
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV +" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/2fe8c2d049c14e311dd96b235d599c77.png" group-title="CANAIS: ESPORTES ESPECIAIS",SPORT TV +
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31251
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/c534538c53856e8472fc9a046c1aa1f0.png" group-title="CANAIS: ESPORTES ESPECIAIS",SPORT TV 1
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31252
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/03c3e40c0772afd58e2df9e2b56bd156.png" group-title="CANAIS: ESPORTES ESPECIAIS",SPORT TV 2
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31253
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 3" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/660203221425597697ae844730843438.png" group-title="CANAIS: ESPORTES ESPECIAIS",SPORT TV 3
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31254
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 4" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/61f150826d57ae5ed949a9ba495a233c.png" group-title="CANAIS: ESPORTES ESPECIAIS",SPORT TV 4
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31255
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 5" tvg-logo="https://i.imgyukle.com/2019/05/26/kT26nA.png" group-title="CANAIS: ESPORTES ESPECIAIS",SPORT TV 5
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31256
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV NBA" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/e14b1adaad4d2b5db86354bdaf24228b.png" group-title="CANAIS: ESPORTES ESPECIAIS",SPORT TV NBA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31257
+#EXTINF:-1 tvg-id="" tvg-name="SPORTING TV" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/0a2c8bcaa56ae51e9bf71b560c16e12f.png" group-title="CANAIS: ESPORTES ESPECIAIS",SPORTING TV
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31258
+#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E FULLHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/A%26E_HD.png" group-title="CANAIS: FILMES E SERIES",A&E FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31268
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/d0270475abc07f8ccbb549ea4edb89a7.png" group-title="CANAIS: FILMES E SERIES",AMC HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31269
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/4c82075bfa3ae92cab273d568c92773d.png" group-title="CANAIS: FILMES E SERIES",AXN FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31270
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/4c82075bfa3ae92cab273d568c92773d.png" group-title="CANAIS: FILMES E SERIES",AXN HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31271
+#EXTINF:-1 tvg-id="Canal Sony HD" tvg-name="CANAL SONY FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/9ae2767f15b15da469c307585dd350c0.png" group-title="CANAIS: FILMES E SERIES",CANAL SONY FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31272
+#EXTINF:-1 tvg-id="" tvg-name="CANAL SONY HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/9ae2767f15b15da469c307585dd350c0.png" group-title="CANAIS: FILMES E SERIES",CANAL SONY HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31273
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/8462f71cc06768e7a4e3eabf02f869dc.png" group-title="CANAIS: FILMES E SERIES",CINEMAX FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31274
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/8462f71cc06768e7a4e3eabf02f869dc.png" group-title="CANAIS: FILMES E SERIES",CINEMAX HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31275
+#EXTINF:-1 tvg-id="FX" tvg-name="FX FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/f3169a441bef48bf0fe8a5e6a04c58f0.png" group-title="CANAIS: FILMES E SERIES",FX FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31276
+#EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/f3169a441bef48bf0fe8a5e6a04c58f0.png" group-title="CANAIS: FILMES E SERIES",FX HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31277
+#EXTINF:-1 tvg-id="Megapix" tvg-name="MEGAPIX FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/c5de9a473384bc07135d7287b715a65e.png" group-title="CANAIS: FILMES E SERIES",MEGAPIX FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31278
+#EXTINF:-1 tvg-id="" tvg-name="MEGAPIX HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/c5de9a473384bc07135d7287b715a65e.png" group-title="CANAIS: FILMES E SERIES",MEGAPIX HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31279
+#EXTINF:-1 tvg-id="Paramount" tvg-name="PARAMOUNT CHANNEL FULLHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Paramount.png/250px-Paramount.png" group-title="CANAIS: FILMES E SERIES",PARAMOUNT CHANNEL FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31280
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Paramount.png/250px-Paramount.png" group-title="CANAIS: FILMES E SERIES",PARAMOUNT CHANNEL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31281
+#EXTINF:-1 tvg-id="Space HD" tvg-name="SPACE FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/a10225ae050fdd1a6c849c117b65b455.png" group-title="CANAIS: FILMES E SERIES",SPACE FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31282
+#EXTINF:-1 tvg-id="" tvg-name="SPACE HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/a10225ae050fdd1a6c849c117b65b455.png" group-title="CANAIS: FILMES E SERIES",SPACE HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31283
+#EXTINF:-1 tvg-id="" tvg-name="SPACE HD*" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/cc55aa34a044ba29c6ce92fa4e8cb4db.png" group-title="CANAIS: FILMES E SERIES",SPACE HD*
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31284
+#EXTINF:-1 tvg-id="Star Channel" tvg-name="STAR CHANNEL FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/326af23f71de8af1291efd0a4c2b2020.png" group-title="CANAIS: FILMES E SERIES",STAR CHANNEL FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31285
+#EXTINF:-1 tvg-id="Star Channel" tvg-name="STAR CHANNEL HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/326af23f71de8af1291efd0a4c2b2020.png" group-title="CANAIS: FILMES E SERIES",STAR CHANNEL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31286
+#EXTINF:-1 tvg-id="Star Hits 1 HD" tvg-name="STAR HITS 1 FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/57ca4e6a99fe37f6b6b5b07501bd758c.png" group-title="CANAIS: FILMES E SERIES",STAR HITS 1 FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31287
+#EXTINF:-1 tvg-id="Star Hits 2 HD" tvg-name="STAR HITS 2 FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/3c611079075ebbcf387fe0857bed309f.png" group-title="CANAIS: FILMES E SERIES",STAR HITS 2 FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31288
+#EXTINF:-1 tvg-id="" tvg-name="STAR HITS 2 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/3c611079075ebbcf387fe0857bed309f.png" group-title="CANAIS: FILMES E SERIES",STAR HITS 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31289
+#EXTINF:-1 tvg-id="" tvg-name="STAR HITS 1 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/57ca4e6a99fe37f6b6b5b07501bd758c.png" group-title="CANAIS: FILMES E SERIES",STAR HITS 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31290
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="STUDIO UNIVERSAL FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/be6109f01571c96ae59c87bd8b7f3557.png" group-title="CANAIS: FILMES E SERIES",STUDIO UNIVERSAL FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31291
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/be6109f01571c96ae59c87bd8b7f3557.png" group-title="CANAIS: FILMES E SERIES",STUDIO UNIVERSAL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31292
+#EXTINF:-1 tvg-id="Syfy HD" tvg-name="SYFY FULL HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/5956f77e9717c20eb8e960d740a151aa.png" group-title="CANAIS: FILMES E SERIES",SYFY FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31293
+#EXTINF:-1 tvg-id="" tvg-name="SYFY HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/5956f77e9717c20eb8e960d740a151aa.png" group-title="CANAIS: FILMES E SERIES",SYFY HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31294
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS FULL HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/f7608ef829b24e84477e4867bbcaf495.png" group-title="CANAIS: FILMES E SERIES",TBS FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31295
+#EXTINF:-1 tvg-id="" tvg-name="TBS HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/f7608ef829b24e84477e4867bbcaf495.png" group-title="CANAIS: FILMES E SERIES",TBS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31296
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/35ea90f53b9ab170a70143cd66830ac8.png" group-title="CANAIS: FILMES E SERIES",TCM FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31297
+#EXTINF:-1 tvg-id="" tvg-name="TCM HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/35ea90f53b9ab170a70143cd66830ac8.png" group-title="CANAIS: FILMES E SERIES",TCM HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31298
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT FULL HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/d1706075f81ada445be89dff39e59ac5.png" group-title="CANAIS: FILMES E SERIES",TNT FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31299
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/d1706075f81ada445be89dff39e59ac5.png" group-title="CANAIS: FILMES E SERIES",TNT HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31300
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT SERIES FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/2ef2e1ecdb638722654e5abb384dfb3e.png" group-title="CANAIS: FILMES E SERIES",TNT SERIES FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31301
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/2ef2e1ecdb638722654e5abb384dfb3e.png" group-title="CANAIS: FILMES E SERIES",TNT SERIES HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31302
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="UNIVERSAL CHANNEL FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/86c9e83a355f742495861ab72c5d79ad.png" group-title="CANAIS: FILMES E SERIES",UNIVERSAL CHANNEL FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31303
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL TV HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/86c9e83a355f742495861ab72c5d79ad.png" group-title="CANAIS: FILMES E SERIES",UNIVERSAL TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31304
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="WARNER CHANNEL FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/41d1f5c5b62b7ac7de31aeb45fc48756.png" group-title="CANAIS: FILMES E SERIES",WARNER CHANNEL FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31305
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA 1" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/bc9e20a156288e0d1c218eb3d31219b5.png" group-title="CANAIS: FILMES ESPECIAIS",CINEMA 1
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31316
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA 2" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/bc9e20a156288e0d1c218eb3d31219b5.png" group-title="CANAIS: FILMES ESPECIAIS",CINEMA 2
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31317
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA 3" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/bc9e20a156288e0d1c218eb3d31219b5.png" group-title="CANAIS: FILMES ESPECIAIS",CINEMA 3
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31318
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA 4" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/bc9e20a156288e0d1c218eb3d31219b5.png" group-title="CANAIS: FILMES ESPECIAIS",CINEMA 4
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31319
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA 5" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/bc9e20a156288e0d1c218eb3d31219b5.png" group-title="CANAIS: FILMES ESPECIAIS",CINEMA 5
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31320
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA 6" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/bc9e20a156288e0d1c218eb3d31219b5.png" group-title="CANAIS: FILMES ESPECIAIS",CINEMA 6
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31321
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA 7" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/bc9e20a156288e0d1c218eb3d31219b5.png" group-title="CANAIS: FILMES ESPECIAIS",CINEMA 7
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31322
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA 8" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/bc9e20a156288e0d1c218eb3d31219b5.png" group-title="CANAIS: FILMES ESPECIAIS",CINEMA 8
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31324
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 9 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/bc9e20a156288e0d1c218eb3d31219b5.png" group-title="CANAIS: FILMES ESPECIAIS",CINE SKY 9 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31325
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hbo2b.png" group-title="CANAIS: HBO",HBO 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31460
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO FAMILY FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/c6a76d38e324e86f3f39fbbe563a9489.png" group-title="CANAIS: HBO",HBO FAMILY FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31461
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO FAMILY HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/c6a76d38e324e86f3f39fbbe563a9489.png" group-title="CANAIS: HBO",HBO FAMILY HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31462
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO FAMILY HD*" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/c6a76d38e324e86f3f39fbbe563a9489.png" group-title="CANAIS: HBO",HBO FAMILY HD*
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31463
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO FULL HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/5858c5106c4fe06d1aaf24ad4a6f4ea2.png" group-title="CANAIS: HBO",HBO FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31464
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO 1 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/5858c5106c4fe06d1aaf24ad4a6f4ea2.png" group-title="CANAIS: HBO",HBO 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31465
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/b4bf68d71ed9600419a8678be5bac6f5.png" group-title="CANAIS: HBO",HBO MUNDI FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31466
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/b4bf68d71ed9600419a8678be5bac6f5.png" group-title="CANAIS: HBO",HBO MUNDI HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31467
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/efb429f49591f00a44ea4e14e93d56a0.png" group-title="CANAIS: HBO",HBO PLUS FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31468
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/efb429f49591f00a44ea4e14e93d56a0.png" group-title="CANAIS: HBO",HBO PLUS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31469
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/dd5fef77bf84bcefb3090bac218bb40e.png" group-title="CANAIS: HBO",HBO POP FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31470
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/dd5fef77bf84bcefb3090bac218bb40e.png" group-title="CANAIS: HBO",HBO POP HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31471
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO SIGNATURE FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/b896401e01992ee8b45cd80714ebc8cd.png" group-title="CANAIS: HBO",HBO SIGNATURE FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31472
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO SIGNATURE HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/b896401e01992ee8b45cd80714ebc8cd.png" group-title="CANAIS: HBO",HBO SIGNATURE HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31473
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREAME HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/e00e9cbe768ce97cf44820db82aa96b6.png" group-title="CANAIS: HBO",HBO XTREAME HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31474
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/276d059b4fd8755fc37b6e65e28bebb2.png" group-title="CANAIS: HBO",HBO XTREME FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31475
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="BABY TV FULLHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" group-title="CANAIS: INFANTIS",BABY TV FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31476
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="BABY TV HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/39292ca1f0992baeac472dda168e98e0.png" group-title="CANAIS: INFANTIS",BABY TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31477
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/bf146b1d1d7281749d2715c20bbb9c46.png" group-title="CANAIS: INFANTIS",BOOMERANG FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31478
+#EXTINF:-1 tvg-id="Cartoon Network FHD" tvg-name="CARTOON NETWORK FULLHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/1280px-Cartoon_Network_2004_logo.svg.png" group-title="CANAIS: INFANTIS",CARTOON NETWORK FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31479
+#EXTINF:-1 tvg-id="Cartoon Network FHD H.265" tvg-name="CARTOON NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/1280px-Cartoon_Network_2004_logo.svg.png" group-title="CANAIS: INFANTIS",CARTOON NETWORK HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31480
+#EXTINF:-1 tvg-id="Discovery Kids FHD" tvg-name="DISCOVERY KIDS FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/1fba0cc9cf2d7d578fb482914b0861b8.png" group-title="CANAIS: INFANTIS",DISCOVERY KIDS FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31481
+#EXTINF:-1 tvg-id="Discovery Kids HD" tvg-name="DISCOVERY KIDS HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/1fba0cc9cf2d7d578fb482914b0861b8.png" group-title="CANAIS: INFANTIS",DISCOVERY KIDS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31482
+#EXTINF:-1 tvg-id="Discovery Channel FHD" tvg-name="DISNEY CHANNEL FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/9ebce74f862ad2d97a1979fd87df37d5.png" group-title="CANAIS: INFANTIS",DISNEY CHANNEL FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31483
+#EXTINF:-1 tvg-id="Disney Channel HD" tvg-name="DISNEY CHANNEL HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/9ebce74f862ad2d97a1979fd87df37d5.png" group-title="CANAIS: INFANTIS",DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31484
+#EXTINF:-1 tvg-id="Disney Junior HD" tvg-name="DISNEY JUNIOR FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/bfaa929c0c7c801d0a72e201e2f19513.png" group-title="CANAIS: INFANTIS",DISNEY JUNIOR FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31485
+#EXTINF:-1 tvg-id="Disney Junior HD" tvg-name="DISNEY JUNIOR HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/bfaa929c0c7c801d0a72e201e2f19513.png" group-title="CANAIS: INFANTIS",DISNEY JUNIOR HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31486
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/88d38d7e606f3407449091e3f3349861.png" group-title="CANAIS: INFANTIS",DISNEY XD FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31487
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="DISNEY XD HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/88d38d7e606f3407449091e3f3349861.png" group-title="CANAIS: INFANTIS",DISNEY XD HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31488
+#EXTINF:-1 tvg-id="Gloob FHD" tvg-name="GLOOB FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/7c8ef248f35b48190c1141213597608c.png" group-title="CANAIS: INFANTIS",GLOOB FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31491
+#EXTINF:-1 tvg-id="Gloob HD" tvg-name="GLOOB HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/7c8ef248f35b48190c1141213597608c.png" group-title="CANAIS: INFANTIS",GLOOB HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31492
+#EXTINF:-1 tvg-id="" tvg-name="LOADING TV" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/2390b3518e49cb46d70f3a1e5736e24a.png" group-title="CANAIS: INFANTIS",LOADING TV
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31494
+#EXTINF:-1 tvg-id="NatGeo Kids HD" tvg-name="NATGEO KIDS FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/6db17a155a5d586b96904e4a3887ee5a.png" group-title="CANAIS: INFANTIS",NATGEO KIDS FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31495
+#EXTINF:-1 tvg-id="NatGeo Kids HD" tvg-name="NATGEO KIDS HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/6db17a155a5d586b96904e4a3887ee5a.png" group-title="CANAIS: INFANTIS",NATGEO KIDS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31496
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/200a9f7624250db261597116d5b4b1ff.png" group-title="CANAIS: INFANTIS",NICK JR FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31497
+#EXTINF:-1 tvg-id="Nick Jr HD" tvg-name="NICK JR HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/200a9f7624250db261597116d5b4b1ff.png" group-title="CANAIS: INFANTIS",NICK JR HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31498
+#EXTINF:-1 tvg-id="Nickelodeon FHD" tvg-name="NICKELODEON FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/f19b88e6cb8cb067565bb3880b2fb3e1.png" group-title="CANAIS: INFANTIS",NICKELODEON FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31499
+#EXTINF:-1 tvg-id="Nickelodeon HD" tvg-name="NICKELODEON HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/f19b88e6cb8cb067565bb3880b2fb3e1.png" group-title="CANAIS: INFANTIS",NICKELODEON HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31500
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="TOONCAST FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/a4a3148d12157121b65a8052ed894b6e.png" group-title="CANAIS: INFANTIS",TOONCAST FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31501
+#EXTINF:-1 tvg-id="" tvg-name="TV RA TIM BUM FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/2f2442cf355274e041d6705d9a89dc11.png" group-title="CANAIS: INFANTIS",TV RA TIM BUM FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31502
+#EXTINF:-1 tvg-id="TV Ra tim bum" tvg-name="TV RA TIM BUM HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/2f2442cf355274e041d6705d9a89dc11.png" group-title="CANAIS: INFANTIS",TV RA TIM BUM HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31503
+#EXTINF:-1 tvg-id="Zoomoo [Alter]" tvg-name="ZOOMOO HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/a898f1f3d8f98f072b5c818272e1f38d.png" group-title="CANAIS: INFANTIS",ZOOMOO HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31504
+#EXTINF:-1 tvg-id="Band News" tvg-name="BAND NEWS FULLHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="CANAIS: NOTICIAS",BAND NEWS FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31506
+#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/c7fad716bdb5128ab32837e0a4e510a7.png" group-title="CANAIS: NOTICIAS",CNN BRASIL FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31508
+#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/c7fad716bdb5128ab32837e0a4e510a7.png" group-title="CANAIS: NOTICIAS",CNN BRASIL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31509
+#EXTINF:-1 tvg-id="" tvg-name="CNN ESPANHOL FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/0cc868c6a0944152161312c53b4fa4f9.png" group-title="CANAIS: NOTICIAS",CNN ESPANHOL FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31510
+#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNACIONAL FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/ea08aad287e0aa9e220607b3868bfa57.png" group-title="CANAIS: NOTICIAS",CNN INTERNACIONAL FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31511
+#EXTINF:-1 tvg-id="" tvg-name="DW DEUTSCHE" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/6abde93a29b0b98c8a047998240e3a9e.png" group-title="CANAIS: NOTICIAS",DW DEUTSCHE
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31512
+#EXTINF:-1 tvg-id="" tvg-name="DW ESPANHOL" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/6abde93a29b0b98c8a047998240e3a9e.png" group-title="CANAIS: NOTICIAS",DW ESPANHOL
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31513
+#EXTINF:-1 tvg-id="" tvg-name="FOX NEWS FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/de48ada29f411f11338a77b2d5e8dc46.png" group-title="CANAIS: NOTICIAS",FOX NEWS FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31514
+#EXTINF:-1 tvg-id="" tvg-name="FOX NEWS HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/de48ada29f411f11338a77b2d5e8dc46.png" group-title="CANAIS: NOTICIAS",FOX NEWS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31515
+#EXTINF:-1 tvg-id="Globo News" tvg-name="GLOBO NEWS HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/57a5e5b07a71dc5af380dfcee1ff6022.png" group-title="CANAIS: NOTICIAS",GLOBO NEWS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31518
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/90113a455af7577964f0bc8215e3c091.png" group-title="CANAIS: NOTICIAS",GLOBO NEWS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31519
+#EXTINF:-1 tvg-id="NHK" tvg-name="NHK JAPÃO  HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/dafcab550ebba8121dc48b28b5cf6033.png" group-title="CANAIS: NOTICIAS",NHK JAPÃO  HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31520
+#EXTINF:-1 tvg-id="" tvg-name="RAI INTERNACIONAL HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/62bc58e59744e4dde7f3d18e6d8395c8.png" group-title="CANAIS: NOTICIAS",RAI INTERNACIONAL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31521
+#EXTINF:-1 tvg-id="Record News" tvg-name="RECORD NEWS FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/3cc76d2f2b02d9356180bde549bce2a0.png" group-title="CANAIS: NOTICIAS",RECORD NEWS FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31522
+#EXTINF:-1 tvg-id="Record News" tvg-name="RECORD NEWS HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/3cc76d2f2b02d9356180bde549bce2a0.png" group-title="CANAIS: NOTICIAS",RECORD NEWS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31523
+#EXTINF:-1 tvg-id="" tvg-name="SIC INTERNACIONAL²" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/8c77d086394858fd5c7c67583aa33d99.png" group-title="CANAIS: NOTICIAS",SIC INTERNACIONAL²
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31524
+#EXTINF:-1 tvg-id="Premiere Clubes FHD" tvg-name="PREMIERE CLUBES FULL HD" tvg-logo="https://2.bp.blogspot.com/-UZaeucFWclY/Vfq9cLOaGkI/AAAAAAAAAzU/VYv_I4jvAcc/s1600/PFC.png" group-title="CANAIS: PREMIERE",PREMIERE CLUBES FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31525
+#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="PREMIERE CLUBES HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE CLUBES HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31526
+#EXTINF:-1 tvg-id="Premiere Clubes HD [Alter 2]" tvg-name="PREMIERE CLUBES HD²" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE CLUBES HD²
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31527
+#EXTINF:-1 tvg-id="Premiere 2 FHD" tvg-name="PREMIERE 2 FULL HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 2 FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31528
+#EXTINF:-1 tvg-id="Premiere 2 HD" tvg-name="PREMIERE 2 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31529
+#EXTINF:-1 tvg-id="Premiere 2 HD" tvg-name="PREMIERE 2 UHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 2 UHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31531
+#EXTINF:-1 tvg-id="Premiere 3 FHD" tvg-name="PREMIERE 3 FULL HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 3 FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31532
+#EXTINF:-1 tvg-id="Premiere 3 HD" tvg-name="PREMIERE 3 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31533
+#EXTINF:-1 tvg-id="Premiere 3 HD" tvg-name="PREMIERE 3 UHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 3 UHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31535
+#EXTINF:-1 tvg-id="Premiere 4 FHD" tvg-name="PREMIERE 4 FULL HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 4 FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31536
+#EXTINF:-1 tvg-id="Premiere 4 HD" tvg-name="PREMIERE 4 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 4 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31537
+#EXTINF:-1 tvg-id="Premiere 5 FHD" tvg-name="PREMIERE 5 FULL HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 5 FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31539
+#EXTINF:-1 tvg-id="Premiere 5 HD" tvg-name="PREMIERE 5 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 5 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31540
+#EXTINF:-1 tvg-id="Premiere 6 FHD" tvg-name="PREMIERE 6 FULL HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 6 FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31542
+#EXTINF:-1 tvg-id="Premiere 6 HD" tvg-name="PREMIERE 6 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 6 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31543
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="PREMIERE 7 FULL HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 7 FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31544
+#EXTINF:-1 tvg-id="Premiere 7 HD [Alter]" tvg-name="PREMIERE 7 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 7 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31545
+#EXTINF:-1 tvg-id="" tvg-name="POWER COUPLE BRASIL FULLHD" tvg-logo="https://1.bp.blogspot.com/-p5qPxjTQrbE/XcgPvF2YWKI/AAAAAAAAFO0/Np6YopuDNqwWkRwG0DN6e9QUUcYLkiXeQCLcBGAsYHQ/s280/logo_210x180_sn%2B%25281%2529.png" group-title="CANAIS: REALYT SHOW",POWER COUPLE BRASIL FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31547
+#EXTINF:-1 tvg-id="" tvg-name="POWER COUPLE BRASIL HD²" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/ac605bc76db63c2d63214edac71e5d3e.png" group-title="CANAIS: REALYT SHOW",POWER COUPLE BRASIL HD²
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31548
+#EXTINF:-1 tvg-id="" tvg-name="POWER COUPLE BRASIL HD³" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/ac605bc76db63c2d63214edac71e5d3e.png" group-title="CANAIS: REALYT SHOW",POWER COUPLE BRASIL HD³
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31549
+#EXTINF:-1 tvg-id="" tvg-name="POWER COUPLE BRASIL HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/ac605bc76db63c2d63214edac71e5d3e.png" group-title="CANAIS: REALYT SHOW",POWER COUPLE BRASIL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31550
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD CAMPINAS HD²" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/f38444c569dc24df0ab9c4f9911e7305.png" group-title="CANAIS: RECORD",BR: RECORD CAMPINAS HD²
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31553
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD RJ HD²" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/f38444c569dc24df0ab9c4f9911e7305.png" group-title="CANAIS: RECORD",BR: RECORD RJ HD²
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31555
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD SP HD²" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/f38444c569dc24df0ab9c4f9911e7305.png" group-title="CANAIS: RECORD",BR: RECORD SP HD²
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31556
+#EXTINF:-1 tvg-id="Record" tvg-name="RECORD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/f38444c569dc24df0ab9c4f9911e7305.png" group-title="CANAIS: RECORD",RECORD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31557
+#EXTINF:-1 tvg-id="Record" tvg-name="RECORD BAHIA HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/f38444c569dc24df0ab9c4f9911e7305.png" group-title="CANAIS: RECORD",RECORD BAHIA HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31558
+#EXTINF:-1 tvg-id="Record" tvg-name="RECORD BRASILIA" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/f38444c569dc24df0ab9c4f9911e7305.png" group-title="CANAIS: RECORD",RECORD BRASILIA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31560
+#EXTINF:-1 tvg-id="" tvg-name="RECORD BRASILIA HD¹" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/f38444c569dc24df0ab9c4f9911e7305.png" group-title="CANAIS: RECORD",RECORD BRASILIA HD¹
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31561
+#EXTINF:-1 tvg-id="Record" tvg-name="RECORD FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/f38444c569dc24df0ab9c4f9911e7305.png" group-title="CANAIS: RECORD",RECORD FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31562
+#EXTINF:-1 tvg-id="Record" tvg-name="RECORD GOIAS" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/f38444c569dc24df0ab9c4f9911e7305.png" group-title="CANAIS: RECORD",RECORD GOIAS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31563
+#EXTINF:-1 tvg-id="Record" tvg-name="RECORD MINAS HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/f38444c569dc24df0ab9c4f9911e7305.png" group-title="CANAIS: RECORD",RECORD MINAS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31565
+#EXTINF:-1 tvg-id="Record RJ" tvg-name="RECORD RJ HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/f38444c569dc24df0ab9c4f9911e7305.png" group-title="CANAIS: RECORD",RECORD RJ HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31566
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RS HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/f38444c569dc24df0ab9c4f9911e7305.png" group-title="CANAIS: RECORD",RECORD RS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31567
+#EXTINF:-1 tvg-id="" tvg-name="RECORD SP HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/f38444c569dc24df0ab9c4f9911e7305.png" group-title="CANAIS: RECORD",RECORD SP HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31568
+#EXTINF:-1 tvg-id="Record" tvg-name="RECORD¹" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/f38444c569dc24df0ab9c4f9911e7305.png" group-title="CANAIS: RECORD",RECORD¹
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31569
+#EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TV_Evangelizar_logo_2019.png" group-title="CANAIS: RELIGIOSOS",TV EVANGELIZAR
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31570
+#EXTINF:-1 tvg-id="Cancao Nova" tvg-name="CANCAO NOVA" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/9785aab110ace3b4b445d48d66c014bc.png" group-title="CANAIS: RELIGIOSOS",CANCAO NOVA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31571
+#EXTINF:-1 tvg-id="NovoTempo" tvg-name="NOVO TEMPO" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/fad7c9ee73fffcfb31e8a89487972388.png" group-title="CANAIS: RELIGIOSOS",NOVO TEMPO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31573
+#EXTINF:-1 tvg-id="" tvg-name="REDE GENISIS FHULLD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/da33be2c040ed407811cbd4a704fa569.png" group-title="CANAIS: RELIGIOSOS",REDE GENISIS FHULLD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31574
+#EXTINF:-1 tvg-id="" tvg-name="REDE GOSPEL FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/2b7e0669485ac77041a6bc8f2429aec2.png" group-title="CANAIS: RELIGIOSOS",REDE GOSPEL FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31575
+#EXTINF:-1 tvg-id="Rede Super" tvg-name="REDE SUPER FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/2f5307d317a335bf2eb42da416a21a81.png" group-title="CANAIS: RELIGIOSOS",REDE SUPER FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31576
+#EXTINF:-1 tvg-id="Rede Vida" tvg-name="REDE VIDA" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/74ecc356e9a77c6c548b05e9437949a0.png" group-title="CANAIS: RELIGIOSOS",REDE VIDA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31577
+#EXTINF:-1 tvg-id="" tvg-name="RIT FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/5f52be58b6eacc0bb3b209d1c7acdc9f.png" group-title="CANAIS: RELIGIOSOS",RIT FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31578
+#EXTINF:-1 tvg-id="TV Aparecida [Alter]" tvg-name="TV APARECIDA LIVRE" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/f1cad40f81a2f40c3c884a42a1083b47.png" group-title="CANAIS: RELIGIOSOS",TV APARECIDA LIVRE
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31579
+#EXTINF:-1 tvg-id="" tvg-name="TV GOSPEL CEARÁ" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/ea860bfd655fc4157edd1b40a66058f1.png" group-title="CANAIS: RELIGIOSOS",TV GOSPEL CEARÁ
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31580
+#EXTINF:-1 tvg-id="" tvg-name="CBTV Now" tvg-logo="" group-title="CANAIS: RELIGIOSOS",CBTV Now
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31581
+#EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="TELECINE ACTION FULL HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcactionb.png" group-title="CANAIS: TELECINE",TELECINE ACTION FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31582
+#EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="TELECINE ACTION HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/75793f999c2b92fd99177083cde18017.png" group-title="CANAIS: TELECINE",TELECINE ACTION HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31583
+#EXTINF:-1 tvg-id="Telecine Cult HD" tvg-name="TELECINE CULT FULL HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/aa9e2822814cc61a4be9f0b3b9180f00.png" group-title="CANAIS: TELECINE",TELECINE CULT FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31584
+#EXTINF:-1 tvg-id="Telecine Cult HD" tvg-name="TELECINE CULT HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/aa9e2822814cc61a4be9f0b3b9180f00.png" group-title="CANAIS: TELECINE",TELECINE CULT HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31585
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="TELECINE FUN FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/b01c2260c2330044f5cec093ca3415dc.png" group-title="CANAIS: TELECINE",TELECINE FUN FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31587
+#EXTINF:-1 tvg-id="Telecine Fun HD" tvg-name="TELECINE FUN HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/b01c2260c2330044f5cec093ca3415dc.png" group-title="CANAIS: TELECINE",TELECINE FUN HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31588
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="TELECINE PIPOCA FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/78cf91f49d0c208befeabf8ed37de67b.png" group-title="CANAIS: TELECINE",TELECINE PIPOCA FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31589
+#EXTINF:-1 tvg-id="Telecine Pipoca HD" tvg-name="TELECINE PIPOCA HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/78cf91f49d0c208befeabf8ed37de67b.png" group-title="CANAIS: TELECINE",TELECINE PIPOCA HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31590
+#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-name="TELECINE PREMIUM FULL HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/2e31ce17a394e94e2089fcf435e0c142.png" group-title="CANAIS: TELECINE",TELECINE PREMIUM FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31591
+#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-name="TELECINE PREMIUM HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/2e31ce17a394e94e2089fcf435e0c142.png" group-title="CANAIS: TELECINE",TELECINE PREMIUM HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31592
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="TELECINE TOUCH FULL HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/132fed2c428e1178f53d456fbabeb044.png" group-title="CANAIS: TELECINE",TELECINE TOUCH FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31593
+#EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="TELECINE TOUCH HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/132fed2c428e1178f53d456fbabeb044.png" group-title="CANAIS: TELECINE",TELECINE TOUCH HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31594
+#EXTINF:-1 tvg-id="Arte 1 HD [Alter]" tvg-name="Arte 1 FULLHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/1024px-Arte_1_logo.svg.png" group-title="CANAIS: VARIEDADES",Arte 1 FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31595
+#EXTINF:-1 tvg-id="BIS HD" tvg-name="BIS FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/227cee183f9b009e2f81f2f8339e281b.png" group-title="CANAIS: VARIEDADES",BIS FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31596
+#EXTINF:-1 tvg-id="BIS HD" tvg-name="BIS HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/227cee183f9b009e2f81f2f8339e281b.png" group-title="CANAIS: VARIEDADES",BIS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31597
+#EXTINF:-1 tvg-id="Example" tvg-name="CHEF TV FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/6f34b5afe74309dc18660fdcf5a397cf.png" group-title="CANAIS: VARIEDADES",CHEF TV FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31598
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="COMEDY CENTRAL FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/cde4858b66658752635d80766b1e2a6e.png" group-title="CANAIS: VARIEDADES",COMEDY CENTRAL FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31599
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="COMEDY CENTRAL HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/cde4858b66658752635d80766b1e2a6e.png" group-title="CANAIS: VARIEDADES",COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31600
+#EXTINF:-1 tvg-id="Curta" tvg-name="CURTA! FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/curta.png" group-title="CANAIS: VARIEDADES",CURTA! FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31601
+#EXTINF:-1 tvg-id="Curta HD [Alter]" tvg-name="CURTA! HD*" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/curta.png" group-title="CANAIS: VARIEDADES",CURTA! HD*
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31602
+#EXTINF:-1 tvg-id="E! Entertainment Television HD" tvg-name="E! FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/e14d89108123084cab1a44bf7ac1bad0.png" group-title="CANAIS: VARIEDADES",E! FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31604
+#EXTINF:-1 tvg-id="E! Entertainment Television HD" tvg-name="E! HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/e14d89108123084cab1a44bf7ac1bad0.png" group-title="CANAIS: VARIEDADES",E! HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31605
+#EXTINF:-1 tvg-id="Food Network HD" tvg-name="FOOD NETWORK FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/832c06ec85e08fe49d29d9afc9463e13.png" group-title="CANAIS: VARIEDADES",FOOD NETWORK FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31606
+#EXTINF:-1 tvg-id="Food Network HD" tvg-name="FOOD NETWORK HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/832c06ec85e08fe49d29d9afc9463e13.png" group-title="CANAIS: VARIEDADES",FOOD NETWORK HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31607
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/21336ce48c2cf1b3b4b6464680e6c151.png" group-title="CANAIS: VARIEDADES",GNT FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31608
+#EXTINF:-1 tvg-id="GNT HD" tvg-name="GNT HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/21336ce48c2cf1b3b4b6464680e6c151.png" group-title="CANAIS: VARIEDADES",GNT HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31609
+#EXTINF:-1 tvg-id="" tvg-name="ISAT FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/599d89a71fd2107680db91ff858f733b.png" group-title="CANAIS: VARIEDADES",ISAT FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31610
+#EXTINF:-1 tvg-id="Lifetime HD" tvg-name="LIFETIME FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/501afa9f14a6d193b483e88ae8328b91.png" group-title="CANAIS: VARIEDADES",LIFETIME FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31611
+#EXTINF:-1 tvg-id="Lifetime HD" tvg-name="LIFETIME HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/501afa9f14a6d193b483e88ae8328b91.png" group-title="CANAIS: VARIEDADES",LIFETIME HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31612
+#EXTINF:-1 tvg-id="Mais Globosat HD" tvg-name="MAIS GLOBOSAT" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/c7488d245ac86f03363f7ae31245b909.png" group-title="CANAIS: VARIEDADES",MAIS GLOBOSAT
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31613
+#EXTINF:-1 tvg-id="Mais Globosat HD" tvg-name="MAIS GLOBOSAT FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/c7488d245ac86f03363f7ae31245b909.png" group-title="CANAIS: VARIEDADES",MAIS GLOBOSAT FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31614
+#EXTINF:-1 tvg-id="MTV HD" tvg-name="MTV FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/0de2ec803fc3459380222fcd29bfbad8.png" group-title="CANAIS: VARIEDADES",MTV FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31615
+#EXTINF:-1 tvg-id="MTV HD" tvg-name="MTV HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/0de2ec803fc3459380222fcd29bfbad8.png" group-title="CANAIS: VARIEDADES",MTV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31616
+#EXTINF:-1 tvg-id="Multishow HD" tvg-name="MULTISHOW FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/664ee9f90b5808c439bd2b098f6de3c2.png" group-title="CANAIS: VARIEDADES",MULTISHOW FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31617
+#EXTINF:-1 tvg-id="Multishow" tvg-name="MULTSHOW HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/664ee9f90b5808c439bd2b098f6de3c2.png" group-title="CANAIS: VARIEDADES",MULTSHOW HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31618
+#EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="MUSIC BOX BRASIL FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/542a4912ba098a821cd8735d03da8a1b.png" group-title="CANAIS: VARIEDADES",MUSIC BOX BRASIL FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31619
+#EXTINF:-1 tvg-id="Play TV" tvg-name="PLAY TV FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/d8c4e9b7a4220393d7b99224af769b53.png" group-title="CANAIS: VARIEDADES",PLAY TV FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31620
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="PRIME BOX BRASIL FULL HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/288f181ad41fed795f4d9660f0e554df.png" group-title="CANAIS: VARIEDADES",PRIME BOX BRASIL FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31621
+#EXTINF:-1 tvg-id="" tvg-name="SHOPTIME HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/051fafd84038f7345f0e92ee558ffa08.png" group-title="CANAIS: VARIEDADES",SHOPTIME HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31622
+#EXTINF:-1 tvg-id="Star Life HD" tvg-name="STAR LIFE FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/4b2e3e73c605a033172fb82b08928d0c.png" group-title="CANAIS: VARIEDADES",STAR LIFE FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31623
+#EXTINF:-1 tvg-id="Star Life HD" tvg-name="STAR LIFE HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/4b2e3e73c605a033172fb82b08928d0c.png" group-title="CANAIS: VARIEDADES",STAR LIFE HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31624
+#EXTINF:-1 tvg-id="TruTV" tvg-name="TRU TV FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/6641ccf1119a231cfce47e2c913a3443.png" group-title="CANAIS: VARIEDADES",TRU TV FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31626
+#EXTINF:-1 tvg-id="TruTV" tvg-name="TRUTV HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/6641ccf1119a231cfce47e2c913a3443.png" group-title="CANAIS: VARIEDADES",TRUTV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31627
+#EXTINF:-1 tvg-id="VH1 HD [Alter]" tvg-name="VH1 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/6fbc8f7363282676edc9abffdbb99f5e.png" group-title="CANAIS: VARIEDADES",VH1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31628
+#EXTINF:-1 tvg-id="VH1 HD [Alter]" tvg-name="VH1 MEGA HITS FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/6fbc8f7363282676edc9abffdbb99f5e.png" group-title="CANAIS: VARIEDADES",VH1 MEGA HITS FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31629
+#EXTINF:-1 tvg-id="Viva" tvg-name="VIVA FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/5a3f61473d7a74dd439b3c132ec666fe.png" group-title="CANAIS: VARIEDADES",VIVA FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31630
+#EXTINF:-1 tvg-id="Viva HD" tvg-name="VIVA HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/5a3f61473d7a74dd439b3c132ec666fe.png" group-title="CANAIS: VARIEDADES",VIVA HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31631
+#EXTINF:-1 tvg-id="" tvg-name="THE BIG BANG THEORY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TBBT_logo.svg/828px-TBBT_logo.svg.png" group-title="CANAIS: 24HS ALTER",THE BIG BANG THEORY
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31632
+#EXTINF:-1 tvg-id="" tvg-name="Tom & Jerry" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/f744e4566e9a28722b080de69d866117.png" group-title="CANAIS: 24HS ALTER",Tom & Jerry
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31633
+#EXTINF:-1 tvg-id="" tvg-name="3 ESPIÃS DEMAIS" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/6ba2d2b3be6f6d3e11e124689cd6eeda.png" group-title="CANAIS: 24HS ALTER",3 ESPIÃS DEMAIS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31634
+#EXTINF:-1 tvg-id="" tvg-name="3 PALAVRINHAS" tvg-logo="http://51.222.46.117:80/images/d29e01bdf86931eee9dde4aad25d1940.png" group-title="CANAIS: 24HS ALTER",3 PALAVRINHAS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31635
+#EXTINF:-1 tvg-id="" tvg-name="A TURMA DO ZÉ COLMÉIA" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/d66b0807811d337f160c70e097fac514.png" group-title="CANAIS: 24HS ALTER",A TURMA DO ZÉ COLMÉIA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31636
+#EXTINF:-1 tvg-id="" tvg-name="A PANTERA COR-DE-ROSA" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/d3b3f9870ecfbaab197d185e3dffcbf3.png" group-title="CANAIS: 24HS ALTER",A PANTERA COR-DE-ROSA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31637
+#EXTINF:-1 tvg-id="" tvg-name="A PEQUENA SEREIA" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/1b224e130823455abb643cf883670136.png" group-title="CANAIS: 24HS ALTER",A PEQUENA SEREIA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31638
+#EXTINF:-1 tvg-id="" tvg-name="A PEQUENA SEREIA" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/e3cd80584c24e0d13b92c3aefe23cc9e.png" group-title="CANAIS: 24HS ALTER",A PEQUENA SEREIA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31639
+#EXTINF:-1 tvg-id="" tvg-name="A TURMA DO MANDA CHUVA" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/0ec7cb71407c1f3658fd4e5d68e1e338.png" group-title="CANAIS: 24HS ALTER",A TURMA DO MANDA CHUVA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31640
+#EXTINF:-1 tvg-id="" tvg-name="A VACA E O FRANGO" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/84ef4c6bd83ecbf8af993f267253d4c6.png" group-title="CANAIS: 24HS ALTER",A VACA E O FRANGO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31641
+#EXTINF:-1 tvg-id="" tvg-name="ALADDIN" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/1833c616f990bfac10d5d974dde4aeca.png" group-title="CANAIS: 24HS ALTER",ALADDIN
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31642
+#EXTINF:-1 tvg-id="" tvg-name="ALF, O ETEIMOSO" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/2524d198575514a830d822df724956ab.png" group-title="CANAIS: 24HS ALTER",ALF, O ETEIMOSO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31643
+#EXTINF:-1 tvg-id="" tvg-name="ANIMANIACS" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/2fc2cd454b298b9dd75ec51d96f5b240.png" group-title="CANAIS: 24HS ALTER",ANIMANIACS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31644
+#EXTINF:-1 tvg-id="" tvg-name="AS AVENTURAS DE JACKIE CHAN" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/7694fe663ca6088d31b1c5d4c41241d6.png" group-title="CANAIS: 24HS ALTER",AS AVENTURAS DE JACKIE CHAN
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31645
+#EXTINF:-1 tvg-id="" tvg-name="AS AVENTURAS DE JACKIE CHAN" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/4db0898370772dca680985d491b62ab5.png" group-title="CANAIS: 24HS ALTER",AS AVENTURAS DE JACKIE CHAN
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31646
+#EXTINF:-1 tvg-id="" tvg-name="AS AVENTURAS DE TINTIM" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/a87ff679a2f3e71d9181a67b7542122c.png" group-title="CANAIS: 24HS ALTER",AS AVENTURAS DE TINTIM
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31647
+#EXTINF:-1 tvg-id="" tvg-name="AS MENINAS SUPERPODEROSAS" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/0a4c421bf2c440dad9d22ef167b84144.png" group-title="CANAIS: 24HS ALTER",AS MENINAS SUPERPODEROSAS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31648
+#EXTINF:-1 tvg-id="" tvg-name="AS TARTARUGAS NINJAS" tvg-logo="http://51.222.46.117:80/images/92eb5ffee6ae2fec3ad71c777531578f.png" group-title="CANAIS: 24HS ALTER",AS TARTARUGAS NINJAS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31649
+#EXTINF:-1 tvg-id="" tvg-name="BABY LOONEY TUNES" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/ed12c257767a00883d0dbd28760ee52b.png" group-title="CANAIS: 24HS ALTER",BABY LOONEY TUNES
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31650
+#EXTINF:-1 tvg-id="" tvg-name="BABY LOONEY TUNES" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/ed12c257767a00883d0dbd28760ee52b.png" group-title="CANAIS: 24HS ALTER",BABY LOONEY TUNES
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31651
+#EXTINF:-1 tvg-id="" tvg-name="BATMAN - SÉRIE ANIMADA" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/2b1b4086ebb6b4792ecb6b7d7069b669.png" group-title="CANAIS: 24HS ALTER",BATMAN - SÉRIE ANIMADA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31652
+#EXTINF:-1 tvg-id="" tvg-name="BEN 10" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/891a36d72ddc473d7b3ffd60ccbe5feb.png" group-title="CANAIS: 24HS ALTER",BEN 10
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31653
+#EXTINF:-1 tvg-id="" tvg-name="BEN 10 (2005)" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/891a36d72ddc473d7b3ffd60ccbe5feb.png" group-title="CANAIS: 24HS ALTER",BEN 10 (2005)
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31654
+#EXTINF:-1 tvg-id="" tvg-name="BEN 10 OMNIVERSE" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/743ef1919b055d34e6853441bfbb0539.png" group-title="CANAIS: 24HS ALTER",BEN 10 OMNIVERSE
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31655
+#EXTINF:-1 tvg-id="" tvg-name="BIBO PAI E BOBI FILHO" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/c51ce410c124a10e0db5e4b97fc2af39.png" group-title="CANAIS: 24HS ALTER",BIBO PAI E BOBI FILHO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31656
+#EXTINF:-1 tvg-id="" tvg-name="BANANAS DE PIJAMAS" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/aeae9c93435441532b491274bec4ac0d.png" group-title="CANAIS: 24HS ALTER",BANANAS DE PIJAMAS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31657
+#EXTINF:-1 tvg-id="" tvg-name="OS THUNDERMANS" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/acdade66e20643aec134735e88515b6f.png" group-title="CANAIS: 24HS ALTER",OS THUNDERMANS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31658
+#EXTINF:-1 tvg-id="" tvg-name="BLACK KAMEN RIDER" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/743494af01eea667e0abfa5d5953454e.png" group-title="CANAIS: 24HS ALTER",BLACK KAMEN RIDER
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31659
+#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/80176ad2631747fe693d79962c1b125c.png" group-title="CANAIS: 24HS ALTER",BOB ESPONJA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31660
+#EXTINF:-1 tvg-id="" tvg-name="BOB ZOOM" tvg-logo="http://51.222.46.117:80/images/69d8642942fde75978bf8d13941beb33.png" group-title="CANAIS: 24HS ALTER",BOB ZOOM
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31661
+#EXTINF:-1 tvg-id="" tvg-name="AS MENINAS SUPER PODEROSAS" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/4250d382c26189c8daeb6b82e4d62168.jpg" group-title="CANAIS: 24HS ALTER",AS MENINAS SUPER PODEROSAS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31662
+#EXTINF:-1 tvg-id="" tvg-name="BREAKING BAD ¹" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/1806c6bb3f965fea97d25f3320d86c96.png" group-title="CANAIS: 24HS ALTER",BREAKING BAD ¹
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31663
+#EXTINF:-1 tvg-id="" tvg-name="LULUZINHA" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/8105e79955380bfa43fa8b26d9d93c9c.jpg" group-title="CANAIS: 24HS ALTER",LULUZINHA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31664
+#EXTINF:-1 tvg-id="" tvg-name="CARANGOS E MOTOCAS" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/6c9a9d750f55b34fb8d64300e50da0e1.png" group-title="CANAIS: 24HS ALTER",CARANGOS E MOTOCAS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31665
+#EXTINF:-1 tvg-id="" tvg-name="CASA DO MICKEY" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/48bc7a304d9b07944676a40d287cfc89.png" group-title="CANAIS: 24HS ALTER",CASA DO MICKEY
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31666
+#EXTINF:-1 tvg-id="" tvg-name="SCOOBY DOO" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/3efa1550342fbbedee17d4935d43d0e2.png" group-title="CANAIS: 24HS ALTER",SCOOBY DOO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31667
+#EXTINF:-1 tvg-id="" tvg-name="CAVALEIROS DO ZODÍACO - BATALHA DAS 12 CASAS" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/eeffb0e3c3754c7941d6cdef845b71eb.png" group-title="CANAIS: 24HS ALTER",CAVALEIROS DO ZODÍACO - BATALHA DAS 12 CASAS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31668
+#EXTINF:-1 tvg-id="" tvg-name="CAVALEIROS DO ZODÍACO - SAGA DE ASGARD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/eeffb0e3c3754c7941d6cdef845b71eb.png" group-title="CANAIS: 24HS ALTER",CAVALEIROS DO ZODÍACO - SAGA DE ASGARD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31669
+#EXTINF:-1 tvg-id="" tvg-name="CAVALEIROS DO ZODÍACO - SAGA DE HADES" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/eeffb0e3c3754c7941d6cdef845b71eb.png" group-title="CANAIS: 24HS ALTER",CAVALEIROS DO ZODÍACO - SAGA DE HADES
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31670
+#EXTINF:-1 tvg-id="" tvg-name="CAVALEIROS DO ZODÍACO - SAGA DE POSEIDON" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/eeffb0e3c3754c7941d6cdef845b71eb.png" group-title="CANAIS: 24HS ALTER",CAVALEIROS DO ZODÍACO - SAGA DE POSEIDON
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31671
+#EXTINF:-1 tvg-id="" tvg-name="CAVALEIROS DO ZODÍACO - SAGA SANTUÁRIO" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/eeffb0e3c3754c7941d6cdef845b71eb.png" group-title="CANAIS: 24HS ALTER",CAVALEIROS DO ZODÍACO - SAGA SANTUÁRIO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31672
+#EXTINF:-1 tvg-id="" tvg-name="CAVALO DE FOGO" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/254e05c746c7ac24b0b66be67739d74c.png" group-title="CANAIS: 24HS ALTER",CAVALO DE FOGO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31673
+#EXTINF:-1 tvg-id="" tvg-name="CAVERNA DO DRAGÃO" tvg-logo="http://51.222.46.117:80/images/5937bd9505234b866fa7e40b3cc52d63.png" group-title="CANAIS: 24HS ALTER",CAVERNA DO DRAGÃO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31674
+#EXTINF:-1 tvg-id="" tvg-name="CHAPOLIN" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/b5bf77c52a20f81917e9e7d31693a24a.png" group-title="CANAIS: 24HS ALTER",CHAPOLIN
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31675
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/11fa22bd9c5aa4a0e7f769edb69122d4.png" group-title="CANAIS: 24HS ALTER",CHAVES
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31676
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES DESENHO" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/192cac41ceec2363f2afc18724147cc7.png" group-title="CANAIS: 24HS ALTER",CHAVES DESENHO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31677
+#EXTINF:-1 tvg-id="" tvg-name="Os Padrinhos Mágicos" tvg-logo="https://e7.pngegg.com/pngimages/637/575/png-clipart-nickelodeon-cosmo-and-wanda-cosma-cartoon-drawing-others-nickelodeon-cosmo-thumbnail.png" group-title="CANAIS: 24HS ALTER",Os Padrinhos Mágicos
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31678
+#EXTINF:-1 tvg-id="" tvg-name="COMÉDIA SELVAGEM" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/62dfe069c44d5ef285458c75d0534a1a.png" group-title="CANAIS: 24HS ALTER",COMÉDIA SELVAGEM
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31679
+#EXTINF:-1 tvg-id="" tvg-name="CORAGEM CAO COVARDE" tvg-logo="http://51.222.46.117:80/images/b040df6b4facc3c57e6526ae7104fc75.png" group-title="CANAIS: 24HS ALTER",CORAGEM CAO COVARDE
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31680
+#EXTINF:-1 tvg-id="" tvg-name="DE VOLTA PARA O FUTURO" tvg-logo="https://storage.googleapis.com/makestories-202705.appspot.com/ffl7lHjirxRYJVyxQBpUO3aHKc32/unnamed.png" group-title="CANAIS: 24HS ALTER",DE VOLTA PARA O FUTURO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31681
+#EXTINF:-1 tvg-id="" tvg-name="DOIS HOMENS E MEIO" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/5608df94701fcf43bc0f55de64ac4326.png" group-title="CANAIS: 24HS ALTER",DOIS HOMENS E MEIO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31684
+#EXTINF:-1 tvg-id="" tvg-name="DRAKE E JOSH" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/4257b5c849c9f8ea85e794dbbcab19be.png" group-title="CANAIS: 24HS ALTER",DRAKE E JOSH
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31690
+#EXTINF:-1 tvg-id="" tvg-name="EU SOU O MÁXIMO" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/47dfca17be4cefdef16507bccdd3da51.png" group-title="CANAIS: 24HS ALTER",EU SOU O MÁXIMO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31695
+#EXTINF:-1 tvg-id="" tvg-name="GARFIELD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/4f9954f43d09c7cf43eda125ab2c2fac.png" group-title="CANAIS: 24HS ALTER",GARFIELD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31702
+#EXTINF:-1 tvg-id="" tvg-name="KIDS TV" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/8709d9cbe5fab7eb90889fcbcc151dc3.jpg" group-title="CANAIS: 24HS ALTER",KIDS TV
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31703
+#EXTINF:-1 tvg-id="" tvg-name="ICARLY" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/cea75a97186309c6d7ab71f8ac7c2a6e.png" group-title="CANAIS: 24HS ALTER",ICARLY
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31708
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON GOSPEL" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/dbe85364ea51ae6a8da6a886a2664bd6.png" group-title="CANAIS: 24HS ALTER",CARTOON GOSPEL
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31713
+#EXTINF:-1 tvg-id="" tvg-name="LOONEY TUNES" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/85efe2bad551cde78e8bdaf1ca4ece5f.png" group-title="CANAIS: 24HS ALTER",LOONEY TUNES
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31720
+#EXTINF:-1 tvg-id="" tvg-name="LOONEY TUNES" tvg-logo="http://51.222.46.117:80/images/84b082dc612d8ad6dfc36b8816411097.png" group-title="CANAIS: 24HS ALTER",LOONEY TUNES
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31721
+#EXTINF:-1 tvg-id="" tvg-name="MASHA E O URSO" tvg-logo="http://51.222.46.117:80/images/a110f681be78953084a356d784f45452.png" group-title="CANAIS: 24HS ALTER",MASHA E O URSO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31724
+#EXTINF:-1 tvg-id="" tvg-name="O INCRÍVEL MUNDO DE GUMBALL" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/1b4ab133f91ccf9dffff2e2b45703545.png" group-title="CANAIS: 24HS ALTER",O INCRÍVEL MUNDO DE GUMBALL
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31731
+#EXTINF:-1 tvg-id="" tvg-name="OS JOVENS TITÃS EM AÇÃO" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/c4ca4238a0b923820dcc509a6f75849b.png" group-title="CANAIS: 24HS ALTER",OS JOVENS TITÃS EM AÇÃO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31740
+#EXTINF:-1 tvg-id="" tvg-name="OS SMURFS" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/edb19479cf3a345fee911161d15a239e.png" group-title="CANAIS: 24HS ALTER",OS SMURFS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31742
+#EXTINF:-1 tvg-id="" tvg-name="PATRULHA CANINA 24H" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/69addbc18c14ec75f0a18aa8011f4ae3.png" group-title="CANAIS: 24HS ALTER",PATRULHA CANINA 24H
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31746
+#EXTINF:-1 tvg-id="" tvg-name="A CASA DO MICKEY MOUSE" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/40d71e919d1e9926c770485c9cac49a9.png" group-title="CANAIS: 24HS ALTER",A CASA DO MICKEY MOUSE
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31748
+#EXTINF:-1 tvg-id="" tvg-name="POWER RANGERS" tvg-logo="http://51.222.46.117:80/images/c2b931974cdc4dd161c379f017226ed9.png" group-title="CANAIS: 24HS ALTER",POWER RANGERS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31754
+#EXTINF:-1 tvg-id="" tvg-name="DIGIMON" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/6dff8967dfdc2e0be6133c0a8d50a932.png" group-title="CANAIS: 24HS ALTER",DIGIMON
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31757
+#EXTINF:-1 tvg-id="" tvg-name="SOBRENATURAL" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/5cafad622865c953ef43ebd7f03df760.png" group-title="CANAIS: 24HS ALTER",SOBRENATURAL
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31758
+#EXTINF:-1 tvg-id="" tvg-name="STREET FIGTHER" tvg-logo="http://51.222.46.117:80/images/0bd31b0cda59de051da19a00510db7cf.png" group-title="CANAIS: 24HS ALTER",STREET FIGTHER
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31761
+#EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CHRIS" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/e6e328104ef8a6a9d8315d8725a654e0.png" group-title="CANAIS: 24HS ALTER",TODO MUNDO ODEIA O CHRIS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31765
+#EXTINF:-1 tvg-id="" tvg-name="FÁBULAS DA DISNEY" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/092d101c0e0fcea0deece1a0565016a4.png" group-title="CANAIS: 24HS ALTER",FÁBULAS DA DISNEY
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31768
+#EXTINF:-1 tvg-id="" tvg-name="UM MALUCO NO PEDAÇO" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/images/1effbf1c22863c5e9203c1ad008f7a1d.png" group-title="CANAIS: 24HS ALTER",UM MALUCO NO PEDAÇO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/31769
 
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV RIO SUL HD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO TV RIO SUL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32155
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO² AMAZONAS SD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO² AMAZONAS SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32157
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO² ANHANGUERA GOIANIA SD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO² ANHANGUERA GOIANIA SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32158
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO² BRASILIA SD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO² BRASILIA SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32159
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO² EPTV CAMPINAS HD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO² EPTV CAMPINAS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32161
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO² INTERNACIONAL SD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO² INTERNACIONAL SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32163
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO² MINAS SD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO² MINAS SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32164
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO² NORDESTE HD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO² NORDESTE HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32165
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO² NSC FLORIANOPOLIS HD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO² NSC FLORIANOPOLIS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32167
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO² RBS PORTO ALEGRE SD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO² RBS PORTO ALEGRE SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32168
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO² RIBEIRÃO PRETO SD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO² RIBEIRÃO PRETO SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32169
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO² RJ HD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO² RJ HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32170
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO² RPC TV HD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO² RPC TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32172
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO² SP HD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO² SP HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32174
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO² SP SD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO² SP SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32175
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO² TV BAHIA SD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO² TV BAHIA SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32176
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO² TV Sergipe HD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO² TV Sergipe HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32178
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO² TV TEM BAURU SD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO² TV TEM BAURU SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32179
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO² TV Tem Rio Preto SD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO² TV Tem Rio Preto SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32180
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO² TV TEM SOROCABA SD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO² TV TEM SOROCABA SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32181
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO² TV VANGUARDA S.J DOS CAMPOS SD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO² TV VANGUARDA S.J DOS CAMPOS SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32182
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO² TV VERDES MARES FORTALEZA SD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO² TV VERDES MARES FORTALEZA SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32183
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³  NSC JOINVILLE  HDD SC" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO³  NSC JOINVILLE  HDD SC
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32184
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ BRASILIA FULL HD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO³ BRASILIA FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32191
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ CHAPECO HD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO³ CHAPECO HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32194
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ CURITIBA FULL HD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO³ CURITIBA FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32198
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ EPTV CAMPINAS FULL HD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO³ EPTV CAMPINAS FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32203
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ EPTV RIBEIRAO PRETO SD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO³ EPTV RIBEIRAO PRETO SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32206
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ FLORIANOPOLIS FULL HD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO³ FLORIANOPOLIS FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32208
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ FOZ DO IGUAÇU FULL HD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO³ FOZ DO IGUAÇU FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32215
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ FULLHD SP H.265" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO³ FULLHD SP H.265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32216
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ GAZETA SUL ALEGRE ES FULL HD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO³ GAZETA SUL ALEGRE ES FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32217
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ GAZETA VITORIA SD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO³ GAZETA VITORIA SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32220
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ GOIANIA FULL HD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO³ GOIANIA FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32221
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ GOIANIA SD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO³ GOIANIA SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32223
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ INTEGRACAO ARAXA HD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO³ INTEGRACAO ARAXA HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32224
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ INTER TV  CABUGI FULLHD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO³ INTER TV  CABUGI FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32226
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ INTER TV ALTO LITORAL FULL HD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO³ INTER TV ALTO LITORAL FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32227
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ INTER TV CABUGI SD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO³ INTER TV CABUGI SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32230
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ NORDESTE FULL HD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO³ NORDESTE FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32241
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ NSC CHAPECO FULLHD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO³ NSC CHAPECO FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32243
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ NSC JOINVILLE  FULLHD SC" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO³ NSC JOINVILLE  FULLHD SC
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32244
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ PORTO ALEGRE FULL HD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO³ PORTO ALEGRE FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32247
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ RBS TV CAXIAS DO SUL FULL HD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO³ RBS TV CAXIAS DO SUL FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32251
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ RPC MARINGA FULLHD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO³ RPC MARINGA FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32265
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ RPC PONTA GROSSA FULLHD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO³ RPC PONTA GROSSA FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32266
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ RPC TV PARANAVAI FULL HD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO³ RPC TV PARANAVAI FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32267
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ SP FULL HD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO³ SP FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32276
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ TV ASA BRANCA FULL HD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO³ TV ASA BRANCA FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32279
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ TV CABO BRANCO FULL HD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO³ TV CABO BRANCO FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32281
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ TV CENTRO AMERICA HD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO³ TV CENTRO AMERICA HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32284
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ TV CLUBE PI HD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO³ TV CLUBE PI HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32286
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ TV GAZETA ALAGOAS FULLHD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO³ TV GAZETA ALAGOAS FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32290
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ TV GAZETA VITORIA FULLHD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO³ TV GAZETA VITORIA FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32291
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ TV INTER CABUGI HD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO³ TV INTER CABUGI HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32297
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ TV MIRANTE FULL HD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO³ TV MIRANTE FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32298
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ tv mirante sd" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO³ tv mirante sd
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32300
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ TV RIO SUL FULL HD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO³ TV RIO SUL FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32301
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ TV SANTA CRUZ FULLHD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO³ TV SANTA CRUZ FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32304
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ TV SERGIPE FULL HD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO³ TV SERGIPE FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32307
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ tv sergipe sd" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO³ tv sergipe sd
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32309
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ CENTRO AMÉRICA FULLHD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO¹ CENTRO AMÉRICA FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32319
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ EPTV CAMPINAS FULL HD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO¹ EPTV CAMPINAS FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32320
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ EPTV SUL DE MINAS FULL HD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO¹ EPTV SUL DE MINAS FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32323
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ INTER TV ALTO LITORAL FULLHD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO¹ INTER TV ALTO LITORAL FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32325
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ INTER TV CABUGI FULLHD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO¹ INTER TV CABUGI FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32326
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ INTER TV DOS VALES FULLHD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO¹ INTER TV DOS VALES FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32327
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ INTER TV GRANDE MINAS FULLHD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO¹ INTER TV GRANDE MINAS FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32328
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ MINAS FULLHD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO¹ MINAS FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32330
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ MINAS HD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO¹ MINAS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32331
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ NACIONAL FULLHD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO¹ NACIONAL FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32333
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ NORDESTE FULL HD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO¹ NORDESTE FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32335
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ NSC FLORIANÓPOLIS FULL HD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO¹ NSC FLORIANÓPOLIS FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32339
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ NSC TV BLUMENAU FULLHD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO¹ NSC TV BLUMENAU FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32340
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ NSC TV CRICIÚMA FULLHD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO¹ NSC TV CRICIÚMA FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32341
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ PORTUGAL FULLHD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO¹ PORTUGAL FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32342
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ RBS CAXIAS DO SUL FULLHD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO¹ RBS CAXIAS DO SUL FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32343
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ RBS TV POA FULLHD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO¹ RBS TV POA FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32344
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ RBS TV POA HD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO¹ RBS TV POA HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32345
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ REDE AMAZONICA FULLHD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO¹ REDE AMAZONICA FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32347
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ RJ FULL HD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO¹ RJ FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32348
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ RPC CURITIBA FULLHD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO¹ RPC CURITIBA FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32351
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ RPC FOZ DO IGUAÇU FULLHD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO¹ RPC FOZ DO IGUAÇU FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32352
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ RPC MARINGÁ FULLHD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO¹ RPC MARINGÁ FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32353
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ RPC PARANAENSE FULL HD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO¹ RPC PARANAENSE FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32354
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ RPC PONTA GROSSA FULLHD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO¹ RPC PONTA GROSSA FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32356
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ RPC TV CURITIBA SD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO¹ RPC TV CURITIBA SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32357
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ SP FULL HD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO¹ SP FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32358
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ SP HD¹" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO¹ SP HD¹
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32360
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ TV ANHANGUERA FULL HD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO¹ TV ANHANGUERA FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32362
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ TV ASA BRANCA FULL HD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO¹ TV ASA BRANCA FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32365
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ TV BAHIA FULL HD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO¹ TV BAHIA FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32367
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ TV BRASILIA FULLHD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO¹ TV BRASILIA FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32370
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ TV CABO BRANCO FULLHD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO¹ TV CABO BRANCO FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32371
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ TV CENTRO AMÉRICA SD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO¹ TV CENTRO AMÉRICA SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32372
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ TV CLUBE TERESINA FULLHD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO¹ TV CLUBE TERESINA FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32373
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ TV GAZETA DE ALAGOAS FULLHD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO¹ TV GAZETA DE ALAGOAS FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32374
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ TV GAZETA ES FULLHD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO¹ TV GAZETA ES FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32375
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ TV INTEGRAÇÃO JUIZ DE FORA FULLHD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO¹ TV INTEGRAÇÃO JUIZ DE FORA FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32376
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ TV MIRANTE FULL HD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO¹ TV MIRANTE FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32380
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ TV MORENA FULL HD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO¹ TV MORENA FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32383
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ TV RECIFE FULLHD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO¹ TV RECIFE FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32386
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ TV RIO SUL FULL HD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO¹ TV RIO SUL FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32387
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ TV SANTA CRUZ FULL HD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO¹ TV SANTA CRUZ FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32389
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ TV SERGIPE FULLHD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO¹ TV SERGIPE FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32391
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO¹ TV VERDES MARES FULL HD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO¹ TV VERDES MARES FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR02[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://xcui.vitvabc.xyz:8880/287994003005/287994003005/32393
