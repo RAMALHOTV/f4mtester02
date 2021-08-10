@@ -27,1363 +27,2075 @@ https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
 
 
 
-#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E HD" tvg-logo="https://logos.servidor.tv/ae.jpg" group-title="Canais: Filme e Série",A&E HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1521
-#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E HD+" tvg-logo="https://logos.servidor.tv/ae.jpg" group-title="Canais: Filme e Série",A&E HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/375
-#EXTINF:-1 tvg-id="24h" tvg-name="3 Palavrinhas" tvg-logo="https://logos.servidor.tv/3palavrinhas.png" group-title="Canais: 24 Horas",3 Palavrinhas
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33087
-#EXTINF:-1 tvg-id="24h" tvg-name="A Grande Família" tvg-logo="https://logos.servidor.tv/agrandefamilia.png" group-title="Canais: 24 Horas",A Grande Família
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33117
-#EXTINF:-1 tvg-id="24h" tvg-name="Aeroporto Área Restrita" tvg-logo="https://logos.servidor.tv/aeroporto24h.jpg" group-title="Canais: 24 Horas",Aeroporto Área Restrita
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/32595
-#EXTINF:-1 tvg-id="" tvg-name="Agro Brasil TV HD" tvg-logo="https://logos.servidor.tv/agrobrasil.png" group-title="Canais: Aberto",Agro Brasil TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63328
-#EXTINF:-1 tvg-id="" tvg-name="Agro+ HD" tvg-logo="https://logos.servidor.tv/agromais.png" group-title="Canais: Aberto",Agro+ HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63327
-#EXTINF:-1 tvg-id="" tvg-name="AgroCanal HD+" tvg-logo="https://logos.servidor.tv/agrocanal.png" group-title="Canais: Aberto",AgroCanal HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63326
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="https://logos.servidor.tv/amc.jpg" group-title="Canais: Filme e Série",AMC HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1498
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD+" tvg-logo="https://logos.servidor.tv/amc.jpg" group-title="Canais: Filme e Série",AMC HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/373
-#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet 4K UHD" tvg-logo="https://logos.servidor.tv/animalplanet.png" group-title="Canais: 4K UHD",Animal Planet 4K UHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/56505
-#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet HD" tvg-logo="https://logos.servidor.tv/animalplanet.png" group-title="Canais: Documentário",Animal Planet HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1497
-#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet HD+" tvg-logo="https://logos.servidor.tv/animalplanet.png" group-title="Canais: Documentário",Animal Planet HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/371
-#EXTINF:-1 tvg-id="arte1.br" tvg-name="Arte 1 HD+" tvg-logo="https://logos.servidor.tv/arte1.jpg" group-title="Canais: Variedade e Música",Arte 1 HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/15
-#EXTINF:-1 tvg-id="24h" tvg-name="As Aventuras de Jackie Chan" tvg-logo="https://logos.servidor.tv/c21badd84a757ee66ed3fff17ff244b7.jpg" group-title="Canais: 24 Horas",As Aventuras de Jackie Chan
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/32589
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="https://logos.servidor.tv/axn.jpg" group-title="Canais: Filme e Série",AXN HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1496
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD+" tvg-logo="https://logos.servidor.tv/axn.jpg" group-title="Canais: Filme e Série",AXN HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/369
-#EXTINF:-1 tvg-id="babytv.br" tvg-name="Baby TV SD" tvg-logo="https://logos.servidor.tv/babytv.png" group-title="Canais: Infantil",Baby TV SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/367
-#EXTINF:-1 tvg-id="band.br" tvg-name="Band 4K UHD" tvg-logo="https://logos.servidor.tv/band.png" group-title="Canais: 4K UHD",Band 4K UHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/56512
-#EXTINF:-1 tvg-id="" tvg-name="Band Bahia HD" tvg-logo="https://logos.servidor.tv/band.png" group-title="Canais: Aberto",Band Bahia HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63324
-#EXTINF:-1 tvg-id="" tvg-name="Band Bahia HD+" tvg-logo="https://logos.servidor.tv/band.png" group-title="Canais: Aberto",Band Bahia HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63325
-#EXTINF:-1 tvg-id="" tvg-name="Band Campinas HD" tvg-logo="https://logos.servidor.tv/band.png" group-title="Canais: Aberto",Band Campinas HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63323
-#EXTINF:-1 tvg-id="band.br" tvg-name="Band SP HD" tvg-logo="https://logos.servidor.tv/band.png" group-title="Canais: Aberto",Band SP HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/489
-#EXTINF:-1 tvg-id="band.br" tvg-name="Band SP HD+" tvg-logo="https://logos.servidor.tv/band.png" group-title="Canais: Aberto",Band SP HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/484
-#EXTINF:-1 tvg-id="" tvg-name="Band Maringa HD" tvg-logo="https://logos.servidor.tv/band.png" group-title="Canais: Aberto",Band Maringa HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63322
-#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News HD" tvg-logo="https://logos.servidor.tv/bandnews.png" group-title="Canais: Notícia",Band News HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1494
-#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News HD+" tvg-logo="https://logos.servidor.tv/bandnews.png" group-title="Canais: Notícia",Band News HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/363
-#EXTINF:-1 tvg-id="" tvg-name="Band PR HD" tvg-logo="https://logos.servidor.tv/band.png" group-title="Canais: Aberto",Band PR HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63321
-#EXTINF:-1 tvg-id="" tvg-name="Band PR HD+" tvg-logo="https://logos.servidor.tv/band.png" group-title="Canais: Aberto",Band PR HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63320
-#EXTINF:-1 tvg-id="" tvg-name="Band RJ HD" tvg-logo="https://logos.servidor.tv/band.png" group-title="Canais: Aberto",Band RJ HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63319
-#EXTINF:-1 tvg-id="" tvg-name="Band SC HD" tvg-logo="https://logos.servidor.tv/band.png" group-title="Canais: Aberto",Band SC HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63318
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports HD" tvg-logo="https://logos.servidor.tv/bandsports.png" group-title="Canais: Esporte",Band Sports HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1495
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports HD+" tvg-logo="https://logos.servidor.tv/bandsports.png" group-title="Canais: Esporte",Band Sports HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/360
-#EXTINF:-1 tvg-id="24h" tvg-name="Beastars" tvg-logo="https://logos.servidor.tv/beastars.png" group-title="Canais: 24 Horas",Beastars
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33088
-#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD" tvg-logo="https://logos.servidor.tv/bis.png" group-title="Canais: Variedade e Música",BIS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1493
-#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD+" tvg-logo="https://logos.servidor.tv/bis.png" group-title="Canais: Variedade e Música",BIS HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/358
-#EXTINF:-1 tvg-id="24h" tvg-name="Bleach" tvg-logo="https://logos.servidor.tv/bleach.png" group-title="Canais: 24 Horas",Bleach
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33089
-#EXTINF:-1 tvg-id="" tvg-name="Boa Vontade HD+" tvg-logo="https://logos.servidor.tv/boavontade.jpg" group-title="Canais: Religião",Boa Vontade HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/53499
-#EXTINF:-1 tvg-id="Boa Vontade TV (BR)" tvg-name="Boa Vontade SD" tvg-logo="https://logos.servidor.tv/boavontade.jpg" group-title="Canais: Religião",Boa Vontade SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/22508
-#EXTINF:-1 tvg-id="24h" tvg-name="Bob Esponja" tvg-logo="https://logos.servidor.tv/94336a363c529a5350ce2e50ccb49e5b.jpg" group-title="Canais: 24 Horas",Bob Esponja
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/32590
-#EXTINF:-1 tvg-id="24h" tvg-name="Boku no Hero Academia" tvg-logo="https://logos.servidor.tv/bokunoheroacademia.png" group-title="Canais: 24 Horas",Boku no Hero Academia
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33090
-#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang HD" tvg-logo="https://logos.servidor.tv/boomerang.png" group-title="Canais: Infantil",Boomerang HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1492
-#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang HD+" tvg-logo="https://logos.servidor.tv/boomerang.png" group-title="Canais: Infantil",Boomerang HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/355
-#EXTINF:-1 tvg-id="24h" tvg-name="Boruto" tvg-logo="https://logos.servidor.tv/boruto.png" group-title="Canais: 24 Horas",Boruto
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33091
-#EXTINF:-1 tvg-id="" tvg-name="Canal 26 Argentina HD" tvg-logo="https://logos.servidor.tv/canal26.png" group-title="Canais: Notícia",Canal 26 Argentina HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63317
-#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="Canal Brasil HD" tvg-logo="https://logos.servidor.tv/canalbrasil.jpg" group-title="Canais: Filme e Série",Canal Brasil HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/353
-#EXTINF:-1 tvg-id="Canal do Boi (BR)" tvg-name="Canal do Boi HD" tvg-logo="https://logos.servidor.tv/canaldoboi.png" group-title="Canais: Aberto",Canal do Boi HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/29771
-#EXTINF:-1 tvg-id="Canal Rural" tvg-name="Canal Rural HD" tvg-logo="https://logos.servidor.tv/canalrural.gif" group-title="Canais: Aberto",Canal Rural HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/29770
-#EXTINF:-1 tvg-id="cancaonova.br" tvg-name="Canção Nova HD+" tvg-logo="https://logos.servidor.tv/754f20fd138da4ac2265060e8284d736.png" group-title="Canais: Religião",Canção Nova HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/53496
-#EXTINF:-1 tvg-id="cancaonova.br" tvg-name="Canção Nova SD" tvg-logo="https://logos.servidor.tv/754f20fd138da4ac2265060e8284d736.png" group-title="Canais: Religião",Canção Nova SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33237
-#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network 4K UHD" tvg-logo="https://logos.servidor.tv/cartoonnetwork.jpg" group-title="Canais: 4K UHD",Cartoon Network 4K UHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/56502
-#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network HD" tvg-logo="https://logos.servidor.tv/cartoonnetwork.jpg" group-title="Canais: Infantil",Cartoon Network HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1491
-#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network HD+" tvg-logo="https://logos.servidor.tv/cartoonnetwork.jpg" group-title="Canais: Infantil",Cartoon Network HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/349
-#EXTINF:-1 tvg-id="24h" tvg-name="Caverna do Dragão" tvg-logo="https://logos.servidor.tv/cavernadodragao.png" group-title="Canais: 24 Horas",Caverna do Dragão
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33092
-#EXTINF:-1 tvg-id="" tvg-name="CGTN SD" tvg-logo="https://logos.servidor.tv/cgtn.png" group-title="Canais: Notícia",CGTN SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63316
-#EXTINF:-1 tvg-id="24h" tvg-name="Chaves" tvg-logo="https://logos.servidor.tv/lQFO5cPoYfKrACayWItroAi1Wdp_small.jpg" group-title="Canais: 24 Horas",Chaves
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/32626
-#EXTINF:-1 tvg-id="cheftv.br" tvg-name="Chef TV HD" tvg-logo="https://logos.servidor.tv/cheftv.png" group-title="Canais: Variedade e Música",Chef TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/53518
-#EXTINF:-1 tvg-id="cheftv.br" tvg-name="Chef TV HD+" tvg-logo="https://logos.servidor.tv/cheftv.png" group-title="Canais: Variedade e Música",Chef TV HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/53519
-#EXTINF:-1 tvg-id="" tvg-name="Cine Brasil HD" tvg-logo="https://logos.servidor.tv/cinebrasil.png" group-title="Canais: Filme e Série",Cine Brasil HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63315
-#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 1" tvg-logo="https://logos.servidor.tv/e0246efd75ac37eefbf6f2ec1d7e2e15.png" group-title="Canais: Cine SKY",CINE SKY 1
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33230
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10" tvg-logo="https://logos.servidor.tv/e0246efd75ac37eefbf6f2ec1d7e2e15.png" group-title="Canais: Cine SKY",CINE SKY 10
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63312
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 11" tvg-logo="https://logos.servidor.tv/e0246efd75ac37eefbf6f2ec1d7e2e15.png" group-title="Canais: Cine SKY",CINE SKY 11
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63311
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 12" tvg-logo="https://logos.servidor.tv/e0246efd75ac37eefbf6f2ec1d7e2e15.png" group-title="Canais: Cine SKY",CINE SKY 12
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63310
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 13" tvg-logo="https://logos.servidor.tv/e0246efd75ac37eefbf6f2ec1d7e2e15.png" group-title="Canais: Cine SKY",CINE SKY 13
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63309
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 14" tvg-logo="https://logos.servidor.tv/e0246efd75ac37eefbf6f2ec1d7e2e15.png" group-title="Canais: Cine SKY",CINE SKY 14
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63308
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 15" tvg-logo="https://logos.servidor.tv/e0246efd75ac37eefbf6f2ec1d7e2e15.png" group-title="Canais: Cine SKY",CINE SKY 15
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63307
-#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 2" tvg-logo="https://logos.servidor.tv/e0246efd75ac37eefbf6f2ec1d7e2e15.png" group-title="Canais: Cine SKY",CINE SKY 2
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33231
-#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 3" tvg-logo="https://logos.servidor.tv/e0246efd75ac37eefbf6f2ec1d7e2e15.png" group-title="Canais: Cine SKY",CINE SKY 3
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33232
-#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 4" tvg-logo="https://logos.servidor.tv/e0246efd75ac37eefbf6f2ec1d7e2e15.png" group-title="Canais: Cine SKY",CINE SKY 4
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33233
-#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 5" tvg-logo="https://logos.servidor.tv/e0246efd75ac37eefbf6f2ec1d7e2e15.png" group-title="Canais: Cine SKY",CINE SKY 5
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33234
-#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 6" tvg-logo="https://logos.servidor.tv/e0246efd75ac37eefbf6f2ec1d7e2e15.png" group-title="Canais: Cine SKY",CINE SKY 6
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33235
-#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 7" tvg-logo="https://logos.servidor.tv/e0246efd75ac37eefbf6f2ec1d7e2e15.png" group-title="Canais: Cine SKY",CINE SKY 7
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33236
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 8" tvg-logo="https://logos.servidor.tv/e0246efd75ac37eefbf6f2ec1d7e2e15.png" group-title="Canais: Cine SKY",CINE SKY 8
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63314
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 9" tvg-logo="https://logos.servidor.tv/e0246efd75ac37eefbf6f2ec1d7e2e15.png" group-title="Canais: Cine SKY",CINE SKY 9
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63313
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax HD" tvg-logo="https://logos.servidor.tv/cinemax.png" group-title="Canais: Filme e Série",Cinemax HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1490
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax HD+" tvg-logo="https://logos.servidor.tv/cinemax.png" group-title="Canais: Filme e Série",Cinemax HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/347
-#EXTINF:-1 tvg-id="24h" tvg-name="Clássicos Walt Disney" tvg-logo="https://logos.servidor.tv/054cb580da77a3a7cf0579d0fc2dcbc0.jpg" group-title="Canais: 24 Horas",Clássicos Walt Disney
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/32624
-#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN Brasil HD" tvg-logo="https://logos.servidor.tv/cnnbrasil.png" group-title="Canais: Notícia",CNN Brasil HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/21417
-#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN Brasil HD+" tvg-logo="https://logos.servidor.tv/cnnbrasil.png" group-title="Canais: Notícia",CNN Brasil HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/21418
-#EXTINF:-1 tvg-id="cnnespanol.us" tvg-name="CNN Espanhol SD" tvg-logo="https://logos.servidor.tv/CNN.png" group-title="Canais: Notícia",CNN Espanhol SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/345
-#EXTINF:-1 tvg-id="cnninternational.us" tvg-name="CNN Internacional SD" tvg-logo="https://logos.servidor.tv/CNN.png" group-title="Canais: Notícia",CNN Internacional SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/344
-#EXTINF:-1 tvg-id="cnt.br" tvg-name="CNT HD+" tvg-logo="https://logos.servidor.tv/cnt.png" group-title="Canais: Variedade e Música",CNT HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/53497
-#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate 4K UHD" tvg-logo="https://logos.servidor.tv/combate.jpg" group-title="Canais: 4K UHD",Combate 4K UHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/56511
-#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate HD" tvg-logo="https://logos.servidor.tv/combate.jpg" group-title="Canais: Esporte",Combate HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1489
-#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate HD+" tvg-logo="https://logos.servidor.tv/combate.jpg" group-title="Canais: Esporte",Combate HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/342
-#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central HD" tvg-logo="https://logos.servidor.tv/comedycentral.jpg" group-title="Canais: Filme e Série",Comedy Central HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1488
-#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central HD+" tvg-logo="https://logos.servidor.tv/comedycentral.jpg" group-title="Canais: Filme e Série",Comedy Central HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/340
-#EXTINF:-1 tvg-id="Conmebol" tvg-name="Conmebol 1 4K UHD" tvg-logo="https://logos.servidor.tv/conmebol.png" group-title="Canais: 4K UHD",Conmebol 1 4K UHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/56486
-#EXTINF:-1 tvg-id="Conmebol" tvg-name="Conmebol 1 HD" tvg-logo="https://logos.servidor.tv/conmebol.png" group-title="Canais: Esporte",Conmebol 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33267
-#EXTINF:-1 tvg-id="Conmebol" tvg-name="Conmebol 1 HD+" tvg-logo="https://logos.servidor.tv/conmebol.png" group-title="Canais: Esporte",Conmebol 1 HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33271
-#EXTINF:-1 tvg-id="Conmebol" tvg-name="Conmebol 2 HD" tvg-logo="https://logos.servidor.tv/conmebol.png" group-title="Canais: Esporte",Conmebol 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33268
-#EXTINF:-1 tvg-id="Conmebol" tvg-name="Conmebol 2 HD+" tvg-logo="https://logos.servidor.tv/conmebol.png" group-title="Canais: Esporte",Conmebol 2 HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33272
-#EXTINF:-1 tvg-id="Conmebol" tvg-name="Conmebol 3 HD" tvg-logo="https://logos.servidor.tv/conmebol.png" group-title="Canais: Esporte",Conmebol 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33269
-#EXTINF:-1 tvg-id="Conmebol" tvg-name="Conmebol 3 HD+" tvg-logo="https://logos.servidor.tv/conmebol.png" group-title="Canais: Esporte",Conmebol 3 HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33273
-#EXTINF:-1 tvg-id="Conmebol" tvg-name="Conmebol 4 HD" tvg-logo="https://logos.servidor.tv/conmebol.png" group-title="Canais: Esporte",Conmebol 4 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33270
-#EXTINF:-1 tvg-id="Conmebol" tvg-name="Conmebol 4 HD+" tvg-logo="https://logos.servidor.tv/conmebol.png" group-title="Canais: Esporte",Conmebol 4 HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33274
-#EXTINF:-1 tvg-id="Copa Nordeste" tvg-name="Copa Nordeste 1 HD" tvg-logo="https://logos.servidor.tv/copanordeste.png" group-title="Canais: Esporte PPV",Copa Nordeste 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/55196
-#EXTINF:-1 tvg-id="Copa Nordeste" tvg-name="Copa Nordeste 2 HD" tvg-logo="https://logos.servidor.tv/copanordeste.png" group-title="Canais: Esporte PPV",Copa Nordeste 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/55194
-#EXTINF:-1 tvg-id="Copa Nordeste" tvg-name="Copa Nordeste 3 HD" tvg-logo="https://logos.servidor.tv/copanordeste.png" group-title="Canais: Esporte PPV",Copa Nordeste 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/55195
-#EXTINF:-1 tvg-id="Copa Nordeste" tvg-name="Copa Nordeste 4 HD" tvg-logo="https://logos.servidor.tv/copanordeste.png" group-title="Canais: Esporte PPV",Copa Nordeste 4 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/55193
-#EXTINF:-1 tvg-id="Copa Nordeste" tvg-name="Copa Nordeste 5 HD" tvg-logo="https://logos.servidor.tv/copanordeste.png" group-title="Canais: Esporte PPV",Copa Nordeste 5 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/55192
-#EXTINF:-1 tvg-id="Copa Nordeste" tvg-name="Copa Nordeste 6 HD" tvg-logo="https://logos.servidor.tv/copanordeste.png" group-title="Canais: Esporte PPV",Copa Nordeste 6 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/55191
-#EXTINF:-1 tvg-id="curta.br" tvg-name="Curta! SD" tvg-logo="https://logos.servidor.tv/curta.png" group-title="Canais: Variedade e Música",Curta! SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/338
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="https://logos.servidor.tv/dazn.jpg" group-title="Canais: Esporte PPV",DAZN 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63306
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD" tvg-logo="https://logos.servidor.tv/dazn.jpg" group-title="Canais: Esporte PPV",DAZN 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63305
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 HD" tvg-logo="https://logos.servidor.tv/dazn.jpg" group-title="Canais: Esporte PPV",DAZN 4 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63304
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 5 HD" tvg-logo="https://logos.servidor.tv/dazn.jpg" group-title="Canais: Esporte PPV",DAZN 5 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63303
-#EXTINF:-1 tvg-id="Live: DAZN" tvg-name="DAZN HD" tvg-logo="https://logos.servidor.tv/dazn.jpg" group-title="Canais: Esporte PPV",DAZN HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/2716
-#EXTINF:-1 tvg-id="" tvg-name="DC Comics 01 HD" tvg-logo="https://logos.servidor.tv/dccomics.png" group-title="Canais: Filme e Série",DC Comics 01 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63302
-#EXTINF:-1 tvg-id="" tvg-name="DC Comics 02 HD" tvg-logo="https://logos.servidor.tv/dccomics.png" group-title="Canais: Filme e Série",DC Comics 02 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63301
-#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel 4K UHD" tvg-logo="https://logos.servidor.tv/discoverychannel.png" group-title="Canais: 4K UHD",Discovery Channel 4K UHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/56508
-#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel HD" tvg-logo="https://logos.servidor.tv/discoverychannel.png" group-title="Canais: Documentário",Discovery Channel HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1487
-#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel HD+" tvg-logo="https://logos.servidor.tv/discoverychannel.png" group-title="Canais: Documentário",Discovery Channel HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/337
-#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery Home & Health HD" tvg-logo="https://logos.servidor.tv/discoveryhomehealth.jpg" group-title="Canais: Variedade e Música",Discovery Home & Health HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1518
-#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery Home & Health HD+" tvg-logo="https://logos.servidor.tv/discoveryhomehealth.jpg" group-title="Canais: Variedade e Música",Discovery Home & Health HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/334
-#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids HD" tvg-logo="https://logos.servidor.tv/discoverykids.jpg" group-title="Canais: Infantil",Discovery Kids HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1483
-#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids HD+" tvg-logo="https://logos.servidor.tv/discoverykids.jpg" group-title="Canais: Infantil",Discovery Kids HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/332
-#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science HD" tvg-logo="https://logos.servidor.tv/discoveryscience.jpg" group-title="Canais: Documentário",Discovery Science HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1482
-#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science HD+" tvg-logo="https://logos.servidor.tv/discoveryscience.jpg" group-title="Canais: Documentário",Discovery Science HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/330
-#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater HD" tvg-logo="https://logos.servidor.tv/discoverytheater.png" group-title="Canais: Documentário",Discovery Theater HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1486
-#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater HD+" tvg-logo="https://logos.servidor.tv/discoverytheater.png" group-title="Canais: Documentário",Discovery Theater HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/329
-#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo HD" tvg-logo="https://logos.servidor.tv/discoveryturbo.jpg" group-title="Canais: Documentário",Discovery Turbo HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1481
-#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo HD+" tvg-logo="https://logos.servidor.tv/discoveryturbo.jpg" group-title="Canais: Documentário",Discovery Turbo HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/328
-#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World HD" tvg-logo="https://logos.servidor.tv/discoveryworld.jpg" group-title="Canais: Documentário",Discovery World HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1485
-#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World HD+" tvg-logo="https://logos.servidor.tv/discoveryworld.jpg" group-title="Canais: Documentário",Discovery World HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/326
-#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel HD" tvg-logo="https://logos.servidor.tv/disneychannel.png" group-title="Canais: Infantil",Disney Channel HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1480
-#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel HD+" tvg-logo="https://logos.servidor.tv/disneychannel.png" group-title="Canais: Infantil",Disney Channel HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/325
-#EXTINF:-1 tvg-id="disneyjunior.br" tvg-name="Disney Júnior HD" tvg-logo="https://logos.servidor.tv/disneyjr.png" group-title="Canais: Infantil",Disney Júnior HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1478
-#EXTINF:-1 tvg-id="disneyjunior.br" tvg-name="Disney Júnior HD+" tvg-logo="https://logos.servidor.tv/disneyjr.png" group-title="Canais: Infantil",Disney Júnior HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/323
-#EXTINF:-1 tvg-id="disneyxd.br" tvg-name="Disney XD HD" tvg-logo="https://logos.servidor.tv/disneyxd.png" group-title="Canais: Infantil",Disney XD HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1517
-#EXTINF:-1 tvg-id="disneyxd.br" tvg-name="Disney XD HD+" tvg-logo="https://logos.servidor.tv/disneyxd.png" group-title="Canais: Infantil",Disney XD HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/683
-#EXTINF:-1 tvg-id="" tvg-name="Djing Music TV SD" tvg-logo="https://logos.servidor.tv/djing.png" group-title="Canais: Variedade e Música",Djing Music TV SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63300
-#EXTINF:-1 tvg-id="dogtv.br" tvg-name="DOG TV HD" tvg-logo="https://logos.servidor.tv/63a48035d178489bb3e9d42c8d5284bc.png" group-title="Canais: Variedade e Música",DOG TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33239
-#EXTINF:-1 tvg-id="dogtv.br" tvg-name="DOG TV HD+" tvg-logo="https://logos.servidor.tv/63a48035d178489bb3e9d42c8d5284bc.png" group-title="Canais: Variedade e Música",DOG TV HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33238
-#EXTINF:-1 tvg-id="24h" tvg-name="Dois Homens e Meio" tvg-logo="https://logos.servidor.tv/doishomensemeio.png" group-title="Canais: 24 Horas",Dois Homens e Meio
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33113
-#EXTINF:-1 tvg-id="24h" tvg-name="Dragon Ball" tvg-logo="https://logos.servidor.tv/dragonball.png" group-title="Canais: 24 Horas",Dragon Ball
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33093
-#EXTINF:-1 tvg-id="24h" tvg-name="Dragon Ball GT" tvg-logo="https://logos.servidor.tv/dragonballgt.png" group-title="Canais: 24 Horas",Dragon Ball GT
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33094
-#EXTINF:-1 tvg-id="24h" tvg-name="Dragon Ball Heroes" tvg-logo="https://logos.servidor.tv/a0ecbc19e5c854d3115005d7ae47990c.png" group-title="Canais: 24 Horas",Dragon Ball Heroes
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/32594
-#EXTINF:-1 tvg-id="24h" tvg-name="Dragon Ball Super" tvg-logo="https://logos.servidor.tv/412d425881bd5b03aa049f1ba655143c.jpg" group-title="Canais: 24 Horas",Dragon Ball Super
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/32623
-#EXTINF:-1 tvg-id="24h" tvg-name="Dragon Ball Z" tvg-logo="https://logos.servidor.tv/726264f3487200fc4a50d834a7bae713.jpg" group-title="Canais: 24 Horas",Dragon Ball Z
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/32622
-#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! HD" tvg-logo="https://logos.servidor.tv/e.png" group-title="Canais: Variedade e Música",E! HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/318
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Mycujoo HD" tvg-logo="https://logos.servidor.tv/mycujoo.png" group-title="Canais: Esporte PPV",Eleven Mycujoo HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63159
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 1 HD" tvg-logo="https://logos.servidor.tv/elevensports.png" group-title="Canais: Esporte PPV",Eleven Sports 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63158
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 10 HD" tvg-logo="https://logos.servidor.tv/elevensports.png" group-title="Canais: Esporte PPV",Eleven Sports 10 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63969
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 11 HD" tvg-logo="https://logos.servidor.tv/elevensports.png" group-title="Canais: Esporte PPV",Eleven Sports 11 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63968
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 12 HD" tvg-logo="https://logos.servidor.tv/elevensports.png" group-title="Canais: Esporte PPV",Eleven Sports 12 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63967
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 13 HD" tvg-logo="https://logos.servidor.tv/elevensports.png" group-title="Canais: Esporte PPV",Eleven Sports 13 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63966
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 14 HD" tvg-logo="https://logos.servidor.tv/elevensports.png" group-title="Canais: Esporte PPV",Eleven Sports 14 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63965
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 15 HD" tvg-logo="https://logos.servidor.tv/elevensports.png" group-title="Canais: Esporte PPV",Eleven Sports 15 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63964
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 16 HD" tvg-logo="https://logos.servidor.tv/elevensports.png" group-title="Canais: Esporte PPV",Eleven Sports 16 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63963
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 17 HD" tvg-logo="https://logos.servidor.tv/elevensports.png" group-title="Canais: Esporte PPV",Eleven Sports 17 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63962
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 18 HD" tvg-logo="https://logos.servidor.tv/elevensports.png" group-title="Canais: Esporte PPV",Eleven Sports 18 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63961
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 19 HD" tvg-logo="https://logos.servidor.tv/elevensports.png" group-title="Canais: Esporte PPV",Eleven Sports 19 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63960
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 2 HD" tvg-logo="https://logos.servidor.tv/elevensports.png" group-title="Canais: Esporte PPV",Eleven Sports 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63157
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 3 HD" tvg-logo="https://logos.servidor.tv/elevensports.png" group-title="Canais: Esporte PPV",Eleven Sports 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63156
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 4 HD" tvg-logo="https://logos.servidor.tv/elevensports.png" group-title="Canais: Esporte PPV",Eleven Sports 4 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63154
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 5 HD" tvg-logo="https://logos.servidor.tv/elevensports.png" group-title="Canais: Esporte PPV",Eleven Sports 5 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63152
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 6 HD" tvg-logo="https://logos.servidor.tv/elevensports.png" group-title="Canais: Esporte PPV",Eleven Sports 6 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63150
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 7 HD" tvg-logo="https://logos.servidor.tv/elevensports.png" group-title="Canais: Esporte PPV",Eleven Sports 7 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63972
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 8 HD" tvg-logo="https://logos.servidor.tv/elevensports.png" group-title="Canais: Esporte PPV",Eleven Sports 8 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63971
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 9 HD" tvg-logo="https://logos.servidor.tv/elevensports.png" group-title="Canais: Esporte PPV",Eleven Sports 9 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63970
-#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 HD" tvg-logo="https://logos.servidor.tv/espn.jpg" group-title="Canais: Esporte",ESPN 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1476
-#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 HD+" tvg-logo="https://logos.servidor.tv/espn.jpg" group-title="Canais: Esporte",ESPN 2 HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/314
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 4K UHD" tvg-logo="https://logos.servidor.tv/espn.jpg" group-title="Canais: 4K UHD",ESPN 4K UHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/56498
-#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN Brasil HD" tvg-logo="https://logos.servidor.tv/espnbrasil.png" group-title="Canais: Esporte",ESPN Brasil HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1475
-#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN Brasil HD+" tvg-logo="https://logos.servidor.tv/espnbrasil.png" group-title="Canais: Esporte",ESPN Brasil HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/313
-#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN Extra HD+" tvg-logo="https://logos.servidor.tv/espnextra.png" group-title="Canais: Esporte",ESPN Extra HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/311
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD" tvg-logo="https://logos.servidor.tv/espn.jpg" group-title="Canais: Esporte",ESPN HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1477
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD+" tvg-logo="https://logos.servidor.tv/espn.jpg" group-title="Canais: Esporte",ESPN HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/309
-#EXTINF:-1 tvg-id="" tvg-name="Estadio TNT Sports 1 HD" tvg-logo="https://logos.servidor.tv/tntsport.png" group-title="Canais: Esporte PPV",Estadio TNT Sports 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63299
-#EXTINF:-1 tvg-id="" tvg-name="Estadio TNT Sports 2 HD" tvg-logo="https://logos.servidor.tv/tntsport.png" group-title="Canais: Esporte PPV",Estadio TNT Sports 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63298
-#EXTINF:-1 tvg-id="" tvg-name="Estadio TNT Sports 3 HD" tvg-logo="https://logos.servidor.tv/tntsport.png" group-title="Canais: Esporte PPV",Estadio TNT Sports 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63297
-#EXTINF:-1 tvg-id="" tvg-name="Estadio TNT Sports 4 HD" tvg-logo="https://logos.servidor.tv/tntsport.png" group-title="Canais: Esporte PPV",Estadio TNT Sports 4 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63296
-#EXTINF:-1 tvg-id="" tvg-name="Estadio TNT Sports 5 HD" tvg-logo="https://logos.servidor.tv/tntsport.png" group-title="Canais: Esporte PPV",Estadio TNT Sports 5 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63295
-#EXTINF:-1 tvg-id="" tvg-name="Estadio TNT Sports 6 HD" tvg-logo="https://logos.servidor.tv/tntsport.png" group-title="Canais: Esporte PPV",Estadio TNT Sports 6 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63294
-#EXTINF:-1 tvg-id="24h" tvg-name="Eu a Patroa e as Crianças" tvg-logo="https://logos.servidor.tv/83adf16b5322c408d16b68278723a3f5.jpg" group-title="Canais: 24 Horas",Eu a Patroa e as Crianças
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/32621
-#EXTINF:-1 tvg-id="24h" tvg-name="Family Guy 24H" tvg-logo="https://logos.servidor.tv/familyguy.png" group-title="Canais: 24 Horas",Family Guy 24H
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/56540
-#EXTINF:-1 tvg-id="fashiontv.br" tvg-name="Fashion TV HD" tvg-logo="https://logos.servidor.tv/48c7565704e030003fd1d40a1ad4c166.png" group-title="Canais: Variedade e Música",Fashion TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33241
-#EXTINF:-1 tvg-id="fashiontv.br" tvg-name="Fashion TV HD+" tvg-logo="https://logos.servidor.tv/48c7565704e030003fd1d40a1ad4c166.png" group-title="Canais: Variedade e Música",Fashion TV HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33240
-#EXTINF:-1 tvg-id="film-arts" tvg-name="Film & Arts HD+" tvg-logo="https://logos.servidor.tv/bcd000ebc7d21ef2d78616d2671a16ee.png" group-title="Canais: Variedade e Música",Film & Arts HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33242
-#EXTINF:-1 tvg-id="film-arts" tvg-name="Film & Arts SD" tvg-logo="https://logos.servidor.tv/bcd000ebc7d21ef2d78616d2671a16ee.png" group-title="Canais: Variedade e Música",Film & Arts SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33243
-#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV SD" tvg-logo="https://logos.servidor.tv/fishtv.jpg" group-title="Canais: Variedade e Música",Fish TV SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/307
-#EXTINF:-1 tvg-id="" tvg-name="FlaTV HD" tvg-logo="https://logos.servidor.tv/flatv.jpg" group-title="Canais: Esporte PPV",FlaTV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63148
-#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="Food Network HD" tvg-logo="https://logos.servidor.tv/foodnetwork.png" group-title="Canais: Variedade e Música",Food Network HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1474
-#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="Food Network HD+" tvg-logo="https://logos.servidor.tv/foodnetwork.png" group-title="Canais: Variedade e Música",Food Network HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/306
-#EXTINF:-1 tvg-id="" tvg-name="Formula 1 TV HD" tvg-logo="https://logos.servidor.tv/f1.png" group-title="Canais: Esporte PPV",Formula 1 TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63293
-#EXTINF:-1 tvg-id="foxnews.us" tvg-name="Fox News HD" tvg-logo="https://logos.servidor.tv/foxnews.png" group-title="Canais: Notícia",Fox News HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/53516
-#EXTINF:-1 tvg-id="foxnews.us" tvg-name="Fox News HD+" tvg-logo="https://logos.servidor.tv/foxnews.png" group-title="Canais: Notícia",Fox News HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/53515
-#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="Fox Sports 2 4K UHD" tvg-logo="https://logos.servidor.tv/foxsports2.jpg" group-title="Canais: 4K UHD",Fox Sports 2 4K UHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/56500
-#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="Fox Sports 2 HD" tvg-logo="https://logos.servidor.tv/foxsports2.jpg" group-title="Canais: Esporte",Fox Sports 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1501
-#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="Fox Sports 2 HD+" tvg-logo="https://logos.servidor.tv/foxsports2.jpg" group-title="Canais: Esporte",Fox Sports 2 HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/300
-#EXTINF:-1 tvg-id="foxsports.br" tvg-name="Fox Sports 4K UHD" tvg-logo="https://logos.servidor.tv/foxsports.png" group-title="Canais: 4K UHD",Fox Sports 4K UHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/56507
-#EXTINF:-1 tvg-id="foxsports.br" tvg-name="Fox Sports HD" tvg-logo="https://logos.servidor.tv/foxsports.png" group-title="Canais: Esporte",Fox Sports HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1502
-#EXTINF:-1 tvg-id="foxsports.br" tvg-name="Fox Sports HD+" tvg-logo="https://logos.servidor.tv/foxsports.png" group-title="Canais: Esporte",Fox Sports HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/298
-#EXTINF:-1 tvg-id="24h" tvg-name="Friends" tvg-logo="https://logos.servidor.tv/friends.png" group-title="Canais: 24 Horas",Friends
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33114
-#EXTINF:-1 tvg-id="" tvg-name="Furacão Live HD" tvg-logo="https://logos.servidor.tv/furacao.png" group-title="Canais: Esporte PPV",Furacão Live HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63147
-#EXTINF:-1 tvg-id="futura.br" tvg-name="Futura HD+" tvg-logo="https://logos.servidor.tv/futura.png" group-title="Canais: Aberto",Futura HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/53490
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX HD" tvg-logo="https://logos.servidor.tv/fx.jpg" group-title="Canais: Filme e Série",FX HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1469
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX HD+" tvg-logo="https://logos.servidor.tv/fx.jpg" group-title="Canais: Filme e Série",FX HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/294
-#EXTINF:-1 tvg-id="24h" tvg-name="Galinha Pintadinha" tvg-logo="https://logos.servidor.tv/3d94d4acf88c16ced5dca83f3efe20a3.jpg" group-title="Canais: 24 Horas",Galinha Pintadinha
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/32609
-#EXTINF:-1 tvg-id="tvgazeta.br" tvg-name="Gazeta 4K UHD" tvg-logo="https://logos.servidor.tv/gazeta.jpg" group-title="Canais: 4K UHD",Gazeta 4K UHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/56494
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo 4K UHD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: 4K UHD",Globo 4K UHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/56487
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Bahia HD" tvg-logo="https://logos.servidor.tv/globotvbahia.jpg" group-title="Canais: Globo",Globo Bahia HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/260
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Bahia HD+" tvg-logo="https://logos.servidor.tv/globotvbahia.jpg" group-title="Canais: Globo",Globo Bahia HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/2707
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Brasilia HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo Brasilia HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/291
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Centro America HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo Centro America HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/2712
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo EPTV Campinas HD" tvg-logo="https://logos.servidor.tv/globoeptv.jpg" group-title="Canais: Globo",Globo EPTV Campinas HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/289
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo EPTV Campinas HD+" tvg-logo="https://logos.servidor.tv/globoeptv.jpg" group-title="Canais: Globo",Globo EPTV Campinas HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/2711
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo EPTV Ribeirão Preto HD" tvg-logo="https://logos.servidor.tv/globoeptv.jpg" group-title="Canais: Globo",Globo EPTV Ribeirão Preto HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/287
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo EPTV Ribeirão Preto HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo EPTV Ribeirão Preto HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/2952
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo EPTV Sul Minas HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo EPTV Sul Minas HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/4469
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo EPTV Sul Minas HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo EPTV Sul Minas HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/4468
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo EPTV São Carlos HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo EPTV São Carlos HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/2941
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo EPTV São Carlos HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo EPTV São Carlos HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/2940
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Goiânia SD" tvg-logo="https://logos.servidor.tv/globotvanhanguera.jpg" group-title="Canais: Globo",Globo Goiânia SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/262
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Inter TV Alto Litoral HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo Inter TV Alto Litoral HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/53507
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Inter TV Cabugi HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo Inter TV Cabugi HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/53476
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Inter TV Cabugi HD+" tvg-logo="https://logos.servidor.tv/01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Globo",Globo Inter TV Cabugi HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33244
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Inter TV dos Vales HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo Inter TV dos Vales HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/53470
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Inter TV dos Vales HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo Inter TV dos Vales HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/53471
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Inter TV Grande Minas HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo Inter TV Grande Minas HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/4471
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Inter TV Grande Minas HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo Inter TV Grande Minas HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/4470
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Inter TV Serra Mar HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo Inter TV Serra Mar HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/53487
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Inter TV Serra Mar HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo Inter TV Serra Mar HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/53486
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Manaus" tvg-logo="https://logos.servidor.tv/globoredeamazonica.png" group-title="Canais: Globo",Globo Manaus
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/19
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Manaus HD+" tvg-logo="https://logos.servidor.tv/01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Globo",Globo Manaus HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33250
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Minas HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo Minas HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/279
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Minas HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo Minas HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/2713
-#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News HD" tvg-logo="https://logos.servidor.tv/globonews.png" group-title="Canais: Notícia",Globo News HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1468
-#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News HD+" tvg-logo="https://logos.servidor.tv/globonews.png" group-title="Canais: Notícia",Globo News HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/277
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Nordeste HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo Nordeste HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/275
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Nordeste HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo Nordeste HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/2714
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo NSC Blumenal HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo NSC Blumenal HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/53513
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo NSC Centro Oeste HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo NSC Centro Oeste HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/53501
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo NSC Criciuma HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo NSC Criciuma HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/53504
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo NSC Floripa HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo NSC Floripa HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/2710
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo NSC Joinville HD" tvg-logo="https://logos.servidor.tv/01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Globo",Globo NSC Joinville HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33246
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo NSC Joinville HD+" tvg-logo="https://logos.servidor.tv/01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Globo",Globo NSC Joinville HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33245
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo NSC TV Chapeco HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo NSC TV Chapeco HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/53505
-#EXTINF:-1 tvg-id="globo.pt" tvg-name="Globo Portugal HD" tvg-logo="https://logos.servidor.tv/01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Globo",Globo Portugal HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33247
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo RBS Poa HD" tvg-logo="https://logos.servidor.tv/globorbs.png" group-title="Canais: Globo",Globo RBS Poa HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1467
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo RBS Poa HD+" tvg-logo="https://logos.servidor.tv/globorbs.png" group-title="Canais: Globo",Globo RBS Poa HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/271
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo RBS TV Caixias do Sul HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo RBS TV Caixias do Sul HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/53503
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo RBS TV Pelotas HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo RBS TV Pelotas HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/53495
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo RBS TV Santa Maria HD" tvg-logo="https://logos.servidor.tv/01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Globo",Globo RBS TV Santa Maria HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33249
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo RBS TV Santa Maria HD+" tvg-logo="https://logos.servidor.tv/01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Globo",Globo RBS TV Santa Maria HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33248
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Recife HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo Recife HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/53473
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Recife HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo Recife HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/53472
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Rede Amazonica HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo Rede Amazonica HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/53478
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Rede Amazonica HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo Rede Amazonica HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/53477
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo RJ HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo RJ HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1504
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo RJ HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo RJ HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/268
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo RPC Curitiba HD" tvg-logo="https://logos.servidor.tv/globorpc.png" group-title="Canais: Globo",Globo RPC Curitiba HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/266
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo RPC Curitiba HD+" tvg-logo="https://logos.servidor.tv/globorpc.png" group-title="Canais: Globo",Globo RPC Curitiba HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/2709
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo RPC Foz do Iguaçu HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo RPC Foz do Iguaçu HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/53483
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo RPC Foz do Iguaçu HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo RPC Foz do Iguaçu HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/53482
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo RPC Maringá HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo RPC Maringá HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/53485
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo RPC Maringá HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo RPC Maringá HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/53484
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo RPC Paraná HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo RPC Paraná HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/53475
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo RPC Paraná HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo RPC Paraná HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/53474
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo RPC Ponta Grossa HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo RPC Ponta Grossa HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/53502
-#EXTINF:-1 tvg-id="" tvg-name="Globo RPC TV Paranavai HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo RPC TV Paranavai HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63292
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo S.J Rio Preto HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo S.J Rio Preto HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/2945
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo S.J Rio Preto HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo S.J Rio Preto HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/2944
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Sergipe HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo Sergipe HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/250
-#EXTINF:-1 tvg-id="" tvg-name="Globo SP TV Tem Itapetininga HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo SP TV Tem Itapetininga HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63291
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo São Paulo HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo São Paulo HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1466
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo São Paulo HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo São Paulo HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/265
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Anhanguera Goiânia  HD+" tvg-logo="https://logos.servidor.tv/01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Globo",Globo TV Anhanguera Goiânia  HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33251
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Anhanguera HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo TV Anhanguera HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/2708
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Asa Branca HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo TV Asa Branca HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/53479
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Asa Branca HD+" tvg-logo="https://logos.servidor.tv/01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Globo",Globo TV Asa Branca HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33252
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Cabo Branco HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo TV Cabo Branco HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/53481
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Cabo Branco HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo TV Cabo Branco HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/53480
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Clube Piaui HD" tvg-logo="https://logos.servidor.tv/01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Globo",Globo TV Clube Piaui HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33254
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Clube Piaui HD+" tvg-logo="https://logos.servidor.tv/01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Globo",Globo TV Clube Piaui HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33253
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Diario Mogi HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo TV Diario Mogi HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/2947
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Diario Mogi HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo TV Diario Mogi HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/2946
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Fronteira HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo TV Fronteira HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/2943
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Fronteira HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo TV Fronteira HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/2942
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Gazeta Alagoas HD" tvg-logo="https://logos.servidor.tv/tvgazeta.jpg" group-title="Canais: Globo",Globo TV Gazeta Alagoas HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/75
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Gazeta Alagoas HD+" tvg-logo="https://logos.servidor.tv/tvgazeta.jpg" group-title="Canais: Globo",Globo TV Gazeta Alagoas HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/4467
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Tv Gazeta Sul ES HD" tvg-logo="https://logos.servidor.tv/globogazetasul.png" group-title="Canais: Globo",Globo Tv Gazeta Sul ES HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33185
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Tv Gazeta Sul ES HD+" tvg-logo="https://logos.servidor.tv/globogazetasul.png" group-title="Canais: Globo",Globo Tv Gazeta Sul ES HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33186
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Integração HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo TV Integração HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/22505
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Integração HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo TV Integração HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/22504
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Integração J.F HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo TV Integração J.F HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/53506
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Liberal" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo TV Liberal
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/2706
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Liberal Belem HD" tvg-logo="https://logos.servidor.tv/01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Globo",Globo TV Liberal Belem HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33256
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Liberal Belem HD+" tvg-logo="https://logos.servidor.tv/01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Globo",Globo TV Liberal Belem HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33255
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Mirante HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo TV Mirante HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/2705
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Morena HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo TV Morena HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/2704
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Rio Sul HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo TV Rio Sul HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/53494
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Santa Cruz SD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo TV Santa Cruz SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/29774
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Tem Bauru SD" tvg-logo="https://logos.servidor.tv/01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Globo",Globo TV Tem Bauru SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33257
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV TEM Sorocaba HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo TV TEM Sorocaba HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/2949
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV TEM Sorocaba HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo TV TEM Sorocaba HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/2948
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV TRIBUNA HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo TV TRIBUNA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/2954
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV TRIBUNA HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo TV TRIBUNA HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/2953
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV VANGUARDA HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo TV VANGUARDA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/2951
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV VANGUARDA HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo TV VANGUARDA HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/2950
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Verdes Mares HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo TV Verdes Mares HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/2703
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob HD" tvg-logo="https://logos.servidor.tv/gloob.jpg" group-title="Canais: Infantil",Gloob HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1499
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob HD+" tvg-logo="https://logos.servidor.tv/gloob.jpg" group-title="Canais: Infantil",Gloob HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/686
-#EXTINF:-1 tvg-id="gloobinho.bt" tvg-name="Gloobinho HD" tvg-logo="https://logos.servidor.tv/gloobinho.png" group-title="Canais: Infantil",Gloobinho HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1515
-#EXTINF:-1 tvg-id="gloobinho.bt" tvg-name="Gloobinho HD+" tvg-logo="https://logos.servidor.tv/gloobinho.png" group-title="Canais: Infantil",Gloobinho HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/237
-#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT HD" tvg-logo="https://logos.servidor.tv/gnt.jpg" group-title="Canais: Variedade e Música",GNT HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/235
-#EXTINF:-1 tvg-id="" tvg-name="Guia de Canais Pluto TV HD" tvg-logo="https://logos.servidor.tv/plutotv.png" group-title="Canais: Pluto TV",Guia de Canais Pluto TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63936
-#EXTINF:-1 tvg-id="history2.br" tvg-name="H2 HD" tvg-logo="https://logos.servidor.tv/h2.png" group-title="Canais: Documentário",H2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1465
-#EXTINF:-1 tvg-id="history2.br" tvg-name="H2 HD+" tvg-logo="https://logos.servidor.tv/h2.png" group-title="Canais: Documentário",H2 HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/233
-#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 HD" tvg-logo="https://logos.servidor.tv/hbo2.png" group-title="Canais: Filme e Série",HBO 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1460
-#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 HD+" tvg-logo="https://logos.servidor.tv/hbo2.png" group-title="Canais: Filme e Série",HBO 2 HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/231
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO 4K UHD" tvg-logo="https://logos.servidor.tv/hbo.png" group-title="Canais: 4K UHD",HBO 4K UHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/56496
-#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family HD" tvg-logo="https://logos.servidor.tv/hbofamily.png" group-title="Canais: Filme e Série",HBO Family HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1464
-#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family HD+" tvg-logo="https://logos.servidor.tv/hbofamily.png" group-title="Canais: Filme e Série",HBO Family HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/229
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="https://logos.servidor.tv/hbo.png" group-title="Canais: Filme e Série",HBO HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1463
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD+" tvg-logo="https://logos.servidor.tv/hbo.png" group-title="Canais: Filme e Série",HBO HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/227
-#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO Mundi HD" tvg-logo="https://logos.servidor.tv/hbomundi.jpg" group-title="Canais: Filme e Série",HBO Mundi HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1457
-#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO Mundi HD+" tvg-logo="https://logos.servidor.tv/hbomundi.jpg" group-title="Canais: Filme e Série",HBO Mundi HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/211
-#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus HD" tvg-logo="https://logos.servidor.tv/hboplus.png" group-title="Canais: Filme e Série",HBO Plus HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1462
-#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus HD+" tvg-logo="https://logos.servidor.tv/hboplus.png" group-title="Canais: Filme e Série",HBO Plus HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/226
-#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop HD" tvg-logo="https://logos.servidor.tv/hbopop.jpg" group-title="Canais: Filme e Série",HBO Pop HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1455
-#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop HD+" tvg-logo="https://logos.servidor.tv/hbopop.jpg" group-title="Canais: Filme e Série",HBO Pop HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/207
-#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature HD" tvg-logo="https://logos.servidor.tv/hbosignature.png" group-title="Canais: Filme e Série",HBO Signature HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1461
-#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature HD+" tvg-logo="https://logos.servidor.tv/hbosignature.png" group-title="Canais: Filme e Série",HBO Signature HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/224
-#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO Xtreme 4K UHD" tvg-logo="https://logos.servidor.tv/hboxtreme.jpg" group-title="Canais: 4K UHD",HBO Xtreme 4K UHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/56490
-#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO Xtreme HD" tvg-logo="https://logos.servidor.tv/hboxtreme.jpg" group-title="Canais: Filme e Série",HBO Xtreme HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1456
-#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO Xtreme HD+" tvg-logo="https://logos.servidor.tv/hboxtreme.jpg" group-title="Canais: Filme e Série",HBO Xtreme HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/209
-#EXTINF:-1 tvg-id="" tvg-name="HBO+ HD" tvg-logo="https://logos.servidor.tv/hbomais.png" group-title="Canais: Filme e Série",HBO+ HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63289
-#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HBO+ HD+" tvg-logo="https://logos.servidor.tv/hbomais.png" group-title="Canais: Filme e Série",HBO+ HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63290
-#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV HD" tvg-logo="https://logos.servidor.tv/hgtv.png" group-title="Canais: Variedade e Música",HGTV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33265
-#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV HD+" tvg-logo="https://logos.servidor.tv/hgtv.png" group-title="Canais: Variedade e Música",HGTV HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33266
-#EXTINF:-1 tvg-id="historychannel.br" tvg-name="History Channel HD" tvg-logo="https://logos.servidor.tv/thehistorychannel.png" group-title="Canais: Documentário",History Channel HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1459
-#EXTINF:-1 tvg-id="historychannel.br" tvg-name="History Channel HD+" tvg-logo="https://logos.servidor.tv/thehistorychannel.png" group-title="Canais: Documentário",History Channel HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/95
-#EXTINF:-1 tvg-id="" tvg-name="Hit Music Channel HD" tvg-logo="https://logos.servidor.tv/hitmusic.png" group-title="Canais: Variedade e Música",Hit Music Channel HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63288
-#EXTINF:-1 tvg-id="isat.br" tvg-name="i Sat HD" tvg-logo="https://logos.servidor.tv/isat.png" group-title="Canais: Filme e Série",i Sat HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/53514
-#EXTINF:-1 tvg-id="" tvg-name="Igreja Evangélica Cristo Vive HD" tvg-logo="https://logos.servidor.tv/igrejacristo.png" group-title="Canais: Religião",Igreja Evangélica Cristo Vive HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63287
-#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="Investigacao Discovery HD" tvg-logo="https://logos.servidor.tv/investigacaodiscovery.jpg" group-title="Canais: Documentário",Investigacao Discovery HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1514
-#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="Investigação Discovery HD+" tvg-logo="https://logos.servidor.tv/investigacaodiscovery.jpg" group-title="Canais: Documentário",Investigação Discovery HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/218
-#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime HD" tvg-logo="https://logos.servidor.tv/lifetime.png" group-title="Canais: Filme e Série",Lifetime HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1458
-#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime HD+" tvg-logo="https://logos.servidor.tv/lifetime.png" group-title="Canais: Filme e Série",Lifetime HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/216
-#EXTINF:-1 tvg-id="" tvg-name="Like HD" tvg-logo="https://logos.servidor.tv/like.png" group-title="Canais: Variedade e Música",Like HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63286
-#EXTINF:-1 tvg-id="" tvg-name="Like HD+" tvg-logo="https://logos.servidor.tv/like.png" group-title="Canais: Variedade e Música",Like HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63285
-#EXTINF:-1 tvg-id="24h" tvg-name="Loading TV HD+" tvg-logo="https://logos.servidor.tv/loadingtv.png" group-title="Canais: Variedade e Música",Loading TV HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/53509
-#EXTINF:-1 tvg-id="" tvg-name="Loupe HD" tvg-logo="https://logos.servidor.tv/loupe.png" group-title="Canais: Variedade e Música",Loupe HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63940
-#EXTINF:-1 tvg-id="" tvg-name="Love Nature HD+" tvg-logo="https://logos.servidor.tv/lovenature.png" group-title="Canais: Variedade e Música",Love Nature HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63284
-#EXTINF:-1 tvg-id="24h" tvg-name="Luluzinha" tvg-logo="https://logos.servidor.tv/b69ff6ed96fa4047b090e1cfffd77a27.jpg" group-title="Canais: 24 Horas",Luluzinha
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/32629
-#EXTINF:-1 tvg-id="Mais Esportes" tvg-name="Mais Esportes 1 HD" tvg-logo="https://logos.servidor.tv/maisesportes.png" group-title="Canais: Esporte PPV",Mais Esportes 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/41560
-#EXTINF:-1 tvg-id="Mais Esportes" tvg-name="Mais Esportes 2 HD" tvg-logo="https://logos.servidor.tv/maisesportes.png" group-title="Canais: Esporte PPV",Mais Esportes 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/41561
-#EXTINF:-1 tvg-id="Mais Esportes" tvg-name="Mais Esportes 3 HD" tvg-logo="https://logos.servidor.tv/maisesportes.png" group-title="Canais: Esporte PPV",Mais Esportes 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/41562
-#EXTINF:-1 tvg-id="Mais Esportes" tvg-name="Mais Esportes 4 HD" tvg-logo="https://logos.servidor.tv/maisesportes.png" group-title="Canais: Esporte PPV",Mais Esportes 4 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/41563
-#EXTINF:-1 tvg-id="Mais Globosat HD" tvg-name="Mais Globosat HD" tvg-logo="https://logos.servidor.tv/maisglobosat.png" group-title="Canais: Variedade e Música",Mais Globosat HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/213
-#EXTINF:-1 tvg-id="Mais Kids" tvg-name="Mais Kids 1 (Infantil)" tvg-logo="https://logos.servidor.tv/maiskids.png" group-title="Canais: Mais Exclusivos",Mais Kids 1 (Infantil)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/56543
-#EXTINF:-1 tvg-id="Mais Kids" tvg-name="Mais Kids 2 (10+)" tvg-logo="https://logos.servidor.tv/maiskids.png" group-title="Canais: Mais Exclusivos",Mais Kids 2 (10+)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/56542
-#EXTINF:-1 tvg-id="Mais Kids" tvg-name="Mais Kids 3 (10+)" tvg-logo="https://logos.servidor.tv/maiskids.png" group-title="Canais: Mais Exclusivos",Mais Kids 3 (10+)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/56541
-#EXTINF:-1 tvg-id="Mais Kids" tvg-name="Mais Kids 4 (16+)" tvg-logo="https://logos.servidor.tv/maiskids.png" group-title="Canais: Mais Exclusivos",Mais Kids 4 (16+)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/56537
-#EXTINF:-1 tvg-id="Mais Kids" tvg-name="Mais Kids 5 (Infantil)" tvg-logo="https://logos.servidor.tv/maiskids.png" group-title="Canais: Mais Exclusivos",Mais Kids 5 (Infantil)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/56539
-#EXTINF:-1 tvg-id="Mais Kids" tvg-name="Mais Kids 6 (Anime)" tvg-logo="https://logos.servidor.tv/maiskids.png" group-title="Canais: Mais Exclusivos",Mais Kids 6 (Anime)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/56538
-#EXTINF:-1 tvg-id="" tvg-name="Mais Na Tela HD" tvg-logo="https://logos.servidor.tv/maisglobosatb.png" group-title="Canais: Documentário",Mais Na Tela HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63283
-#EXTINF:-1 tvg-id="" tvg-name="Mais Na Tela HD+" tvg-logo="https://logos.servidor.tv/maisglobosatb.png" group-title="Canais: Documentário",Mais Na Tela HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63282
-#EXTINF:-1 tvg-id="24h" tvg-name="Masha e o Urso" tvg-logo="https://logos.servidor.tv/467fe2284004a47bda10cd1f17143dd7.jpg" group-title="Canais: 24 Horas",Masha e o Urso
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/32593
-#EXTINF:-1 tvg-id="24h" tvg-name="Medabots" tvg-logo="https://logos.servidor.tv/e210927a2cb7a7d825d1076778fc2959.jpg" group-title="Canais: 24 Horas",Medabots
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/32608
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix 4K UHD" tvg-logo="https://logos.servidor.tv/megapix.png" group-title="Canais: 4K UHD",Megapix 4K UHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/56501
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix HD" tvg-logo="https://logos.servidor.tv/megapix.png" group-title="Canais: Filme e Série",Megapix HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1454
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix HD+" tvg-logo="https://logos.servidor.tv/megapix.png" group-title="Canais: Filme e Série",Megapix HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/204
-#EXTINF:-1 tvg-id="24h" tvg-name="Mickey Mouse Cartoon" tvg-logo="https://logos.servidor.tv/2bb72187feaa09b5f53391d430669692.jpg" group-title="Canais: 24 Horas",Mickey Mouse Cartoon
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/32598
-#EXTINF:-1 tvg-id="24h" tvg-name="Mickey Mouse Clássico" tvg-logo="https://logos.servidor.tv/mickeyclassico.png" group-title="Canais: 24 Horas",Mickey Mouse Clássico
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/32597
-#EXTINF:-1 tvg-id="" tvg-name="MLB Extra Innings 01 HD" tvg-logo="https://logos.servidor.tv/mbl.png" group-title="Canais: Esporte PPV",MLB Extra Innings 01 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63281
-#EXTINF:-1 tvg-id="" tvg-name="MLB Extra Innings 02 HD" tvg-logo="https://logos.servidor.tv/mbl.png" group-title="Canais: Esporte PPV",MLB Extra Innings 02 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63280
-#EXTINF:-1 tvg-id="" tvg-name="MLB Extra Innings 03 HD" tvg-logo="https://logos.servidor.tv/mbl.png" group-title="Canais: Esporte PPV",MLB Extra Innings 03 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63279
-#EXTINF:-1 tvg-id="" tvg-name="MLB Extra Innings 04 HD" tvg-logo="https://logos.servidor.tv/mbl.png" group-title="Canais: Esporte PPV",MLB Extra Innings 04 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63278
-#EXTINF:-1 tvg-id="" tvg-name="MLB Extra Innings 05 HD" tvg-logo="https://logos.servidor.tv/mbl.png" group-title="Canais: Esporte PPV",MLB Extra Innings 05 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63277
-#EXTINF:-1 tvg-id="" tvg-name="MLB Extra Innings 06 HD" tvg-logo="https://logos.servidor.tv/mbl.png" group-title="Canais: Esporte PPV",MLB Extra Innings 06 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63276
-#EXTINF:-1 tvg-id="" tvg-name="MLB Extra Innings 07 HD" tvg-logo="https://logos.servidor.tv/mbl.png" group-title="Canais: Esporte PPV",MLB Extra Innings 07 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63275
-#EXTINF:-1 tvg-id="" tvg-name="MLB Extra Innings 08 HD" tvg-logo="https://logos.servidor.tv/mbl.png" group-title="Canais: Esporte PPV",MLB Extra Innings 08 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63274
-#EXTINF:-1 tvg-id="" tvg-name="MLB Extra Innings 09 HD" tvg-logo="https://logos.servidor.tv/mbl.png" group-title="Canais: Esporte PPV",MLB Extra Innings 09 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63273
-#EXTINF:-1 tvg-id="" tvg-name="MLB Extra Innings 10 HD" tvg-logo="https://logos.servidor.tv/mbl.png" group-title="Canais: Esporte PPV",MLB Extra Innings 10 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63272
-#EXTINF:-1 tvg-id="" tvg-name="MLB Extra Innings 11 HD" tvg-logo="https://logos.servidor.tv/mbl.png" group-title="Canais: Esporte PPV",MLB Extra Innings 11 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63271
-#EXTINF:-1 tvg-id="" tvg-name="MLB Extra Innings 12 HD" tvg-logo="https://logos.servidor.tv/mbl.png" group-title="Canais: Esporte PPV",MLB Extra Innings 12 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63270
-#EXTINF:-1 tvg-id="" tvg-name="MLB Extra Innings 13 HD" tvg-logo="https://logos.servidor.tv/mbl.png" group-title="Canais: Esporte PPV",MLB Extra Innings 13 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63269
-#EXTINF:-1 tvg-id="" tvg-name="MLB Extra Innings 14 HD" tvg-logo="https://logos.servidor.tv/mbl.png" group-title="Canais: Esporte PPV",MLB Extra Innings 14 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63268
-#EXTINF:-1 tvg-id="" tvg-name="MLB Extra Innings 15 HD" tvg-logo="https://logos.servidor.tv/mbl.png" group-title="Canais: Esporte PPV",MLB Extra Innings 15 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63267
-#EXTINF:-1 tvg-id="" tvg-name="MLB Network HD" tvg-logo="https://logos.servidor.tv/mbl.png" group-title="Canais: Esporte PPV",MLB Network HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63266
-#EXTINF:-1 tvg-id="" tvg-name="MLB Strike Zone HD" tvg-logo="https://logos.servidor.tv/mbl.png" group-title="Canais: Esporte PPV",MLB Strike Zone HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63265
-#EXTINF:-1 tvg-id="" tvg-name="Mosaico Premiere HD" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Mosaico Premiere HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63264
-#EXTINF:-1 tvg-id="" tvg-name="MTV Are you the One? HD" tvg-logo="https://logos.servidor.tv/mtvare.png" group-title="Canais: Variedade e Música",MTV Are you the One? HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63945
-#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV HD" tvg-logo="https://logos.servidor.tv/mtv.jpg" group-title="Canais: Variedade e Música",MTV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1453
-#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV HD+" tvg-logo="https://logos.servidor.tv/mtv.jpg" group-title="Canais: Variedade e Música",MTV HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/202
-#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV Live HD" tvg-logo="https://logos.servidor.tv/e1637db47c46b8716519c81a006cc045.png" group-title="Canais: Variedade e Música",MTV Live HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33259
-#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV Live HD+" tvg-logo="https://logos.servidor.tv/e1637db47c46b8716519c81a006cc045.png" group-title="Canais: Variedade e Música",MTV Live HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33258
-#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow 4K UHD" tvg-logo="https://logos.servidor.tv/multishow.png" group-title="Canais: 4K UHD",Multishow 4K UHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/56503
-#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow HD" tvg-logo="https://logos.servidor.tv/multishow.png" group-title="Canais: Variedade e Música",Multishow HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1452
-#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow HD+" tvg-logo="https://logos.servidor.tv/multishow.png" group-title="Canais: Variedade e Música",Multishow HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/199
-#EXTINF:-1 tvg-id="24h" tvg-name="Mundo Bita" tvg-logo="https://logos.servidor.tv/a857d7d773d7f92e9918d53f07eb8f27.jpg" group-title="Canais: 24 Horas",Mundo Bita
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/32607
-#EXTINF:-1 tvg-id="" tvg-name="Music Box Brazil HD" tvg-logo="https://logos.servidor.tv/musicbox.png" group-title="Canais: Variedade e Música",Music Box Brazil HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63263
-#EXTINF:-1 tvg-id="" tvg-name="Music Box Brazil HD+" tvg-logo="https://logos.servidor.tv/musicbox.png" group-title="Canais: Variedade e Música",Music Box Brazil HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63262
-#EXTINF:-1 tvg-id="24h" tvg-name="Nanatsu no Taizai" tvg-logo="https://logos.servidor.tv/nanatsunotaizai.png" group-title="Canais: 24 Horas",Nanatsu no Taizai
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33095
-#EXTINF:-1 tvg-id="24h" tvg-name="Naruto" tvg-logo="https://logos.servidor.tv/naruto.png" group-title="Canais: 24 Horas",Naruto
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33096
-#EXTINF:-1 tvg-id="24h" tvg-name="Naruto Shippuden" tvg-logo="https://logos.servidor.tv/narutoshippuden.png" group-title="Canais: 24 Horas",Naruto Shippuden
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33097
-#EXTINF:-1 tvg-id="natgeokids.br" tvg-name="Nat Geo Kids HD" tvg-logo="https://logos.servidor.tv/natgeokids.png" group-title="Canais: Infantil",Nat Geo Kids HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1451
-#EXTINF:-1 tvg-id="natgeokids.br" tvg-name="Nat Geo Kids HD+" tvg-logo="https://logos.servidor.tv/natgeokids.png" group-title="Canais: Infantil",Nat Geo Kids HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/195
-#EXTINF:-1 tvg-id="natgeowild.br" tvg-name="Nat Geo Wild HD" tvg-logo="https://logos.servidor.tv/natgeowild.png" group-title="Canais: Documentário",Nat Geo Wild HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1450
-#EXTINF:-1 tvg-id="natgeowild.br" tvg-name="Nat Geo Wild HD+" tvg-logo="https://logos.servidor.tv/natgeowild.png" group-title="Canais: Documentário",Nat Geo Wild HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/193
-#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="National Geographic 4K UHD" tvg-logo="https://logos.servidor.tv/nationalgeographic.jpg" group-title="Canais: 4K UHD",National Geographic 4K UHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/56499
-#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="National Geographic HD+" tvg-logo="https://logos.servidor.tv/nationalgeographic.jpg" group-title="Canais: Documentário",National Geographic HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/196
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 01 HD" tvg-logo="https://logos.servidor.tv/nba.png" group-title="Canais: Esporte PPV",NBA League Pass 01 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63261
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 02 HD" tvg-logo="https://logos.servidor.tv/nba.png" group-title="Canais: Esporte PPV",NBA League Pass 02 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63260
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 03 HD" tvg-logo="https://logos.servidor.tv/nba.png" group-title="Canais: Esporte PPV",NBA League Pass 03 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63259
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 04 HD" tvg-logo="https://logos.servidor.tv/nba.png" group-title="Canais: Esporte PPV",NBA League Pass 04 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63258
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 05 HD" tvg-logo="https://logos.servidor.tv/nba.png" group-title="Canais: Esporte PPV",NBA League Pass 05 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63257
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 06 HD" tvg-logo="https://logos.servidor.tv/nba.png" group-title="Canais: Esporte PPV",NBA League Pass 06 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63256
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 07 HD" tvg-logo="https://logos.servidor.tv/nba.png" group-title="Canais: Esporte PPV",NBA League Pass 07 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63255
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 08 HD" tvg-logo="https://logos.servidor.tv/nba.png" group-title="Canais: Esporte PPV",NBA League Pass 08 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63254
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 09 HD" tvg-logo="https://logos.servidor.tv/nba.png" group-title="Canais: Esporte PPV",NBA League Pass 09 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63253
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 10 HD" tvg-logo="https://logos.servidor.tv/nba.png" group-title="Canais: Esporte PPV",NBA League Pass 10 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63252
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 11 HD" tvg-logo="https://logos.servidor.tv/nba.png" group-title="Canais: Esporte PPV",NBA League Pass 11 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63251
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 12 HD" tvg-logo="https://logos.servidor.tv/nba.png" group-title="Canais: Esporte PPV",NBA League Pass 12 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63250
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 13 HD" tvg-logo="https://logos.servidor.tv/nba.png" group-title="Canais: Esporte PPV",NBA League Pass 13 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63249
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 14 HD" tvg-logo="https://logos.servidor.tv/nba.png" group-title="Canais: Esporte PPV",NBA League Pass 14 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63248
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 15 HD" tvg-logo="https://logos.servidor.tv/nba.png" group-title="Canais: Esporte PPV",NBA League Pass 15 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63247
-#EXTINF:-1 tvg-id="" tvg-name="NBA TV HD" tvg-logo="https://logos.servidor.tv/nba.png" group-title="Canais: Esporte PPV",NBA TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63246
-#EXTINF:-1 tvg-id="" tvg-name="NHK HD" tvg-logo="https://logos.servidor.tv/nhk.png" group-title="Canais: Variedade e Música",NHK HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63245
-#EXTINF:-1 tvg-id="" tvg-name="NHL 01 HD" tvg-logo="https://logos.servidor.tv/nhl2.png" group-title="Canais: Esporte PPV",NHL 01 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63243
-#EXTINF:-1 tvg-id="" tvg-name="NHL 02 HD" tvg-logo="https://logos.servidor.tv/nhl2.png" group-title="Canais: Esporte PPV",NHL 02 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63242
-#EXTINF:-1 tvg-id="" tvg-name="NHL 03 HD" tvg-logo="https://logos.servidor.tv/nhl2.png" group-title="Canais: Esporte PPV",NHL 03 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63241
-#EXTINF:-1 tvg-id="" tvg-name="NHL 04 HD" tvg-logo="https://logos.servidor.tv/nhl2.png" group-title="Canais: Esporte PPV",NHL 04 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63240
-#EXTINF:-1 tvg-id="" tvg-name="NHL 05 HD" tvg-logo="https://logos.servidor.tv/nhl2.png" group-title="Canais: Esporte PPV",NHL 05 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63239
-#EXTINF:-1 tvg-id="" tvg-name="NHL 06 HD" tvg-logo="https://logos.servidor.tv/nhl2.png" group-title="Canais: Esporte PPV",NHL 06 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63238
-#EXTINF:-1 tvg-id="" tvg-name="NHL 07 HD" tvg-logo="https://logos.servidor.tv/nhl2.png" group-title="Canais: Esporte PPV",NHL 07 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63237
-#EXTINF:-1 tvg-id="" tvg-name="NHL 08 HD" tvg-logo="https://logos.servidor.tv/nhl2.png" group-title="Canais: Esporte PPV",NHL 08 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63236
-#EXTINF:-1 tvg-id="" tvg-name="NHL 09 HD" tvg-logo="https://logos.servidor.tv/nhl2.png" group-title="Canais: Esporte PPV",NHL 09 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63235
-#EXTINF:-1 tvg-id="" tvg-name="NHL 10 HD" tvg-logo="https://logos.servidor.tv/nhl2.png" group-title="Canais: Esporte PPV",NHL 10 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63234
-#EXTINF:-1 tvg-id="" tvg-name="NHL 11 HD" tvg-logo="https://logos.servidor.tv/nhl2.png" group-title="Canais: Esporte PPV",NHL 11 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63233
-#EXTINF:-1 tvg-id="" tvg-name="NHL 12 HD" tvg-logo="https://logos.servidor.tv/nhl2.png" group-title="Canais: Esporte PPV",NHL 12 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63232
-#EXTINF:-1 tvg-id="" tvg-name="NHL 13 HD" tvg-logo="https://logos.servidor.tv/nhl2.png" group-title="Canais: Esporte PPV",NHL 13 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63231
-#EXTINF:-1 tvg-id="" tvg-name="NHL 14 HD" tvg-logo="https://logos.servidor.tv/nhl2.png" group-title="Canais: Esporte PPV",NHL 14 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63230
-#EXTINF:-1 tvg-id="" tvg-name="NHL 15 HD" tvg-logo="https://logos.servidor.tv/nhl2.png" group-title="Canais: Esporte PPV",NHL 15 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63229
-#EXTINF:-1 tvg-id="" tvg-name="NHL Center Ice 01 HD" tvg-logo="https://logos.servidor.tv/nhlcenterice.png" group-title="Canais: Esporte PPV",NHL Center Ice 01 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63228
-#EXTINF:-1 tvg-id="" tvg-name="NHL Center Ice 02 HD" tvg-logo="https://logos.servidor.tv/nhlcenterice.png" group-title="Canais: Esporte PPV",NHL Center Ice 02 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63227
-#EXTINF:-1 tvg-id="" tvg-name="NHL Center Ice 03 HD" tvg-logo="https://logos.servidor.tv/nhlcenterice.png" group-title="Canais: Esporte PPV",NHL Center Ice 03 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63226
-#EXTINF:-1 tvg-id="" tvg-name="NHL Center Ice 04 HD" tvg-logo="https://logos.servidor.tv/nhlcenterice.png" group-title="Canais: Esporte PPV",NHL Center Ice 04 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63225
-#EXTINF:-1 tvg-id="" tvg-name="NHL Center Ice 05 HD" tvg-logo="https://logos.servidor.tv/nhlcenterice.png" group-title="Canais: Esporte PPV",NHL Center Ice 05 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63224
-#EXTINF:-1 tvg-id="" tvg-name="NHL Center Ice 06 HD" tvg-logo="https://logos.servidor.tv/nhlcenterice.png" group-title="Canais: Esporte PPV",NHL Center Ice 06 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63223
-#EXTINF:-1 tvg-id="" tvg-name="NHL Center Ice 07 HD" tvg-logo="https://logos.servidor.tv/nhlcenterice.png" group-title="Canais: Esporte PPV",NHL Center Ice 07 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63222
-#EXTINF:-1 tvg-id="" tvg-name="NHL Center Ice 08 HD" tvg-logo="https://logos.servidor.tv/nhlcenterice.png" group-title="Canais: Esporte PPV",NHL Center Ice 08 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63221
-#EXTINF:-1 tvg-id="" tvg-name="NHL Center Ice 09 HD" tvg-logo="https://logos.servidor.tv/nhlcenterice.png" group-title="Canais: Esporte PPV",NHL Center Ice 09 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63220
-#EXTINF:-1 tvg-id="" tvg-name="NHL Center Ice 10 HD" tvg-logo="https://logos.servidor.tv/nhlcenterice.png" group-title="Canais: Esporte PPV",NHL Center Ice 10 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63219
-#EXTINF:-1 tvg-id="" tvg-name="NHL Center Ice 11 HD" tvg-logo="https://logos.servidor.tv/nhlcenterice.png" group-title="Canais: Esporte PPV",NHL Center Ice 11 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63218
-#EXTINF:-1 tvg-id="" tvg-name="NHL Center Ice 12 HD" tvg-logo="https://logos.servidor.tv/nhlcenterice.png" group-title="Canais: Esporte PPV",NHL Center Ice 12 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63217
-#EXTINF:-1 tvg-id="" tvg-name="NHL Center Ice 13 HD" tvg-logo="https://logos.servidor.tv/nhlcenterice.png" group-title="Canais: Esporte PPV",NHL Center Ice 13 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63216
-#EXTINF:-1 tvg-id="" tvg-name="NHL Center Ice 14 HD" tvg-logo="https://logos.servidor.tv/nhlcenterice.png" group-title="Canais: Esporte PPV",NHL Center Ice 14 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63215
-#EXTINF:-1 tvg-id="" tvg-name="NHL Network 2 HD" tvg-logo="https://logos.servidor.tv/nhl.png" group-title="Canais: Esporte PPV",NHL Network 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63244
-#EXTINF:-1 tvg-id="" tvg-name="NHL Network HD" tvg-logo="https://logos.servidor.tv/nhl.png" group-title="Canais: Esporte PPV",NHL Network HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63214
-#EXTINF:-1 tvg-id="nickjr.br" tvg-name="Nick JR HD" tvg-logo="https://logos.servidor.tv/nickjr.png" group-title="Canais: Infantil",Nick JR HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1503
-#EXTINF:-1 tvg-id="nickjr.br" tvg-name="Nick JR HD+" tvg-logo="https://logos.servidor.tv/nickjr.png" group-title="Canais: Infantil",Nick JR HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/187
-#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="Nickelodeon HD" tvg-logo="https://logos.servidor.tv/nick.jpg" group-title="Canais: Infantil",Nickelodeon HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1449
-#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="Nickelodeon HD+" tvg-logo="https://logos.servidor.tv/nick.jpg" group-title="Canais: Infantil",Nickelodeon HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/188
-#EXTINF:-1 tvg-id="novotempo.br" tvg-name="Novo Tempo HD" tvg-logo="https://logos.servidor.tv/novotempo.jpg" group-title="Canais: Religião",Novo Tempo HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/22507
-#EXTINF:-1 tvg-id="24h" tvg-name="O Pequeno Urso" tvg-logo="https://logos.servidor.tv/0dc1830acacc5dd5c401478242ee42f8.jpg" group-title="Canais: 24 Horas",O Pequeno Urso
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/32630
-#EXTINF:-1 tvg-id="24h" tvg-name="O Show da Luna" tvg-logo="https://logos.servidor.tv/084c030736e2e02b7d6f9b89efa449c7.jpg" group-title="Canais: 24 Horas",O Show da Luna
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/32606
-#EXTINF:-1 tvg-id="off.br" tvg-name="OFF HD" tvg-logo="https://logos.servidor.tv/off.png" group-title="Canais: Variedade e Música",OFF HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/183
-#EXTINF:-1 tvg-id="" tvg-name="One Football 01 HD" tvg-logo="https://logos.servidor.tv/one.png" group-title="Canais: Esporte PPV",One Football 01 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63213
-#EXTINF:-1 tvg-id="" tvg-name="One Football 02 HD" tvg-logo="https://logos.servidor.tv/one.png" group-title="Canais: Esporte PPV",One Football 02 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63212
-#EXTINF:-1 tvg-id="" tvg-name="One Football 03 HD" tvg-logo="https://logos.servidor.tv/one.png" group-title="Canais: Esporte PPV",One Football 03 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63211
-#EXTINF:-1 tvg-id="24h" tvg-name="One Punch Man" tvg-logo="https://logos.servidor.tv/onepunchman.png" group-title="Canais: 24 Horas",One Punch Man
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33098
-#EXTINF:-1 tvg-id="24h" tvg-name="Operação Fronteira América do Sul" tvg-logo="https://f.i.uol.com.br/fotografia/2020/03/13/15841247755e6bd367a7e44_1584124775_3x2_md.jpg" group-title="Canais: 24 Horas",Operação Fronteira América do Sul
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/32681
-#EXTINF:-1 tvg-id="24h" tvg-name="Os Cavaleiros do Zodíaco" tvg-logo="https://logos.servidor.tv/oscavaleirosdozodiaco.png" group-title="Canais: 24 Horas",Os Cavaleiros do Zodíaco
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33100
-#EXTINF:-1 tvg-id="24h" tvg-name="Os Simpsons" tvg-logo="https://logos.servidor.tv/ced53d26e045bc8376c2fd469c9ed59f.jpg" group-title="Canais: 24 Horas",Os Simpsons
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/32591
-#EXTINF:-1 tvg-id="" tvg-name="Pai Eterno HD" tvg-logo="https://logos.servidor.tv/paieterno.jpg" group-title="Canais: Religião",Pai Eterno HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/22509
-#EXTINF:-1 tvg-id="24h" tvg-name="Papaléguas e o Coiote" tvg-logo="https://logos.servidor.tv/82d210a469387d9d5db847fe869f4f0a.jpg" group-title="Canais: 24 Horas",Papaléguas e o Coiote
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/32605
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel HD" tvg-logo="https://logos.servidor.tv/paramount.jpg" group-title="Canais: Filme e Série",Paramount Channel HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1448
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel HD+" tvg-logo="https://logos.servidor.tv/paramount.jpg" group-title="Canais: Filme e Série",Paramount Channel HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/181
-#EXTINF:-1 tvg-id="24h" tvg-name="Patrulha Canina" tvg-logo="https://logos.servidor.tv/6cdcafdbd3c8856d103b4f1e67ef5e26.jpg" group-title="Canais: 24 Horas",Patrulha Canina
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/32604
-#EXTINF:-1 tvg-id="" tvg-name="People are Awesome HD" tvg-logo="https://logos.servidor.tv/people.png" group-title="Canais: Variedade e Música",People are Awesome HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63946
-#EXTINF:-1 tvg-id="24h" tvg-name="Peppa Pig" tvg-logo="https://logos.servidor.tv/d5f99332ba57d15b3c0c5464caf639aa.jpg" group-title="Canais: 24 Horas",Peppa Pig
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/32631
-#EXTINF:-1 tvg-id="24h" tvg-name="Pica-Pau" tvg-logo="https://logos.servidor.tv/f93374e8176706953debae9e7b74cdc3.jpg" group-title="Canais: 24 Horas",Pica-Pau
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/32588
-#EXTINF:-1 tvg-id="" tvg-name="Play Kids HD" tvg-logo="https://logos.servidor.tv/playkids.png" group-title="Canais: Infantil",Play Kids HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/53512
-#EXTINF:-1 tvg-id="playtv.br" tvg-name="Play TV SD" tvg-logo="https://logos.servidor.tv/playtv.png" group-title="Canais: Variedade e Música",Play TV SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/179
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Anime HD" tvg-logo="https://logos.servidor.tv/plutotv.png" group-title="Canais: Pluto TV",Pluto TV Anime HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63950
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV BET HD" tvg-logo="https://logos.servidor.tv/plutotv.png" group-title="Canais: Pluto TV",Pluto TV BET HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63948
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Comédia HD" tvg-logo="https://logos.servidor.tv/plutotv.png" group-title="Canais: Pluto TV",Pluto TV Cine Comédia HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63956
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Drama HD" tvg-logo="https://logos.servidor.tv/plutotv.png" group-title="Canais: Pluto TV",Pluto TV Cine Drama HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63955
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Família HD" tvg-logo="https://logos.servidor.tv/plutotv.png" group-title="Canais: Pluto TV",Pluto TV Cine Família HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63953
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Sucessos HD" tvg-logo="https://logos.servidor.tv/plutotv.png" group-title="Canais: Pluto TV",Pluto TV Cine Sucessos HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63957
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Terror HD" tvg-logo="https://logos.servidor.tv/plutotv.png" group-title="Canais: Pluto TV",Pluto TV Cine Terror HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63954
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Fashionbox HD" tvg-logo="https://logos.servidor.tv/plutotv.png" group-title="Canais: Pluto TV",Pluto TV Fashionbox HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63939
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Filmes Ação HD" tvg-logo="https://logos.servidor.tv/plutotv.png" group-title="Canais: Pluto TV",Pluto TV Filmes Ação HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63959
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Filmes Nacionais HD" tvg-logo="https://logos.servidor.tv/plutotv.png" group-title="Canais: Pluto TV",Pluto TV Filmes Nacionais HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63952
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Filmes Suspense HD" tvg-logo="https://logos.servidor.tv/plutotv.png" group-title="Canais: Pluto TV",Pluto TV Filmes Suspense HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63958
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Investigação HD" tvg-logo="https://logos.servidor.tv/plutotv.png" group-title="Canais: Pluto TV",Pluto TV Investigação HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63943
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Junior HD" tvg-logo="https://logos.servidor.tv/plutotv.png" group-title="Canais: Pluto TV",Pluto TV Junior HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63938
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Kids HD" tvg-logo="https://logos.servidor.tv/plutotv.png" group-title="Canais: Pluto TV",Pluto TV Kids HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63937
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV MTV HD" tvg-logo="https://logos.servidor.tv/plutotv.png" group-title="Canais: Pluto TV",Pluto TV MTV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63947
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Natureza HD" tvg-logo="https://logos.servidor.tv/plutotv.png" group-title="Canais: Pluto TV",Pluto TV Natureza HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63944
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Retrô HD" tvg-logo="https://logos.servidor.tv/plutotv.png" group-title="Canais: Pluto TV",Pluto TV Retrô HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63949
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Séries HD" tvg-logo="https://logos.servidor.tv/plutotv.png" group-title="Canais: Pluto TV",Pluto TV Séries HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63951
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Vida Real HD" tvg-logo="https://logos.servidor.tv/plutotv.png" group-title="Canais: Pluto TV",Pluto TV Vida Real HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63942
-#EXTINF:-1 tvg-id="" tvg-name="Polishop HD+" tvg-logo="https://logos.servidor.tv/polishop.png" group-title="Canais: Aberto",Polishop HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/53498
-#EXTINF:-1 tvg-id="24h" tvg-name="Polícia 24 Horas" tvg-logo="https://logos.servidor.tv/9a3d39b345432abd0a13595b63a358c2.jpg" group-title="Canais: 24 Horas",Polícia 24 Horas
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/32596
-#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 HD" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1511
-#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 HD+" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 2 HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/172
-#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 HD" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1510
-#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 HD+" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 3 HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/170
-#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 HD" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 4 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1509
-#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 HD+" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 4 HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/168
-#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 HD" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 5 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1508
-#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 HD+" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 5 HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/166
-#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 HD" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 6 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1507
-#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 HD+" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 6 HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/164
-#EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere 7 HD" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 7 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1506
-#EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere 7 HD+" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 7 HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/162
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 8 HD" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 8 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63207
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere Clubes 4K UHD" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: 4K UHD",Premiere Clubes 4K UHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/56509
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere Clubes HD" tvg-logo="https://logos.servidor.tv/FVOQsOCLYJSd5iqMj8vbolVmWoLzHs3J.jpg" group-title="Canais: Esporte",Premiere Clubes HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1447
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere Clubes HD+" tvg-logo="https://logos.servidor.tv/FVOQsOCLYJSd5iqMj8vbolVmWoLzHs3J.jpg" group-title="Canais: Esporte",Premiere Clubes HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/159
-#EXTINF:-1 tvg-id="primeboxbrazil.br" tvg-name="Prime Box Brasil HD" tvg-logo="https://logos.servidor.tv/primeboxbrasil.png" group-title="Canais: Filme e Série",Prime Box Brasil HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/4456
-#EXTINF:-1 tvg-id="primeboxbrazil.br" tvg-name="Prime Box Brasil HD+" tvg-logo="https://logos.servidor.tv/primeboxbrasil.png" group-title="Canais: Filme e Série",Prime Box Brasil HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/157
-#EXTINF:-1 tvg-id="" tvg-name="RAI Internacional SD" tvg-logo="https://logos.servidor.tv/rai.png" group-title="Canais: Notícia",RAI Internacional SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63206
-#EXTINF:-1 tvg-id="" tvg-name="RBI HD+" tvg-logo="https://logos.servidor.tv/rbi.png" group-title="Canais: Religião",RBI HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/53489
-#EXTINF:-1 tvg-id="recordtv.br" tvg-name="Record 4K UHD" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: 4K UHD",Record 4K UHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/56510
-#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record BA HD" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Aberto",Record BA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/29777
-#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record Belem HD" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Aberto",Record Belem HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/29775
-#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record DF HD" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Aberto",Record DF HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/29776
-#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record GO HD" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Aberto",Record GO HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/29779
-#EXTINF:-1 tvg-id="" tvg-name="Record Interior RJ HD" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Aberto",Record Interior RJ HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63205
-#EXTINF:-1 tvg-id="" tvg-name="Record Interior SP HD" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Aberto",Record Interior SP HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63204
-#EXTINF:-1 tvg-id="" tvg-name="Record Itapoãn HD" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Aberto",Record Itapoãn HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63203
-#EXTINF:-1 tvg-id="" tvg-name="Record Litoral e Vale HD" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Aberto",Record Litoral e Vale HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63202
-#EXTINF:-1 tvg-id="" tvg-name="Record Manaus HD" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Aberto",Record Manaus HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63201
-#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record MG HD" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Aberto",Record MG HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/29778
-#EXTINF:-1 tvg-id="" tvg-name="Record Minas HD" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Aberto",Record Minas HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63200
-#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record News HD" tvg-logo="https://logos.servidor.tv/recordnews.jpg" group-title="Canais: Notícia",Record News HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1513
-#EXTINF:-1 tvg-id="RecordNews" tvg-name="Record News HD+" tvg-logo="https://logos.servidor.tv/recordnews.jpg" group-title="Canais: Notícia",Record News HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/405
-#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record PA HD" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Aberto",Record PA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/29782
-#EXTINF:-1 tvg-id="" tvg-name="Record PR - RIC Maringá HD" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Aberto",Record PR - RIC Maringá HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63199
-#EXTINF:-1 tvg-id="" tvg-name="Record PR - RIC Maringá HD+" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Aberto",Record PR - RIC Maringá HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63198
-#EXTINF:-1 tvg-id="" tvg-name="Record Recife HD" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Aberto",Record Recife HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63197
-#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record RJ HD" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Aberto",Record RJ HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/29780
-#EXTINF:-1 tvg-id="RecordNews" tvg-name="Record RS HD" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Aberto",Record RS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/29781
-#EXTINF:-1 tvg-id="" tvg-name="Record SC HD+" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Aberto",Record SC HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63196
-#EXTINF:-1 tvg-id="RECORDTV" tvg-name="Record SP HD" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Aberto",Record SP HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/403
-#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record SP HD+" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Aberto",Record SP HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/148
-#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV  HD+" tvg-logo="https://logos.servidor.tv/776ad0ef27acc0602c337dc2736f3a97.png" group-title="Canais: Esporte PPV",Red Bull TV  HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33260
-#EXTINF:-1 tvg-id="redebrasil.br" tvg-name="Rede Brasil HD+" tvg-logo="https://logos.servidor.tv/redebrasil.png" group-title="Canais: Religião",Rede Brasil HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/53493
-#EXTINF:-1 tvg-id="" tvg-name="Rede Genisis HD+" tvg-logo="https://logos.servidor.tv/redegenisis.png" group-title="Canais: Religião",Rede Genisis HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/53511
-#EXTINF:-1 tvg-id="redegospel.br" tvg-name="Rede Gospel HD+" tvg-logo="https://logos.servidor.tv/ed6af461cd7714d4393e2315e7d6eea8.png" group-title="Canais: Religião",Rede Gospel HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33261
-#EXTINF:-1 tvg-id="redegospel.br" tvg-name="Rede Gospel SD" tvg-logo="https://logos.servidor.tv/ed6af461cd7714d4393e2315e7d6eea8.png" group-title="Canais: Religião",Rede Gospel SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33262
-#EXTINF:-1 tvg-id="" tvg-name="Rede Super HD" tvg-logo="https://logos.servidor.tv/redesuper.png" group-title="Canais: Religião",Rede Super HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/53488
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="Rede TV 4K UHD" tvg-logo="https://logos.servidor.tv/redetv.png" group-title="Canais: 4K UHD",Rede TV 4K UHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/56495
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="Rede TV HD" tvg-logo="https://logos.servidor.tv/redetv.png" group-title="Canais: Aberto",Rede TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/136
-#EXTINF:-1 tvg-id="" tvg-name="Rede União HD" tvg-logo="https://logos.servidor.tv/redeuniao.png" group-title="Canais: Aberto",Rede União HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63195
-#EXTINF:-1 tvg-id="redevida.br" tvg-name="Rede Vida HD" tvg-logo="https://logos.servidor.tv/redevida.jpg" group-title="Canais: Religião",Rede Vida HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/22506
-#EXTINF:-1 tvg-id="24h" tvg-name="Rick and Morty" tvg-logo="https://logos.servidor.tv/rickandmorty.png" group-title="Canais: 24 Horas",Rick and Morty
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33101
-#EXTINF:-1 tvg-id="rittv.br" tvg-name="RIT TV SD" tvg-logo="https://logos.servidor.tv/rittv.jpg" group-title="Canais: Religião",RIT TV SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/22510
-#EXTINF:-1 tvg-id="ratimbum.br" tvg-name="Rá Tim Bum HD" tvg-logo="https://logos.servidor.tv/tvratimbum.png" group-title="Canais: Infantil",Rá Tim Bum HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/72
-#EXTINF:-1 tvg-id="24h" tvg-name="Sai de Baixo" tvg-logo="https://logos.servidor.tv/saidebaixo.png" group-title="Canais: 24 Horas",Sai de Baixo
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33115
-#EXTINF:-1 tvg-id="" tvg-name="Santuário de Fátima HD" tvg-logo="https://logos.servidor.tv/santuariofatima.png" group-title="Canais: Religião",Santuário de Fátima HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63146
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT 4K UHD" tvg-logo="https://logos.servidor.tv/sbt.png" group-title="Canais: 4K UHD",SBT 4K UHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/56506
-#EXTINF:-1 tvg-id="" tvg-name="SBT Brasilia HD" tvg-logo="https://logos.servidor.tv/sbt.png" group-title="Canais: Aberto",SBT Brasilia HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63194
-#EXTINF:-1 tvg-id="" tvg-name="SBT GO HD" tvg-logo="https://logos.servidor.tv/sbt.png" group-title="Canais: Aberto",SBT GO HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63193
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT HD" tvg-logo="https://logos.servidor.tv/sbt.png" group-title="Canais: Aberto",SBT HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1512
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT HD+" tvg-logo="https://logos.servidor.tv/sbt.png" group-title="Canais: Aberto",SBT HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/402
-#EXTINF:-1 tvg-id="" tvg-name="SBT Paraná HD" tvg-logo="https://logos.servidor.tv/sbt.png" group-title="Canais: Aberto",SBT Paraná HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63192
-#EXTINF:-1 tvg-id="" tvg-name="SBT PI TV Cidade Verde HD" tvg-logo="https://logos.servidor.tv/sbt.png" group-title="Canais: Aberto",SBT PI TV Cidade Verde HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63191
-#EXTINF:-1 tvg-id="" tvg-name="SBT RJ HD" tvg-logo="https://logos.servidor.tv/sbt.png" group-title="Canais: Aberto",SBT RJ HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63190
-#EXTINF:-1 tvg-id="" tvg-name="SBT RS HD" tvg-logo="https://logos.servidor.tv/sbt.png" group-title="Canais: Aberto",SBT RS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63189
-#EXTINF:-1 tvg-id="24h" tvg-name="Scooby-Doo" tvg-logo="https://logos.servidor.tv/38371fef7d829c7f8b0e2fedf7a04334.jpg" group-title="Canais: 24 Horas",Scooby-Doo
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/32603
-#EXTINF:-1 tvg-id="" tvg-name="Sesc TV HD+" tvg-logo="https://logos.servidor.tv/sesc.png" group-title="Canais: Aberto",Sesc TV HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63188
-#EXTINF:-1 tvg-id="shoptime.br" tvg-name="Shoptime SD" tvg-logo="https://logos.servidor.tv/shoptime.png" group-title="Canais: Variedade e Música",Shoptime SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/29773
-#EXTINF:-1 tvg-id="" tvg-name="Smithsonian HD" tvg-logo="https://logos.servidor.tv/smithsonian.png" group-title="Canais: Variedade e Música",Smithsonian HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63186
-#EXTINF:-1 tvg-id="" tvg-name="Smithsonian HD+" tvg-logo="https://logos.servidor.tv/smithsonian.png" group-title="Canais: Variedade e Música",Smithsonian HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63185
-#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony HD" tvg-logo="https://logos.servidor.tv/sony.png" group-title="Canais: Filme e Série",Sony HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1446
-#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony HD+" tvg-logo="https://logos.servidor.tv/sony.png" group-title="Canais: Filme e Série",Sony HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/127
-#EXTINF:-1 tvg-id="24h" tvg-name="South Park" tvg-logo="https://logos.servidor.tv/6e77e6ec9ed4394409126116a070253a.jpg" group-title="Canais: 24 Horas",South Park
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/32602
-#EXTINF:-1 tvg-id="space.br" tvg-name="Space 4K UHD" tvg-logo="https://logos.servidor.tv/space.png" group-title="Canais: 4K UHD",Space 4K UHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/56485
-#EXTINF:-1 tvg-id="space.br" tvg-name="Space HD" tvg-logo="https://logos.servidor.tv/space.png" group-title="Canais: Filme e Série",Space HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1445
-#EXTINF:-1 tvg-id="space.br" tvg-name="Space HD+" tvg-logo="https://logos.servidor.tv/space.png" group-title="Canais: Filme e Série",Space HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/125
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 HD" tvg-logo="https://logos.servidor.tv/sportv2.jpg" group-title="Canais: Esporte",SporTV 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1443
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 HD+" tvg-logo="https://logos.servidor.tv/sportv2.jpg" group-title="Canais: Esporte",SporTV 2 HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/123
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 HD" tvg-logo="https://logos.servidor.tv/sportv3.png" group-title="Canais: Esporte",SporTV 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1442
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 HD+" tvg-logo="https://logos.servidor.tv/sportv3.png" group-title="Canais: Esporte",SporTV 3 HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/121
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 4 HD" tvg-logo="https://logos.servidor.tv/sportv4.png" group-title="Canais: Esporte",SporTV 4 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/64548
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 4 HD+" tvg-logo="https://logos.servidor.tv/sportv4.png" group-title="Canais: Esporte",SporTV 4 HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/64547
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="Sportv 4K UHD" tvg-logo="https://logos.servidor.tv/sportv.png" group-title="Canais: 4K UHD",Sportv 4K UHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/56504
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV HD" tvg-logo="https://logos.servidor.tv/sportv.png" group-title="Canais: Esporte",SporTV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1444
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV HD+" tvg-logo="https://logos.servidor.tv/sportv.png" group-title="Canais: Esporte",SporTV HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/119
-#EXTINF:-1 tvg-id="fox.br" tvg-name="Star Channel 4K UHD" tvg-logo="https://logos.servidor.tv/starchannel.png" group-title="Canais: 4K UHD",Star Channel 4K UHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/56488
-#EXTINF:-1 tvg-id="fox.br" tvg-name="Star Channel HD" tvg-logo="https://logos.servidor.tv/starchannel.png" group-title="Canais: Filme e Série",Star Channel HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1473
-#EXTINF:-1 tvg-id="fox.br" tvg-name="Star Channel HD+" tvg-logo="https://logos.servidor.tv/starchannel.png" group-title="Canais: Filme e Série",Star Channel HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/304
-#EXTINF:-1 tvg-id="foxpremium1.br" tvg-name="Star Hits 1 HD" tvg-logo="https://logos.servidor.tv/starhits.png" group-title="Canais: Filme e Série",Star Hits 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1505
-#EXTINF:-1 tvg-id="foxpremium1.br" tvg-name="Star Hits 1 HD+" tvg-logo="https://logos.servidor.tv/starhits.png" group-title="Canais: Filme e Série",Star Hits 1 HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/29767
-#EXTINF:-1 tvg-id="foxpremium2.br" tvg-name="Star Hits 2 HD" tvg-logo="https://logos.servidor.tv/starhits2.png" group-title="Canais: Filme e Série",Star Hits 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/29768
-#EXTINF:-1 tvg-id="foxpremium2.br" tvg-name="Star Hits 2 HD+" tvg-logo="https://logos.servidor.tv/starhits2.png" group-title="Canais: Filme e Série",Star Hits 2 HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/29769
-#EXTINF:-1 tvg-id="foxlife.br" tvg-name="Star Life HD" tvg-logo="https://logos.servidor.tv/starlife.png" group-title="Canais: Variedade e Música",Star Life HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1472
-#EXTINF:-1 tvg-id="foxlife.br" tvg-name="Star Life HD+" tvg-logo="https://logos.servidor.tv/starlife.png" group-title="Canais: Variedade e Música",Star Life HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/303
-#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Studio Universal HD" tvg-logo="https://logos.servidor.tv/studiouniversal.png" group-title="Canais: Filme e Série",Studio Universal HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1441
-#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Studio Universal HD+" tvg-logo="https://logos.servidor.tv/studiouniversal.png" group-title="Canais: Filme e Série",Studio Universal HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/117
-#EXTINF:-1 tvg-id="24h" tvg-name="Super Campeões J" tvg-logo="https://logos.servidor.tv/supercampeoesj.png" group-title="Canais: 24 Horas",Super Campeões J
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33102
-#EXTINF:-1 tvg-id="24h" tvg-name="Super Choque" tvg-logo="https://logos.servidor.tv/f47d92020e13150d80f89e4116290500.jpg" group-title="Canais: 24 Horas",Super Choque
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/32627
-#EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy HD" tvg-logo="https://logos.servidor.tv/syfy.png" group-title="Canais: Filme e Série",Syfy HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1440
-#EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy HD+" tvg-logo="https://logos.servidor.tv/syfy.png" group-title="Canais: Filme e Série",Syfy HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/115
-#EXTINF:-1 tvg-id="" tvg-name="Tastemade HD" tvg-logo="https://logos.servidor.tv/tastemade.png" group-title="Canais: Variedade e Música",Tastemade HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63941
-#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS HD" tvg-logo="https://logos.servidor.tv/tbs.png" group-title="Canais: Filme e Série",TBS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/113
-#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD" tvg-logo="https://logos.servidor.tv/tcm.png" group-title="Canais: Filme e Série",TCM HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/99
-#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="Telecine Action HD" tvg-logo="https://logos.servidor.tv/telecineaction.png" group-title="Canais: Filme e Série",Telecine Action HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1438
-#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="Telecine Action HD+" tvg-logo="https://logos.servidor.tv/telecineaction.png" group-title="Canais: Filme e Série",Telecine Action HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/111
-#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="Telecine Cult HD" tvg-logo="https://logos.servidor.tv/telecinecult.jpg" group-title="Canais: Filme e Série",Telecine Cult HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1437
-#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="Telecine Cult HD+" tvg-logo="https://logos.servidor.tv/telecinecult.jpg" group-title="Canais: Filme e Série",Telecine Cult HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/109
-#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="Telecine Fun HD" tvg-logo="https://logos.servidor.tv/telecinefun.png" group-title="Canais: Filme e Série",Telecine Fun HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1436
-#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="Telecine Fun HD+" tvg-logo="https://logos.servidor.tv/telecinefun.png" group-title="Canais: Filme e Série",Telecine Fun HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/107
-#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="Telecine Pipoca 4K UHD" tvg-logo="https://logos.servidor.tv/telecinepipoca.png" group-title="Canais: 4K UHD",Telecine Pipoca 4K UHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/56489
-#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="Telecine Pipoca HD" tvg-logo="https://logos.servidor.tv/telecinepipoca.png" group-title="Canais: Filme e Série",Telecine Pipoca HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1435
-#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="Telecine Pipoca HD+" tvg-logo="https://logos.servidor.tv/telecinepipoca.png" group-title="Canais: Filme e Série",Telecine Pipoca HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/105
-#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="Telecine Premium 4K UHD" tvg-logo="https://logos.servidor.tv/telecinepremium.png" group-title="Canais: 4K UHD",Telecine Premium 4K UHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/56497
-#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="Telecine Premium HD" tvg-logo="https://logos.servidor.tv/telecinepremium.png" group-title="Canais: Filme e Série",Telecine Premium HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1434
-#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="Telecine Premium HD+" tvg-logo="https://logos.servidor.tv/telecinepremium.png" group-title="Canais: Filme e Série",Telecine Premium HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/103
-#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="Telecine Touch HD" tvg-logo="https://logos.servidor.tv/telecinetouch.png" group-title="Canais: Filme e Série",Telecine Touch HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1439
-#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="Telecine Touch HD+" tvg-logo="https://logos.servidor.tv/telecinetouch.png" group-title="Canais: Filme e Série",Telecine Touch HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/101
-#EXTINF:-1 tvg-id="terraviva.br" tvg-name="Terra Viva HD+" tvg-logo="https://logos.servidor.tv/terraviva.png" group-title="Canais: Aberto",Terra Viva HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/53500
-#EXTINF:-1 tvg-id="24h" tvg-name="Timão e Pumba" tvg-logo="https://logos.servidor.tv/timaoepumba.png" group-title="Canais: 24 Horas",Timão e Pumba
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33103
-#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC HD" tvg-logo="https://logos.servidor.tv/tlc.png" group-title="Canais: Variedade e Música",TLC HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/94
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT 4K UHD" tvg-logo="https://logos.servidor.tv/tnt.png" group-title="Canais: 4K UHD",TNT 4K UHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/56492
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="https://logos.servidor.tv/tnt.png" group-title="Canais: Filme e Série",TNT HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1433
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD+" tvg-logo="https://logos.servidor.tv/tnt.png" group-title="Canais: Filme e Série",TNT HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/92
-#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT Series 4K UHD" tvg-logo="https://logos.servidor.tv/tntseries.png" group-title="Canais: 4K UHD",TNT Series 4K UHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/56491
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT Series HD" tvg-logo="https://logos.servidor.tv/tntseries.png" group-title="Canais: Filme e Série",TNT Series HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1432
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 1 HD" tvg-logo="https://logos.servidor.tv/tntsport.png" group-title="Canais: Esporte PPV",TNT Sports 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63178
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 2 HD" tvg-logo="https://logos.servidor.tv/tntsport.png" group-title="Canais: Esporte PPV",TNT Sports 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63177
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 3 HD" tvg-logo="https://logos.servidor.tv/tntsport.png" group-title="Canais: Esporte PPV",TNT Sports 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63176
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 4 HD" tvg-logo="https://logos.servidor.tv/tntsport.png" group-title="Canais: Esporte PPV",TNT Sports 4 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63175
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 5 HD" tvg-logo="https://logos.servidor.tv/tntsport.png" group-title="Canais: Esporte PPV",TNT Sports 5 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63174
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports HD" tvg-logo="https://logos.servidor.tv/tntsport.png" group-title="Canais: Esporte PPV",TNT Sports HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/53517
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT Séries HD+" tvg-logo="https://logos.servidor.tv/tntseries.png" group-title="Canais: Filme e Série",TNT Séries HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/90
-#EXTINF:-1 tvg-id="24h" tvg-name="Todo Mundo Odeia o Chris" tvg-logo="https://logos.servidor.tv/d365303be8ecb3046ea28ac72f2fb9af.jpg" group-title="Canais: 24 Horas",Todo Mundo Odeia o Chris
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/32625
-#EXTINF:-1 tvg-id="24h" tvg-name="Tokyo Ghoul" tvg-logo="https://logos.servidor.tv/tokyoghoul.png" group-title="Canais: 24 Horas",Tokyo Ghoul
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33104
-#EXTINF:-1 tvg-id="24h" tvg-name="Tom e Jerry" tvg-logo="https://logos.servidor.tv/e59f6d6407b4b8062718363e33e5595e.jpg" group-title="Canais: 24 Horas",Tom e Jerry
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/32600
-#EXTINF:-1 tvg-id="24h" tvg-name="Toma Lá Dá Cá" tvg-logo="https://logos.servidor.tv/tomaladaca.png" group-title="Canais: 24 Horas",Toma Lá Dá Cá
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33116
-#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast HD" tvg-logo="https://logos.servidor.tv/217f9f912144f6e0002eafd178774f57.png" group-title="Canais: Infantil",Tooncast HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33263
-#EXTINF:-1 tvg-id="" tvg-name="Trace Brazuca HD" tvg-logo="https://logos.servidor.tv/tracebrazuca.png" group-title="Canais: Variedade e Música",Trace Brazuca HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63173
-#EXTINF:-1 tvg-id="" tvg-name="Trace Brazuca HD+" tvg-logo="https://logos.servidor.tv/tracebrazuca.png" group-title="Canais: Variedade e Música",Trace Brazuca HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63172
-#EXTINF:-1 tvg-id="travelchannel.us" tvg-name="Travel Box HD+" tvg-logo="https://logos.servidor.tv/travelbox.png" group-title="Canais: Variedade e Música",Travel Box HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/53508
-#EXTINF:-1 tvg-id="trutv.br" tvg-name="Tru TV HD" tvg-logo="https://logos.servidor.tv/trutv.png" group-title="Canais: Variedade e Música",Tru TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/53510
-#EXTINF:-1 tvg-id="24h" tvg-name="Três Espiãs Demais" tvg-logo="https://logos.servidor.tv/tresespiasdemais.png" group-title="Canais: 24 Horas",Três Espiãs Demais
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33105
-#EXTINF:-1 tvg-id="tvaparecida.br" tvg-name="TV Aparecida HD" tvg-logo="https://logos.servidor.tv/tvaparecida.png" group-title="Canais: Religião",TV Aparecida HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33184
-#EXTINF:-1 tvg-id="tvbrasilcentral.br" tvg-name="TV Brasil 2 HD+" tvg-logo="https://logos.servidor.tv/tvbrasil2.png" group-title="Canais: Aberto",TV Brasil 2 HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/53492
-#EXTINF:-1 tvg-id="tvbrasil.br" tvg-name="TV Brasil HD" tvg-logo="https://logos.servidor.tv/tvbrasil.jpg" group-title="Canais: Aberto",TV Brasil HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/22513
-#EXTINF:-1 tvg-id="tvcamara.br" tvg-name="TV Camara HD" tvg-logo="https://logos.servidor.tv/tvcamara.jpg" group-title="Canais: Aberto",TV Camara HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/22511
-#EXTINF:-1 tvg-id="" tvg-name="TV Clipes Gospel SD" tvg-logo="https://logos.servidor.tv/clipesgospel.png" group-title="Canais: Variedade e Música",TV Clipes Gospel SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63171
-#EXTINF:-1 tvg-id="" tvg-name="TV Comunitária HD+" tvg-logo="https://logos.servidor.tv/tvcomunitaria.png" group-title="Canais: Aberto",TV Comunitária HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/53491
-#EXTINF:-1 tvg-id="TV Cultura (BR)" tvg-name="TV Cultura HD" tvg-logo="https://logos.servidor.tv/cultura.jpg" group-title="Canais: Aberto",TV Cultura HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/29772
-#EXTINF:-1 tvg-id="tvdiario.br" tvg-name="TV Diario HD" tvg-logo="https://logos.servidor.tv/tvdiario.png" group-title="Canais: Aberto",TV Diario HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/4473
-#EXTINF:-1 tvg-id="tvdiario.br" tvg-name="TV Diario HD+" tvg-logo="https://logos.servidor.tv/tvdiario.png" group-title="Canais: Aberto",TV Diario HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/4472
-#EXTINF:-1 tvg-id="" tvg-name="TV Diário do Sertão HD" tvg-logo="https://logos.servidor.tv/tvdiariosertao.png" group-title="Canais: Aberto",TV Diário do Sertão HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63145
-#EXTINF:-1 tvg-id="tvescola.br" tvg-name="TV Escola HD" tvg-logo="https://logos.servidor.tv/tvescola.jpg" group-title="Canais: Aberto",TV Escola HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/22514
-#EXTINF:-1 tvg-id="TV Evangelizar" tvg-name="TV Evangelizar HD" tvg-logo="https://logos.servidor.tv/5c5583291e6ac7dd894161af04603563.png" group-title="Canais: Religião",TV Evangelizar HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/33264
-#EXTINF:-1 tvg-id="tvjustica.br" tvg-name="TV Justiça HD" tvg-logo="https://logos.servidor.tv/tvjustica.jpg" group-title="Canais: Aberto",TV Justiça HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/22512
-#EXTINF:-1 tvg-id="" tvg-name="TV Leão De Juda HD" tvg-logo="https://logos.servidor.tv/leaojudas.png" group-title="Canais: Religião",TV Leão De Juda HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63170
-#EXTINF:-1 tvg-id="" tvg-name="TV Marajoara HD" tvg-logo="https://logos.servidor.tv/tvmarajoara.png" group-title="Canais: Aberto",TV Marajoara HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63169
-#EXTINF:-1 tvg-id="" tvg-name="TV NSports - Serie C 01 HD" tvg-logo="https://logos.servidor.tv/tvnsports.png" group-title="Canais: Esporte PPV",TV NSports - Serie C 01 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63168
-#EXTINF:-1 tvg-id="" tvg-name="TV NSports - Serie C 02 HD" tvg-logo="https://logos.servidor.tv/tvnsports.png" group-title="Canais: Esporte PPV",TV NSports - Serie C 02 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63167
-#EXTINF:-1 tvg-id="" tvg-name="TV NSports 1 HD" tvg-logo="https://logos.servidor.tv/tvnsports.png" group-title="Canais: Esporte PPV",TV NSports 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63166
-#EXTINF:-1 tvg-id="" tvg-name="TV NSports 2 HD" tvg-logo="https://logos.servidor.tv/tvnsports.png" group-title="Canais: Esporte PPV",TV NSports 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63165
-#EXTINF:-1 tvg-id="tvsenado.br" tvg-name="TV Senado HD" tvg-logo="https://logos.servidor.tv/tvsenado.jpg" group-title="Canais: Aberto",TV Senado HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/22515
-#EXTINF:-1 tvg-id="" tvg-name="TV Terceiro Anjo SD" tvg-logo="https://logos.servidor.tv/terceiroanjo.png" group-title="Canais: Religião",TV Terceiro Anjo SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63164
-#EXTINF:-1 tvg-id="" tvg-name="TV WA HD" tvg-logo="https://logos.servidor.tv/tvwa.png" group-title="Canais: Variedade e Música",TV WA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63162
-#EXTINF:-1 tvg-id="" tvg-name="TV WA HD+" tvg-logo="https://logos.servidor.tv/tvwa.png" group-title="Canais: Variedade e Música",TV WA HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63163
-#EXTINF:-1 tvg-id="TV5 (BR)" tvg-name="TV5 SD" tvg-logo="https://logos.servidor.tv/tv5.png" group-title="Canais: Variedade e Música",TV5 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/69
-#EXTINF:-1 tvg-id="" tvg-name="TVE Bahia HD" tvg-logo="https://logos.servidor.tv/tvebahia.jpg" group-title="Canais: Aberto",TVE Bahia HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63161
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports F1 HD" tvg-logo="https://logos.servidor.tv/skysports.png" group-title="Canais: Esporte PPV",UK: Sky Sports F1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/63160
-#EXTINF:-1 tvg-id="24h" tvg-name="Um Maluco no Pedaço" tvg-logo="https://logos.servidor.tv/dbfa8ccc994f646a37d7f8ae25976fa1.jpg" group-title="Canais: 24 Horas",Um Maluco no Pedaço
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/32592
-#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Universal Channel HD" tvg-logo="https://logos.servidor.tv/universalchannel.jpg" group-title="Canais: Filme e Série",Universal Channel HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1431
-#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Universal Channel HD+" tvg-logo="https://logos.servidor.tv/universalchannel.jpg" group-title="Canais: Filme e Série",Universal Channel HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/67
-#EXTINF:-1 tvg-id="vh1.br" tvg-name="VH1 HD" tvg-logo="https://logos.servidor.tv/vh1.png" group-title="Canais: Variedade e Música",VH1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/65
-#EXTINF:-1 tvg-id="vh1megahits.br" tvg-name="VH1 Mega Hits SD" tvg-logo="https://logos.servidor.tv/vh1.png" group-title="Canais: Variedade e Música",VH1 Mega Hits SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/64
-#EXTINF:-1 tvg-id="viva.br" tvg-name="Viva HD" tvg-logo="https://logos.servidor.tv/viva.jpg" group-title="Canais: Variedade e Música",Viva HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/2680
-#EXTINF:-1 tvg-id="viva.br" tvg-name="Viva HD+" tvg-logo="https://logos.servidor.tv/viva.jpg" group-title="Canais: Variedade e Música",Viva HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/10
-#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="Warner Channel HD" tvg-logo="https://logos.servidor.tv/warnerchannel.png" group-title="Canais: Filme e Série",Warner Channel HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/1430
-#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="Warner Channel HD+" tvg-logo="https://logos.servidor.tv/warnerchannel.png" group-title="Canais: Filme e Série",Warner Channel HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/61
-#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WooHoo HD+" tvg-logo="https://logos.servidor.tv/woohoo.jpg" group-title="Canais: Variedade e Música",WooHoo HD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/59
-#EXTINF:-1 tvg-id="24h" tvg-name="X-Men Evolution" tvg-logo="https://logos.servidor.tv/b7cabddda4e749f571be9f5e237a4b81.jpg" group-title="Canais: 24 Horas",X-Men Evolution
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://canaishd.servidor.tv:8080/denilson100/100denilson/32628
+
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD" tvg-logo="https://imgur.com/Nl3KENM.jpeg" group-title="CANAIS | FILMES E SÉRIES",A&E FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17574
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD [H265]" tvg-logo="https://imgur.com/Nl3KENM.jpeg" group-title="CANAIS | FILMES E SÉRIES",A&E FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113147
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://imgur.com/Nl3KENM.jpeg" group-title="CANAIS | FILMES E SÉRIES",A&E HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17575
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="https://imgur.com/Nl3KENM.jpeg" group-title="CANAIS | FILMES E SÉRIES",A&E SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113098
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD" tvg-logo="https://imgur.com/HDyv8Lj.jpeg" group-title="CANAIS | FILMES E SÉRIES",AMC FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113102
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD [H265]" tvg-logo="https://imgur.com/HDyv8Lj.jpeg" group-title="CANAIS | FILMES E SÉRIES",AMC FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113146
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="https://imgur.com/HDyv8Lj.jpeg" group-title="CANAIS | FILMES E SÉRIES",AMC HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17987
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="https://imgur.com/HDyv8Lj.jpeg" group-title="CANAIS | FILMES E SÉRIES",AMC SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113101
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet FHD" tvg-logo="https://imgur.com/gO2rMMT.jpeg" group-title="CANAIS I DOCUMENTARIOS ",Animal Planet FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17580
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet FHD [H265]" tvg-logo="https://imgur.com/gO2rMMT.jpeg" group-title="CANAIS I DOCUMENTARIOS ",Animal Planet FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113177
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-logo="https://imgur.com/gO2rMMT.jpeg" group-title="CANAIS I DOCUMENTARIOS ",Animal Planet HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/408361
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet SD" tvg-logo="https://imgur.com/gO2rMMT.jpeg" group-title="CANAIS I DOCUMENTARIOS ",Animal Planet SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17584
+#EXTINF:-1 tvg-id="" tvg-name="Arte 1 FHD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/arte1.png" group-title="CANAIS | VARIEDADES",Arte 1 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17586
+#EXTINF:-1 tvg-id="" tvg-name="Arte 1 HD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/arte1.png" group-title="CANAIS | VARIEDADES",Arte 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17587
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD" tvg-logo="https://imgur.com/IWPQdYG.jpeg" group-title="CANAIS | FILMES E SÉRIES",AXN FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17592
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD [H265]" tvg-logo="https://imgur.com/IWPQdYG.jpeg" group-title="CANAIS | FILMES E SÉRIES",AXN FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113160
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="https://imgur.com/IWPQdYG.jpeg" group-title="CANAIS | FILMES E SÉRIES",AXN HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17891
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD" tvg-logo="https://imgur.com/IWPQdYG.jpeg" group-title="CANAIS | FILMES E SÉRIES",AXN SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17892
+#EXTINF:-1 tvg-id="" tvg-name="BAND Bahia HD" tvg-logo="https://imgur.com/c1yTmCX.jpeg" group-title="CANAIS | ABERTOS",BAND Bahia HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113044
+#EXTINF:-1 tvg-id="" tvg-name="Band BSB HD" tvg-logo="https://imgur.com/c1yTmCX.jpeg " group-title="CANAIS | ABERTOS",Band BSB HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113080
+#EXTINF:-1 tvg-id="" tvg-name="BAND CAMPINAS HD" tvg-logo="https://imgur.com/c1yTmCX.jpeg" group-title="CANAIS | ABERTOS",BAND CAMPINAS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113081
+#EXTINF:-1 tvg-id="" tvg-name="BAND HD" tvg-logo="https://imgur.com/c1yTmCX.jpeg" group-title="CANAIS | ABERTOS",BAND HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/37271
+#EXTINF:-1 tvg-id="" tvg-name="Band RJ HD" tvg-logo="https://imgur.com/c1yTmCX.jpeg" group-title="CANAIS | ABERTOS",Band RJ HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113082
+#EXTINF:-1 tvg-id="" tvg-name="Band RS HD" tvg-logo="https://imgur.com/c1yTmCX.jpeg" group-title="CANAIS | ABERTOS",Band RS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113083
+#EXTINF:-1 tvg-id="" tvg-name="Band Sergipe HD" tvg-logo="https://imgur.com/c1yTmCX.jpeg" group-title="CANAIS | ABERTOS",Band Sergipe HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113061
+#EXTINF:-1 tvg-id="" tvg-name="BAND SP FHD" tvg-logo="https://imgur.com/c1yTmCX.jpeg" group-title="CANAIS | ABERTOS",BAND SP FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/37272
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BandNews FHD" tvg-logo="https://imgur.com/QegcPKB.jpeg" group-title="CANAIS | NOTICIAS",BandNews FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17598
+#EXTINF:-1 tvg-id="" tvg-name="BandNews FHD [H265]" tvg-logo="https://imgur.com/QegcPKB.jpeg" group-title="CANAIS | NOTICIAS",BandNews FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113206
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BandNews HD" tvg-logo="https://imgur.com/QegcPKB.jpeg" group-title="CANAIS | NOTICIAS",BandNews HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17600
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BandNews SD" tvg-logo="https://imgur.com/QegcPKB.jpeg" group-title="CANAIS | NOTICIAS",BandNews SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17602
+#EXTINF:-1 tvg-id="" tvg-name="BandSports FHD" tvg-logo="https://imgur.com/LdKmx1j.jpeg" group-title="CANAIS | ESPORTES",BandSports FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17604
+#EXTINF:-1 tvg-id="" tvg-name="BandSports FHD [H265]" tvg-logo="https://imgur.com/LdKmx1j.jpeg" group-title="CANAIS | ESPORTES",BandSports FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113136
+#EXTINF:-1 tvg-id="" tvg-name="BandSports HD" tvg-logo="https://imgur.com/LdKmx1j.jpeg" group-title="CANAIS | ESPORTES",BandSports HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17606
+#EXTINF:-1 tvg-id="" tvg-name="BandSports SD" tvg-logo="https://imgur.com/LdKmx1j.jpeg" group-title="CANAIS | ESPORTES",BandSports SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113118
+#EXTINF:-1 tvg-id="" tvg-name="BIS FHD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/bis.png" group-title="CANAIS | VARIEDADES",BIS FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18004
+#EXTINF:-1 tvg-id="" tvg-name="BIS HD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/bis.png" group-title="CANAIS | VARIEDADES",BIS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18005
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang FHD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/boomerang.png" group-title="CANAIS | INFANTIL",Boomerang FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17611
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang FHD [H265]" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/boomerang.png" group-title="CANAIS | INFANTIL",Boomerang FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18252
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang HD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/boomerang.png" group-title="CANAIS | INFANTIL",Boomerang HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17612
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Carioca 1 FHD" tvg-logo="https://saudacoestricolores.com/wp-content/uploads/2021/01/135059546_235940607912478_3968628035648708491_n-1024x1024.jpg" group-title="CANAIS | ESPORTES",Campeonato Carioca 1 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38271
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Carioca 1 HD" tvg-logo="https://saudacoestricolores.com/wp-content/uploads/2021/01/135059546_235940607912478_3968628035648708491_n-1024x1024.jpg" group-title="CANAIS | ESPORTES",Campeonato Carioca 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38270
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE (JOGO1)" tvg-logo="https://imgur.com/d0Bl7DB.jpeg" group-title="CANAIS | ESPORTES",CAMPEONATO CATARINENSE (JOGO1)
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39670
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE (JOGO2)" tvg-logo="https://imgur.com/d0Bl7DB.jpeg" group-title="CANAIS | ESPORTES",CAMPEONATO CATARINENSE (JOGO2)
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39671
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE (JOGO3)" tvg-logo="https://imgur.com/d0Bl7DB.jpeg" group-title="CANAIS | ESPORTES",CAMPEONATO CATARINENSE (JOGO3)
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39672
+#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANÇÃO NOVA HD" tvg-logo="https://imgur.com/LemdQhR.jpeg" group-title="CANAIS | RELIGIOSOS",CANÇÃO NOVA HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/36364
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network FHD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/cartoonnetwork.png" group-title="CANAIS | INFANTIL",Cartoon Network FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/23495
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network FHD [H265]" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/cartoonnetwork.png" group-title="CANAIS | INFANTIL",Cartoon Network FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113209
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/cartoonnetwork.png" group-title="CANAIS | INFANTIL",Cartoon Network HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17617
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 1" tvg-logo="https://imgur.com/xKcOGqW.jpeg" group-title="CANAIS | CINE SKY",Cine SKY 1
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/35643
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 2" tvg-logo="https://imgur.com/xKcOGqW.jpeg" group-title="CANAIS | CINE SKY",Cine SKY 2
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/35644
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 3" tvg-logo="https://imgur.com/xKcOGqW.jpeg" group-title="CANAIS | CINE SKY",Cine SKY 3
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/35645
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 4" tvg-logo="https://imgur.com/xKcOGqW.jpeg" group-title="CANAIS | CINE SKY",Cine SKY 4
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/35646
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 5" tvg-logo="https://imgur.com/xKcOGqW.jpeg" group-title="CANAIS | CINE SKY",Cine SKY 5
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/35647
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax FHD" tvg-logo="https://imgur.com/K4sdnjs.jpeg" group-title="CANAIS | FILMES E SÉRIES",Cinemax FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17621
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax FHD [H265]" tvg-logo="https://imgur.com/K4sdnjs.jpeg" group-title="CANAIS | FILMES E SÉRIES",Cinemax FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113166
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax HD" tvg-logo="https://imgur.com/K4sdnjs.jpeg" group-title="CANAIS | FILMES E SÉRIES",Cinemax HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17623
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax SD" tvg-logo="https://imgur.com/K4sdnjs.jpeg" group-title="CANAIS | FILMES E SÉRIES",Cinemax SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17625
+#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN Brasil FHD" tvg-logo="https://imgur.com/mQpuTGf.jpeg" group-title="CANAIS | NOTICIAS",CNN Brasil FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17538
+#EXTINF:-1 tvg-id="" tvg-name="CNN Brasil FHD [H265]" tvg-logo="https://imgur.com/mQpuTGf.jpeg" group-title="CANAIS | NOTICIAS",CNN Brasil FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113207
+#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN Brasil HD" tvg-logo="https://imgur.com/mQpuTGf.jpeg" group-title="CANAIS | NOTICIAS",CNN Brasil HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17540
+#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN Brasil SD" tvg-logo="https://imgur.com/mQpuTGf.jpeg" group-title="CANAIS | NOTICIAS",CNN Brasil SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17542
+#EXTINF:-1 tvg-id="" tvg-name="Combate FHD" tvg-logo="https://imgur.com/OlDFDhV.jpeg" group-title="CANAIS | ESPORTES",Combate FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38277
+#EXTINF:-1 tvg-id="" tvg-name="Combate FHD [H265]" tvg-logo="https://imgur.com/OlDFDhV.jpeg" group-title="CANAIS | ESPORTES",Combate FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113145
+#EXTINF:-1 tvg-id="" tvg-name="Combate HD" tvg-logo="https://imgur.com/OlDFDhV.jpeg" group-title="CANAIS | ESPORTES",Combate HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38276
+#EXTINF:-1 tvg-id="" tvg-name="Combate SD" tvg-logo="https://imgur.com/OlDFDhV.jpeg" group-title="CANAIS | ESPORTES",Combate SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113109
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central FHD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/comedycentral.png" group-title="CANAIS | VARIEDADES",Comedy Central FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17627
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/comedycentral.png" group-title="CANAIS | VARIEDADES",Comedy Central HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17906
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 1 HD" tvg-logo="https://imgur.com/IpqeLND.jpeg" group-title="CANAIS | ESPORTES",Conmebol TV 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113233
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 1 FHD" tvg-logo="https://imgur.com/IpqeLND.jpeg" group-title="CANAIS | ESPORTES",Conmebol TV 1 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18198
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 2 HD" tvg-logo="https://imgur.com/IpqeLND.jpeg" group-title="CANAIS | ESPORTES",Conmebol TV 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113234
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 2 FHD" tvg-logo="https://imgur.com/IpqeLND.jpeg" group-title="CANAIS | ESPORTES",Conmebol TV 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18201
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 3 HD" tvg-logo="https://imgur.com/IpqeLND.jpeg" group-title="CANAIS | ESPORTES",Conmebol TV 3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113235
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 3 FHD" tvg-logo="https://imgur.com/IpqeLND.jpeg" group-title="CANAIS | ESPORTES",Conmebol TV 3 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18204
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 4 FHD" tvg-logo="https://imgur.com/IpqeLND.jpeg" group-title="CANAIS | ESPORTES",Conmebol TV 4 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113232
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2020 (JOGO 2)" tvg-logo="https://imgur.com/YVJVMgD.jpeg" group-title="CANAIS | ESPORTES",COPA DO NORDESTE 2020 (JOGO 2)
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39675
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2020 (JOGO 3)" tvg-logo="https://imgur.com/YVJVMgD.jpeg" group-title="CANAIS | ESPORTES",COPA DO NORDESTE 2020 (JOGO 3)
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39676
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2020 (JOGO 4)" tvg-logo="https://imgur.com/YVJVMgD.jpeg" group-title="CANAIS | ESPORTES",COPA DO NORDESTE 2020 (JOGO 4)
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39677
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2020 (JOGO 5 )" tvg-logo="https://imgur.com/YVJVMgD.jpeg" group-title="CANAIS | ESPORTES",COPA DO NORDESTE 2020 (JOGO 5 )
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39678
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2020 (JOGO 6)" tvg-logo="https://imgur.com/YVJVMgD.jpeg" group-title="CANAIS | ESPORTES",COPA DO NORDESTE 2020 (JOGO 6)
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39679
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="COPA DO NORDESTE 2020 (JOGO1)" tvg-logo="https://imgur.com/YVJVMgD.jpeg" group-title="CANAIS | ESPORTES",COPA DO NORDESTE 2020 (JOGO1)
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39674
+#EXTINF:-1 tvg-id="" tvg-name="Curta! FHD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/curta.png" group-title="CANAIS | VARIEDADES",Curta! FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17633
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="https://imgur.com/BI2m56y.jpeg" group-title="CANAIS | ESPORTES",DAZN 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18209
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="https://imgur.com/BI2m56y.jpeg" group-title="CANAIS | ESPORTES",DAZN 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18210
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD" tvg-logo="https://imgur.com/BI2m56y.jpeg" group-title="CANAIS | ESPORTES",DAZN 3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18211
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 HD" tvg-logo="https://imgur.com/BI2m56y.jpeg" group-title="CANAIS | ESPORTES",DAZN 4 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113196
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel FHD" tvg-logo="https://imgur.com/Wzh8vcp.jpeg" group-title="CANAIS I DOCUMENTARIOS ",Discovery Channel FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17639
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel FHD [H265]" tvg-logo="https://imgur.com/Wzh8vcp.jpeg" group-title="CANAIS I DOCUMENTARIOS ",Discovery Channel FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113176
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel HD" tvg-logo="https://imgur.com/Wzh8vcp.jpeg" group-title="CANAIS I DOCUMENTARIOS ",Discovery Channel HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17641
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel SD" tvg-logo="https://imgur.com/Wzh8vcp.jpeg" group-title="CANAIS I DOCUMENTARIOS ",Discovery Channel SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17643
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery Home & Health FHD" tvg-logo="https://imgur.com/l0XxwfB.jpeg" group-title="CANAIS I DOCUMENTARIOS ",Discovery Home & Health FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17645
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health FHD [H265]" tvg-logo="https://imgur.com/l0XxwfB.jpeg" group-title="CANAIS I DOCUMENTARIOS ",Discovery Home & Health FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113223
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery Home & Health HD" tvg-logo="https://imgur.com/l0XxwfB.jpeg" group-title="CANAIS I DOCUMENTARIOS ",Discovery Home & Health HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17647
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery Home & Health SD" tvg-logo="https://imgur.com/l0XxwfB.jpeg" group-title="CANAIS I DOCUMENTARIOS ",Discovery Home & Health SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17649
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids FHD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/discoverykids.png" group-title="CANAIS | INFANTIL",Discovery Kids FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17657
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids FHD [H265]" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/discoverykids.png" group-title="CANAIS | INFANTIL",Discovery Kids FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113215
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids HD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/discoverykids.png" group-title="CANAIS | INFANTIL",Discovery Kids HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17659
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science FHD" tvg-logo="https://imgur.com/Qkzqjhu.jpeg" group-title="CANAIS I DOCUMENTARIOS ",Discovery Science FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17663
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science FHD [H265]" tvg-logo="https://imgur.com/Qkzqjhu.jpeg" group-title="CANAIS I DOCUMENTARIOS ",Discovery Science FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113174
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science HD" tvg-logo="https://imgur.com/Qkzqjhu.jpeg" group-title="CANAIS I DOCUMENTARIOS ",Discovery Science HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17665
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science SD" tvg-logo="https://imgur.com/Qkzqjhu.jpeg" group-title="CANAIS I DOCUMENTARIOS ",Discovery Science SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17667
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Discovery Theater FHD" tvg-logo="https://imgur.com/2y4CSHd.jpeg" group-title="CANAIS I DOCUMENTARIOS ",Discovery Theater FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18243
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater FHD [H265]" tvg-logo="https://imgur.com/2y4CSHd.jpeg" group-title="CANAIS I DOCUMENTARIOS ",Discovery Theater FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113171
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Discovery Theater HD" tvg-logo="https://imgur.com/2y4CSHd.jpeg" group-title="CANAIS I DOCUMENTARIOS ",Discovery Theater HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18244
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Discovery Theater SD" tvg-logo="https://imgur.com/2y4CSHd.jpeg" group-title="CANAIS I DOCUMENTARIOS ",Discovery Theater SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18245
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="Discovery Turbo FHD" tvg-logo="https://imgur.com/ERhEnfq.jpeg" group-title="CANAIS I DOCUMENTARIOS ",Discovery Turbo FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17669
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo FHD [H265]" tvg-logo="https://imgur.com/ERhEnfq.jpeg" group-title="CANAIS I DOCUMENTARIOS ",Discovery Turbo FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113173
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="Discovery Turbo HD" tvg-logo="https://imgur.com/ERhEnfq.jpeg" group-title="CANAIS I DOCUMENTARIOS ",Discovery Turbo HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17671
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="Discovery Turbo SD" tvg-logo="https://imgur.com/ERhEnfq.jpeg" group-title="CANAIS I DOCUMENTARIOS ",Discovery Turbo SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17673
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="Discovery World FHD" tvg-logo="https://imgur.com/y6YfpbC.jpeg" group-title="CANAIS I DOCUMENTARIOS ",Discovery World FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17675
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World FHD [H265]" tvg-logo="https://imgur.com/y6YfpbC.jpeg" group-title="CANAIS I DOCUMENTARIOS ",Discovery World FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113172
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="Discovery World HD" tvg-logo="https://imgur.com/y6YfpbC.jpeg" group-title="CANAIS I DOCUMENTARIOS ",Discovery World HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17677
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="Discovery World SD" tvg-logo="https://imgur.com/y6YfpbC.jpeg" group-title="CANAIS I DOCUMENTARIOS ",Discovery World SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17679
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior FHD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/disneyjunior.png" group-title="CANAIS | INFANTIL",Disney Junior FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17688
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior FHD [H265]" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/disneyjunior.png" group-title="CANAIS | INFANTIL",Disney Junior FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113214
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior HD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/disneyjunior.png" group-title="CANAIS | INFANTIL",Disney Junior HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17689
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD FHD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/disneyxd.png" group-title="CANAIS | INFANTIL",Disney XD FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18254
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD HD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/disneyxd.png" group-title="CANAIS | INFANTIL",Disney XD HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18255
+#EXTINF:-1 tvg-id="" tvg-name="E! FHD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/e.png" group-title="CANAIS | VARIEDADES",E! FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17694
+#EXTINF:-1 tvg-id="" tvg-name="E! HD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/e.png" group-title="CANAIS | VARIEDADES",E! HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17695
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FHD" tvg-logo="https://imgur.com/XtqBLmH.jpeg" group-title="CANAIS | ESPORTES",ESPN 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17705
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FHD [H265]" tvg-logo="https://imgur.com/XtqBLmH.jpeg" group-title="CANAIS | ESPORTES",ESPN 2 FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113137
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="https://imgur.com/XtqBLmH.jpeg" group-title="CANAIS | ESPORTES",ESPN 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17707
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 SD" tvg-logo="https://imgur.com/XtqBLmH.jpeg" group-title="CANAIS | ESPORTES",ESPN 2 SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113116
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil FHD" tvg-logo="https://imgur.com/kcyZFYZ.jpeg" group-title="CANAIS | ESPORTES",ESPN Brasil FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17711
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil FHD [H265]" tvg-logo="https://imgur.com/kcyZFYZ.jpeg" group-title="CANAIS | ESPORTES",ESPN Brasil FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113138
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil HD" tvg-logo="https://imgur.com/kcyZFYZ.jpeg" group-title="CANAIS | ESPORTES",ESPN Brasil HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17712
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil SD" tvg-logo="https://imgur.com/kcyZFYZ.jpeg" group-title="CANAIS | ESPORTES",ESPN Brasil SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113117
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Extra FHD" tvg-logo="https://imgur.com/Hb1Nllt.jpeg" group-title="CANAIS | ESPORTES",ESPN Extra FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17716
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Extra HD" tvg-logo="https://imgur.com/Hb1Nllt.jpeg" group-title="CANAIS | ESPORTES",ESPN Extra HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17718
+#EXTINF:-1 tvg-id="" tvg-name="ESPN FHD" tvg-logo="https://imgur.com/dJ2vGyC.jpeg" group-title="CANAIS | ESPORTES",ESPN FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17699
+#EXTINF:-1 tvg-id="" tvg-name="ESPN FHD [H265]" tvg-logo="https://imgur.com/dJ2vGyC.jpeg" group-title="CANAIS | ESPORTES",ESPN FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113139
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="https://imgur.com/dJ2vGyC.jpeg" group-title="CANAIS | ESPORTES",ESPN HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17701
+#EXTINF:-1 tvg-id="" tvg-name="ESPN SD" tvg-logo="https://imgur.com/dJ2vGyC.jpeg" group-title="CANAIS | ESPORTES",ESPN SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113115
+#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT 1 HD" tvg-logo="https://golazzo.com.br/wp-content/uploads/2021/01/Esporte-Interativo-Ei-Plus-Estadio-TNT-Sports.jpg" group-title="CANAIS | ESPORTES",Estádio TNT 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/37308
+#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT 2 HD" tvg-logo="https://golazzo.com.br/wp-content/uploads/2021/01/Esporte-Interativo-Ei-Plus-Estadio-TNT-Sports.jpg" group-title="CANAIS | ESPORTES",Estádio TNT 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/37309
+#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT 3 HD" tvg-logo="https://golazzo.com.br/wp-content/uploads/2021/01/Esporte-Interativo-Ei-Plus-Estadio-TNT-Sports.jpg" group-title="CANAIS | ESPORTES",Estádio TNT 3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/106773
+#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT 4 HD" tvg-logo="https://golazzo.com.br/wp-content/uploads/2021/01/Esporte-Interativo-Ei-Plus-Estadio-TNT-Sports.jpg" group-title="CANAIS | ESPORTES",Estádio TNT 4 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/106774
+#EXTINF:-1 tvg-id="" tvg-name="Fashion TV Brazil FHD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/fashiontv.png" group-title="CANAIS | VARIEDADES",Fashion TV Brazil FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17722
+#EXTINF:-1 tvg-id="" tvg-name="Fashion TV Brazil HD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/fashiontv.png" group-title="CANAIS | VARIEDADES",Fashion TV Brazil HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17724
+#EXTINF:-1 tvg-id="" tvg-name="Fish TV FHD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/fishtv.png" group-title="CANAIS | VARIEDADES",Fish TV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17728
+#EXTINF:-1 tvg-id="" tvg-name="Fish TV HD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/fishtv.png" group-title="CANAIS | VARIEDADES",Fish TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17730
+#EXTINF:-1 tvg-id="" tvg-name="Record RS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="CANAIS | ABERTOS",Record RS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/37305
+#EXTINF:-1 tvg-id="" tvg-name="Food Network FHD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/foodnetwork.png" group-title="CANAIS | VARIEDADES",Food Network FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17734
+#EXTINF:-1 tvg-id="" tvg-name="Food Network HD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/foodnetwork.png" group-title="CANAIS | VARIEDADES",Food Network HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17736
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 FHD" tvg-logo="https://imgur.com/pT0AwHe.jpeg" group-title="CANAIS | ESPORTES",Fox Sports 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17770
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 FHD [H265]" tvg-logo="https://imgur.com/pT0AwHe.jpeg" group-title="CANAIS | ESPORTES",Fox Sports 2 FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113140
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 HD" tvg-logo="https://imgur.com/pT0AwHe.jpeg" group-title="CANAIS | ESPORTES",Fox Sports 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17772
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 SD" tvg-logo="https://imgur.com/pT0AwHe.jpeg" group-title="CANAIS | ESPORTES",Fox Sports 2 SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113114
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports FHD" tvg-logo="https://imgur.com/qUMTDzi.jpeg" group-title="CANAIS | ESPORTES",Fox Sports FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17764
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="Fox Sports FHD [H265]" tvg-logo="https://imgur.com/qUMTDzi.jpeg" group-title="CANAIS | ESPORTES",Fox Sports FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113141
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports HD" tvg-logo="https://imgur.com/qUMTDzi.jpeg" group-title="CANAIS | ESPORTES",Fox Sports HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17766
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports SD" tvg-logo="https://imgur.com/qUMTDzi.jpeg" group-title="CANAIS | ESPORTES",Fox Sports SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113113
+#EXTINF:-1 tvg-id="" tvg-name="Futura HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_futura-hd_m.png" group-title="CANAIS | ABERTOS",Futura HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/37301
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD" tvg-logo="https://imgur.com/7VJTbXw.jpeg" group-title="CANAIS | FILMES E SÉRIES",FX FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17776
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD [H265]" tvg-logo="https://imgur.com/7VJTbXw.jpeg" group-title="CANAIS | FILMES E SÉRIES",FX FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113165
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="https://imgur.com/7VJTbXw.jpeg" group-title="CANAIS | FILMES E SÉRIES",FX HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17778
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD" tvg-logo="https://imgur.com/7VJTbXw.jpeg" group-title="CANAIS | FILMES E SÉRIES",FX SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17780
+#EXTINF:-1 tvg-id="" tvg-name="GAZETA HD SP" tvg-logo="http://www.costadosol.tv.br/site/wp-content/uploads/2017/12/tv-gazeta.png" group-title="CANAIS | ABERTOS",GAZETA HD SP
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113066
+#EXTINF:-1 tvg-id="" tvg-name="Globo Brasilia FHD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo Brasilia FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38839
+#EXTINF:-1 tvg-id="" tvg-name="Globo Brasilia FHD [Alter]" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo Brasilia FHD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38840
+#EXTINF:-1 tvg-id="" tvg-name="Globo Brasilia HD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo Brasilia HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38841
+#EXTINF:-1 tvg-id="" tvg-name="Globo Brasilia HD [Alter]" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo Brasilia HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38842
+#EXTINF:-1 tvg-id="" tvg-name="Globo Brasilia SD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo Brasilia SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38843
+#EXTINF:-1 tvg-id="" tvg-name="Globo Brasilia SD [Alter]" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo Brasilia SD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38844
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Campinas FHD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo EPTV Campinas FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38845
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Campinas FHD [Alter]" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo EPTV Campinas FHD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38846
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Campinas HD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo EPTV Campinas HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38847
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Campinas HD [Alter]" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo EPTV Campinas HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38848
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Campinas SD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo EPTV Campinas SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38849
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Campinas SD [Alter]" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo EPTV Campinas SD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38850
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Central HD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo EPTV Central HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38851
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Central SD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo EPTV Central SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38852
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Ribeirao Preto FHD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo EPTV Ribeirao Preto FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38853
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Ribeirao Preto HD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo EPTV Ribeirao Preto HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38854
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Ribeirao Preto SD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo EPTV Ribeirao Preto SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38855
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Sul de Minas FHD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo EPTV Sul de Minas FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38859
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Sul de Minas HD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo EPTV Sul de Minas HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38860
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Sul de Minas SD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo EPTV Sul de Minas SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38861
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Alto Litoral FHD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo Inter TV Alto Litoral FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38862
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Alto Litoral HD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo Inter TV Alto Litoral HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38863
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Alto Litoral SD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo Inter TV Alto Litoral SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38864
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Cabugi FHD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo Inter TV Cabugi FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38865
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Cabugi HD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo Inter TV Cabugi HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38866
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV dos Vales FHD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo Inter TV dos Vales FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38870
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV dos Vales HD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo Inter TV dos Vales HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38871
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV dos Vales SD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo Inter TV dos Vales SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38872
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Grande Minas FHD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo Inter TV Grande Minas FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38873
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Grande Minas HD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo Inter TV Grande Minas HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38874
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Grande Minas SD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo Inter TV Grande Minas SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38875
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Serra Mar FHD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo Inter TV Serra Mar FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38878
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Serra Mar HD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo Inter TV Serra Mar HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38879
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Serra Mar SD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo Inter TV Serra Mar SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38880
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER VALE MG HD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",GLOBO INTER VALE MG HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113058
+#EXTINF:-1 tvg-id="" tvg-name="Globo Minas FHD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo Minas FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38881
+#EXTINF:-1 tvg-id="" tvg-name="Globo Minas FHD [Alter]" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo Minas FHD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38882
+#EXTINF:-1 tvg-id="" tvg-name="Globo Minas HD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo Minas HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38883
+#EXTINF:-1 tvg-id="" tvg-name="Globo Minas HD [Alter]" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo Minas HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38884
+#EXTINF:-1 tvg-id="" tvg-name="Globo Minas SD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo Minas SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38885
+#EXTINF:-1 tvg-id="" tvg-name="Globo Minas SD [Alter]" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo Minas SD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38886
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="Globo News FHD" tvg-logo="https://imgur.com/Ob8jjKR.jpeg" group-title="CANAIS | NOTICIAS",Globo News FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17782
+#EXTINF:-1 tvg-id="" tvg-name="Globo News FHD [H265]" tvg-logo="https://imgur.com/Ob8jjKR.jpeg" group-title="CANAIS | NOTICIAS",Globo News FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113205
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="Globo News HD" tvg-logo="https://imgur.com/Ob8jjKR.jpeg" group-title="CANAIS | NOTICIAS",Globo News HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17784
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="Globo News SD" tvg-logo="https://imgur.com/Ob8jjKR.jpeg" group-title="CANAIS | NOTICIAS",Globo News SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17786
+#EXTINF:-1 tvg-id="" tvg-name="Globo Nordeste FHD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo Nordeste FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38895
+#EXTINF:-1 tvg-id="" tvg-name="Globo Nordeste FHD [Alter]" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo Nordeste FHD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38896
+#EXTINF:-1 tvg-id="" tvg-name="Globo Nordeste HD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo Nordeste HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38897
+#EXTINF:-1 tvg-id="" tvg-name="Globo Nordeste HD [Alter]" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo Nordeste HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38898
+#EXTINF:-1 tvg-id="" tvg-name="Globo Nordeste SD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo Nordeste SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38899
+#EXTINF:-1 tvg-id="" tvg-name="Globo Nordeste SD [Alter]" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo Nordeste SD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38900
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Florianopolis FHD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo NSC TV Florianopolis FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38907
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Florianopolis FHD [Alter]" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo NSC TV Florianopolis FHD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38908
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Florianopolis HD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo NSC TV Florianopolis HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38909
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Florianopolis HD [Alter]" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo NSC TV Florianopolis HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38910
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Florianopolis SD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo NSC TV Florianopolis SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38911
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Florianopolis SD [Alter]" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo NSC TV Florianopolis SD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38912
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV Pelotas FHD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo RBS TV Pelotas FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38919
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV Pelotas HD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo RBS TV Pelotas HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38920
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV Porto Alegre FHD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo RBS TV Porto Alegre FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38921
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV Porto Alegre HD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo RBS TV Porto Alegre HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38922
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV Porto Alegre SD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo RBS TV Porto Alegre SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38923
+#EXTINF:-1 tvg-id="" tvg-name="Globo Rede Amazonica Boa Vista HD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo Rede Amazonica Boa Vista HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38924
+#EXTINF:-1 tvg-id="" tvg-name="Globo Rede Amazonica Boa Vista SD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo Rede Amazonica Boa Vista SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38925
+#EXTINF:-1 tvg-id="" tvg-name="Globo Rede Amazonica HD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo Rede Amazonica HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38926
+#EXTINF:-1 tvg-id="" tvg-name="Globo Rede Amazonica SD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo Rede Amazonica SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38927
+#EXTINF:-1 tvg-id="" tvg-name="Globo Rede Amazonica Manaus FHD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo Rede Amazonica Manaus FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38928
+#EXTINF:-1 tvg-id="" tvg-name="Globo Rede Amazonica Manaus FHD [Alter]" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo Rede Amazonica Manaus FHD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38929
+#EXTINF:-1 tvg-id="" tvg-name="Globo Rede Amazonica Manaus HD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo Rede Amazonica Manaus HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38930
+#EXTINF:-1 tvg-id="" tvg-name="Globo Rede Amazonica Manaus HD [Alter]" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo Rede Amazonica Manaus HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38931
+#EXTINF:-1 tvg-id="" tvg-name="Globo Rede Amazonica Manaus SD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo Rede Amazonica Manaus SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38932
+#EXTINF:-1 tvg-id="" tvg-name="Globo Rede Amazonica Manaus SD [Alter]" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo Rede Amazonica Manaus SD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38933
+#EXTINF:-1 tvg-id="" tvg-name="Globo Rede Amazonica Porto Velho HD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo Rede Amazonica Porto Velho HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38934
+#EXTINF:-1 tvg-id="" tvg-name="Globo Rede Amazonica Porto Velho SD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo Rede Amazonica Porto Velho SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38935
+#EXTINF:-1 tvg-id="" tvg-name="Globo Rede Amazonica Rio Branco HD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo Rede Amazonica Rio Branco HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38936
+#EXTINF:-1 tvg-id="" tvg-name="Globo Rede Amazonica Rio Branco SD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo Rede Amazonica Rio Branco SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38937
+#EXTINF:-1 tvg-id="" tvg-name="Globo Rede Bahia FHD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo Rede Bahia FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38938
+#EXTINF:-1 tvg-id="" tvg-name="Globo Rede Bahia HD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo Rede Bahia HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38939
+#EXTINF:-1 tvg-id="" tvg-name="Globo Rede Bahia SD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo Rede Bahia SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38940
+#EXTINF:-1 tvg-id="" tvg-name="Globo RJ FHD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo RJ FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38941
+#EXTINF:-1 tvg-id="" tvg-name="Globo RJ HD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo RJ HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38943
+#EXTINF:-1 tvg-id="" tvg-name="Globo RJ SD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo RJ SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38945
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC TV Curitiba FHD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo RPC TV Curitiba FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38950
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC TV Curitiba FHD [Alter]" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo RPC TV Curitiba FHD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38951
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC TV Curitiba HD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo RPC TV Curitiba HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38952
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC TV Curitiba HD [Alter]" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo RPC TV Curitiba HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38953
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC TV Curitiba SD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo RPC TV Curitiba SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38954
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC TV Curitiba SD [Alter]" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo RPC TV Curitiba SD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38955
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC TV Maringa FHD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo RPC TV Maringa FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38959
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC TV Maringa HD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo RPC TV Maringa HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38960
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC TV Maringa SD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo RPC TV Maringa SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38961
+#EXTINF:-1 tvg-id="" tvg-name="Globo Sergipe HD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo Sergipe HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113059
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP FHD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo SP FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38965
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP FHD [H265]" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo SP FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38966
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP HD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo SP HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38967
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP SD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo SP SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38969
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Anhanguera FHD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Anhanguera FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38971
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Anhanguera HD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Anhanguera HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38972
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Anhanguera SD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Anhanguera SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38973
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Bahia FHD [Alter]" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Bahia FHD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38974
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Bahia HD [Alter]" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Bahia HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38975
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Bahia SD [Alter]" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Bahia SD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38976
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Fronteira HD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Fronteira HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38989
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Fronteira Presidente Prudente FHD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Fronteira Presidente Prudente FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38990
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Fronteira Presidente Prudente HD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Fronteira Presidente Prudente HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38991
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Fronteira Presidente Prudente SD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Fronteira Presidente Prudente SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38992
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Fronteira SD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Fronteira SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38993
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Gazeta Vitoria FHD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Gazeta Vitoria FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39000
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Gazeta Vitoria FHD [Alter]" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Gazeta Vitoria FHD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39001
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Gazeta Vitoria HD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Gazeta Vitoria HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39002
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Gazeta Vitoria HD [Alter]" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Gazeta Vitoria HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39003
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Gazeta Vitoria SD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Gazeta Vitoria SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39004
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Gazeta Vitoria SD [Alter]" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Gazeta Vitoria SD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39005
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Integracao Juiz de Fora FHD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Integracao Juiz de Fora FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39009
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Integracao Juiz de Fora HD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Integracao Juiz de Fora HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39010
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Integracao Juiz de Fora SD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Integracao Juiz de Fora SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39011
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Integracao Uberlandia HD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Integracao Uberlandia HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39012
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Integracao Uberlandia SD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Integracao Uberlandia SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39013
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Liberal Belem FHD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Liberal Belem FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39014
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Liberal Belem FHD [Alter]" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Liberal Belem FHD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39015
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Liberal Belem HD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Liberal Belem HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39016
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Liberal Belem HD [Alter]" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Liberal Belem HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39017
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Liberal Belem SD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Liberal Belem SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39018
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Liberal Belem SD [Alter]" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Liberal Belem SD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39019
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Mirante Cocais HD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Mirante Cocais HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39020
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Mirante Cocais SD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Mirante Cocais SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39021
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Mirante Imperatriz HD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Mirante Imperatriz HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39022
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Mirante Imperatriz SD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Mirante Imperatriz SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39023
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Mirante Sao Luis FHD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Mirante Sao Luis FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39024
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Mirante Sao Luis FHD [Alter]" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Mirante Sao Luis FHD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39025
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Mirante Sao Luis HD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Mirante Sao Luis HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39026
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Mirante Sao Luis HD [Alter]" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Mirante Sao Luis HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39027
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Mirante Sao Luis SD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Mirante Sao Luis SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39028
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Mirante Sao Luis SD [Alter]" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Mirante Sao Luis SD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39029
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Morena FHD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Morena FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39030
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Morena HD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Morena HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39031
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Morena SD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Morena SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39032
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Rio Sul FHD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Rio Sul FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39033
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Rio Sul HD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Rio Sul HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39034
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Rio Sul SD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Rio Sul SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39035
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Subae FHD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Subae FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39042
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Subae HD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Subae HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39043
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Subae SD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Subae SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39044
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Sudoeste FHD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Sudoeste FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39045
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Sudoeste HD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Sudoeste HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39046
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Sudoeste SD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Sudoeste SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39047
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV TEM Bauru FHD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV TEM Bauru FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39048
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV TEM Bauru FHD [Alter]" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV TEM Bauru FHD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39049
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV TEM Bauru HD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV TEM Bauru HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39050
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV TEM Bauru HD [Alter]" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV TEM Bauru HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39051
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV TEM Bauru SD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV TEM Bauru SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39052
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV TEM Bauru SD [Alter]" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV TEM Bauru SD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39053
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV TEM Itapetininga FHD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV TEM Itapetininga FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39054
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV TEM Itapetininga FHD [Alter]" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV TEM Itapetininga FHD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39055
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV TEM Itapetininga HD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV TEM Itapetininga HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39056
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV TEM Itapetininga HD [Alter]" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV TEM Itapetininga HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39057
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV TEM Itapetininga SD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV TEM Itapetininga SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39058
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV TEM Itapetininga SD [Alter]" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV TEM Itapetininga SD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39059
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV TEM Sao Jose do Rio Preto FHD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV TEM Sao Jose do Rio Preto FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39061
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV TEM Sao Jose do Rio Preto FHD [Alter]" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV TEM Sao Jose do Rio Preto FHD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39062
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV TEM Sao Jose do Rio Preto HD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV TEM Sao Jose do Rio Preto HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39063
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV TEM Sao Jose do Rio Preto FHD [H265]" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV TEM Sao Jose do Rio Preto FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39064
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV TEM Sao Jose do Rio Preto SD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV TEM Sao Jose do Rio Preto SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39060
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV TEM Sao Jose do Rio Preto SD [Alter]" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV TEM Sao Jose do Rio Preto SD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39065
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV TEM Sorocaba FHD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV TEM Sorocaba FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39066
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV TEM Sorocaba FHD [Alter]" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV TEM Sorocaba FHD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39067
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV TEM Sorocaba HD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV TEM Sorocaba HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39068
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV TEM Sorocaba HD [Alter]" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV TEM Sorocaba HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39069
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV TEM Sorocaba SD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV TEM Sorocaba SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39070
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV TEM Sorocaba SD [Alter]" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV TEM Sorocaba SD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39071
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Tribuna Santos FHD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Tribuna Santos FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39072
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Tribuna Santos HD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Tribuna Santos HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39073
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Tribuna Santos SD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Tribuna Santos SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39074
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Verdes Mares Cariri FHD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Verdes Mares Cariri FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39080
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Verdes Mares Cariri FHD [Alter]" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Verdes Mares Cariri FHD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39081
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Verdes Mares Cariri HD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Verdes Mares Cariri HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39082
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Verdes Mares Cariri HD [Alter]" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Verdes Mares Cariri HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39083
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Verdes Mares Cariri SD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Verdes Mares Cariri SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39084
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Verdes Mares FHD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Verdes Mares FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39086
+#EXTINF:-1 tvg-id="" tvg-name="Globo Paraíba HD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo Paraíba HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39087
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Verdes Mares HD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Verdes Mares HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39088
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Verdes Mares HD [Alter]" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Verdes Mares HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39089
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Verdes Mares SD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Verdes Mares SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39090
+#EXTINF:-1 tvg-id="" tvg-name="Globo interTv Cabo Frio HD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo interTv Cabo Frio HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39091
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO VITORIA ES SD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",GLOBO VITORIA ES SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113067
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO VITORIA ES. FHD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",GLOBO VITORIA ES. FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113069
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO VITORIA HD ES" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",GLOBO VITORIA HD ES
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113068
+#EXTINF:-1 tvg-id="" tvg-name="Gloob FHD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/gloob.png" group-title="CANAIS | INFANTIL",Gloob FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18257
+#EXTINF:-1 tvg-id="" tvg-name="Gloob FHD [H265]" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/gloob.png" group-title="CANAIS | INFANTIL",Gloob FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113210
+#EXTINF:-1 tvg-id="" tvg-name="Gloob HD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/gloob.png" group-title="CANAIS | INFANTIL",Gloob HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18258
+#EXTINF:-1 tvg-id="" tvg-name="GNT FHD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/gnt.png" group-title="CANAIS | VARIEDADES",GNT FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18007
+#EXTINF:-1 tvg-id="" tvg-name="GNT HD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/gnt.png" group-title="CANAIS | VARIEDADES",GNT HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18008
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 FHD" tvg-logo="https://imgur.com/jsGuE6h.jpeg" group-title="CANAIS I DOCUMENTARIOS ",H2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18246
+#EXTINF:-1 tvg-id="" tvg-name="H2 FHD [H265]" tvg-logo="https://imgur.com/jsGuE6h.jpeg" group-title="CANAIS I DOCUMENTARIOS ",H2 FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113170
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 HD" tvg-logo="https://imgur.com/jsGuE6h.jpeg" group-title="CANAIS I DOCUMENTARIOS ",H2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18247
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 SD" tvg-logo="https://imgur.com/jsGuE6h.jpeg" group-title="CANAIS I DOCUMENTARIOS ",H2 SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17886
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD" tvg-logo="https://imgur.com/LjUUb9o.jpeg" group-title="CANAIS | HBO",HBO 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18046
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 FHD [H265]" tvg-logo="https://imgur.com/LjUUb9o.jpeg" group-title="CANAIS | HBO",HBO 2 FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113181
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD" tvg-logo="https://imgur.com/LjUUb9o.jpeg" group-title="CANAIS | HBO",HBO 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18047
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD" tvg-logo="https://imgur.com/LjUUb9o.jpeg" group-title="CANAIS | HBO",HBO 2 SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39185
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family FHD" tvg-logo="https://imgur.com/B31UzcE.jpeg" group-title="CANAIS | HBO",HBO Family FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18049
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY FHD [H265]" tvg-logo="https://imgur.com/B31UzcE.jpeg" group-title="CANAIS | HBO",HBO FAMILY FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113183
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family HD" tvg-logo="https://imgur.com/B31UzcE.jpeg" group-title="CANAIS | HBO",HBO Family HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18050
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family SD" tvg-logo="https://imgur.com/B31UzcE.jpeg" group-title="CANAIS | HBO",HBO Family SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39186
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD" tvg-logo="https://imgur.com/9pT0dM8.jpeg" group-title="CANAIS | HBO",HBO FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18052
+#EXTINF:-1 tvg-id="" tvg-name="HBO FHD [H265]" tvg-logo="https://imgur.com/9pT0dM8.jpeg" group-title="CANAIS | HBO",HBO FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113180
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="https://imgur.com/9pT0dM8.jpeg" group-title="CANAIS | HBO",HBO HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18053
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD" tvg-logo="https://imgur.com/9pT0dM8.jpeg" group-title="CANAIS | HBO",HBO SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39184
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi FHD" tvg-logo="https://imgur.com/0C7tiur.jpeg" group-title="CANAIS | HBO",HBO Mundi FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18055
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI FHD [H265]" tvg-logo="https://imgur.com/0C7tiur.jpeg" group-title="CANAIS | HBO",HBO MUNDI FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113185
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi HD" tvg-logo="https://imgur.com/0C7tiur.jpeg" group-title="CANAIS | HBO",HBO Mundi HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18056
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi SD" tvg-logo="https://imgur.com/0C7tiur.jpeg" group-title="CANAIS | HBO",HBO Mundi SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39187
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus FHD" tvg-logo="https://imgur.com/aTMLsYy.jpeg" group-title="CANAIS | HBO",HBO Plus FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18058
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS FHD [H265]" tvg-logo="https://imgur.com/aTMLsYy.jpeg" group-title="CANAIS | HBO",HBO PLUS FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113182
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus HD" tvg-logo="https://imgur.com/aTMLsYy.jpeg" group-title="CANAIS | HBO",HBO Plus HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18059
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus SD" tvg-logo="https://imgur.com/aTMLsYy.jpeg" group-title="CANAIS | HBO",HBO Plus SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39188
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO Pop FHD" tvg-logo="https://imgur.com/NBxd5iI.jpeg" group-title="CANAIS | HBO",HBO Pop FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18061
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP FHD [H265]" tvg-logo="https://imgur.com/NBxd5iI.jpeg" group-title="CANAIS | HBO",HBO POP FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113187
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO Pop HD" tvg-logo="https://imgur.com/NBxd5iI.jpeg" group-title="CANAIS | HBO",HBO Pop HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18062
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO Pop SD" tvg-logo="https://imgur.com/NBxd5iI.jpeg" group-title="CANAIS | HBO",HBO Pop SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39189
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO Signature FHD" tvg-logo="https://imgur.com/IlDpt1o.jpeg" group-title="CANAIS | HBO",HBO Signature FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18064
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE FHD [H265]" tvg-logo="https://imgur.com/IlDpt1o.jpeg" group-title="CANAIS | HBO",HBO SIGNATURE FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113184
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO Signature HD" tvg-logo="https://imgur.com/IlDpt1o.jpeg" group-title="CANAIS | HBO",HBO Signature HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18065
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO Signature SD" tvg-logo="https://imgur.com/IlDpt1o.jpeg" group-title="CANAIS | HBO",HBO Signature SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39190
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme FHD" tvg-logo="https://imgur.com/Hjwtd9J.jpeg" group-title="CANAIS | HBO",HBO Xtreme FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18067
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME FHD [H265]" tvg-logo="https://imgur.com/Hjwtd9J.jpeg" group-title="CANAIS | HBO",HBO XTREME FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113186
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme HD" tvg-logo="https://imgur.com/Hjwtd9J.jpeg" group-title="CANAIS | HBO",HBO Xtreme HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18068
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme SD" tvg-logo="https://imgur.com/Hjwtd9J.jpeg" group-title="CANAIS | HBO",HBO Xtreme SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39191
+#EXTINF:-1 tvg-id="" tvg-name="HGTV FHD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/hgtv.png" group-title="CANAIS | VARIEDADES",HGTV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17788
+#EXTINF:-1 tvg-id="" tvg-name="HGTV HD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/hgtv.png" group-title="CANAIS | VARIEDADES",HGTV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17790
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="History FHD" tvg-logo="https://imgur.com/EQdQcCq.jpeg" group-title="CANAIS I DOCUMENTARIOS ",History FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18249
+#EXTINF:-1 tvg-id="" tvg-name="History FHD [H265]" tvg-logo="https://imgur.com/EQdQcCq.jpeg" group-title="CANAIS I DOCUMENTARIOS ",History FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113169
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="History HD" tvg-logo="https://imgur.com/EQdQcCq.jpeg" group-title="CANAIS I DOCUMENTARIOS ",History HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18250
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="History SD" tvg-logo="https://imgur.com/EQdQcCq.jpeg" group-title="CANAIS I DOCUMENTARIOS ",History SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18251
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="Investigação Discovery FHD" tvg-logo="https://imgur.com/0mLqpfk.jpeg" group-title="CANAIS I DOCUMENTARIOS ",Investigação Discovery FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17651
+#EXTINF:-1 tvg-id="" tvg-name="Investigação Discovery FHD [H265]" tvg-logo="https://imgur.com/0mLqpfk.jpeg" group-title="CANAIS I DOCUMENTARIOS ",Investigação Discovery FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113175
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="Investigação Discovery HD" tvg-logo="https://imgur.com/0mLqpfk.jpeg" group-title="CANAIS I DOCUMENTARIOS ",Investigação Discovery HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17653
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="Investigação Discovery SD" tvg-logo="https://imgur.com/0mLqpfk.jpeg" group-title="CANAIS I DOCUMENTARIOS ",Investigação Discovery SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17655
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime FHD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/lifetime.png" group-title="CANAIS | VARIEDADES",Lifetime FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17794
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime HD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/lifetime.png" group-title="CANAIS | VARIEDADES",Lifetime HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17927
+#EXTINF:-1 tvg-id="" tvg-name="Mais GloboSat HD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/maisglobosat.png" group-title="CANAIS | VARIEDADES",Mais GloboSat HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18011
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix FHD" tvg-logo="https://imgur.com/TNIQDWO.jpeg" group-title="CANAIS | FILMES E SÉRIES",Megapix FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18031
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix FHD [H265]" tvg-logo="https://imgur.com/TNIQDWO.jpeg" group-title="CANAIS | FILMES E SÉRIES",Megapix FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113159
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix HD" tvg-logo="https://imgur.com/TNIQDWO.jpeg" group-title="CANAIS | FILMES E SÉRIES",Megapix HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18032
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix SD" tvg-logo="https://imgur.com/TNIQDWO.jpeg" group-title="CANAIS | FILMES E SÉRIES",Megapix SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18033
+#EXTINF:-1 tvg-id="" tvg-name="MTV FHD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/mtv.png" group-title="CANAIS | VARIEDADES",MTV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17800
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/mtv.png" group-title="CANAIS | VARIEDADES",MTV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17801
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live FHD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/mtvlive.png" group-title="CANAIS | VARIEDADES",MTV Live FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18013
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live HD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/mtvlive.png" group-title="CANAIS | VARIEDADES",MTV Live HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18014
+#EXTINF:-1 tvg-id="" tvg-name="Multishow FHD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/multishow.png" group-title="CANAIS | VARIEDADES",Multishow FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18016
+#EXTINF:-1 tvg-id="" tvg-name="Multishow HD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/multishow.png" group-title="CANAIS | VARIEDADES",Multishow HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18017
+#EXTINF:-1 tvg-id="" tvg-name="Music Box Brazil FHD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/musicboxbrazil.png" group-title="CANAIS | VARIEDADES",Music Box Brazil FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17562
+#EXTINF:-1 tvg-id="" tvg-name="Music Box Brazil HD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/musicboxbrazil.png" group-title="CANAIS | VARIEDADES",Music Box Brazil HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17563
+#EXTINF:-1 tvg-id="" tvg-name="Music Box Brazil HD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/musicboxbrazil.png" group-title="CANAIS | VARIEDADES",Music Box Brazil HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17564
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Kids FHD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/natgeokids.png" group-title="CANAIS | INFANTIL",Nat Geo Kids FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17806
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Kids FHD [H265]" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/natgeokids.png" group-title="CANAIS | INFANTIL",Nat Geo Kids FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113213
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Kids HD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/natgeokids.png" group-title="CANAIS | INFANTIL",Nat Geo Kids HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17808
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic  FHD [H265]" tvg-logo="https://imgur.com/354OaL2.jpeg" group-title="CANAIS I DOCUMENTARIOS ",National Geographic  FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113178
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="National Geographic FHD" tvg-logo="https://imgur.com/354OaL2.jpeg" group-title="CANAIS I DOCUMENTARIOS ",National Geographic FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17818
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="National Geographic HD" tvg-logo="https://imgur.com/354OaL2.jpeg" group-title="CANAIS I DOCUMENTARIOS ",National Geographic HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17814
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="National Geographic SD" tvg-logo="https://imgur.com/354OaL2.jpeg" group-title="CANAIS I DOCUMENTARIOS ",National Geographic SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17816
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild FHD" tvg-logo="https://imgur.com/WlHDwKs.jpeg" group-title="CANAIS I DOCUMENTARIOS ",National Geographic Wild FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113103
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild FHD [H265]" tvg-logo="https://imgur.com/WlHDwKs.jpeg" group-title="CANAIS I DOCUMENTARIOS ",National Geographic Wild FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113168
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="National Geographic Wild HD" tvg-logo="https://imgur.com/WlHDwKs.jpeg" group-title="CANAIS I DOCUMENTARIOS ",National Geographic Wild HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17820
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="National Geographic Wild SD" tvg-logo="https://imgur.com/WlHDwKs.jpeg" group-title="CANAIS I DOCUMENTARIOS ",National Geographic Wild SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17822
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr. FHD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/nickjr.png" group-title="CANAIS | INFANTIL",Nick Jr. FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17830
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr. FHD [H265]" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/nickjr.png" group-title="CANAIS | INFANTIL",Nick Jr. FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113211
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr. HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nick_jr_au.jpg" group-title="CANAIS | INFANTIL",Nick Jr. HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17914
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon FHD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/nickelodeon.png" group-title="CANAIS | INFANTIL",Nickelodeon FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17824
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon FHD [H265]" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/nickelodeon.png" group-title="CANAIS | INFANTIL",Nickelodeon FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113212
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/nickelodeon.png" group-title="CANAIS | INFANTIL",Nickelodeon HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17827
+#EXTINF:-1 tvg-id="Tvnovotempo.br" tvg-name="Novo Tempo HD" tvg-logo="https://imgur.com/A5n08vT.jpeg" group-title="CANAIS | RELIGIOSOS",Novo Tempo HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17945
+#EXTINF:-1 tvg-id="" tvg-name="NSC TV Santa Catarina HD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",NSC TV Santa Catarina HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113094
+#EXTINF:-1 tvg-id="" tvg-name="Off FHD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/off.png" group-title="CANAIS | VARIEDADES",Off FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18019
+#EXTINF:-1 tvg-id="" tvg-name="Off HD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/off.png" group-title="CANAIS | VARIEDADES",Off HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18020
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="Paramount Network  FHD [H265]" tvg-logo="https://imgur.com/HVCoex9.jpeg" group-title="CANAIS | FILMES E SÉRIES",Paramount Network  FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113151
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="Paramount Network FHD" tvg-logo="https://imgur.com/HVCoex9.jpeg" group-title="CANAIS | FILMES E SÉRIES",Paramount Network FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38281
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="Paramount Network HD" tvg-logo="https://imgur.com/HVCoex9.jpeg" group-title="CANAIS | FILMES E SÉRIES",Paramount Network HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38280
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="Paramount Network SD" tvg-logo="https://imgur.com/HVCoex9.jpeg" group-title="CANAIS | FILMES E SÉRIES",Paramount Network SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17840
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clubes FHD" tvg-logo="https://imgur.com/Wj9yepw.jpeg" group-title="CANAIS | PREMIERE",Premiere Clubes FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/37550
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clubes FHD [H265]" tvg-logo="https://imgur.com/Wj9yepw.jpeg" group-title="CANAIS | PREMIERE",Premiere Clubes FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113129
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clubes HD" tvg-logo="https://imgur.com/Wj9yepw.jpeg" group-title="CANAIS | PREMIERE",Premiere Clubes HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/35317
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere  Clubes SD" tvg-logo="https://imgur.com/Wj9yepw.jpeg" group-title="CANAIS | PREMIERE",Premiere  Clubes SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113127
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 FHD" tvg-logo="https://imgur.com/Wj9yepw.jpeg" group-title="CANAIS | PREMIERE",Premiere 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/37551
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 FHD [H265]" tvg-logo="https://imgur.com/Wj9yepw.jpeg" group-title="CANAIS | PREMIERE",Premiere 2 FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113130
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 HD" tvg-logo="https://imgur.com/Wj9yepw.jpeg" group-title="CANAIS | PREMIERE",Premiere 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/35319
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 SD" tvg-logo="https://imgur.com/Wj9yepw.jpeg" group-title="CANAIS | PREMIERE",Premiere 2 SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113119
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 FHD" tvg-logo="https://imgur.com/Wj9yepw.jpeg" group-title="CANAIS | PREMIERE",Premiere 3 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/37552
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 FHD [H265]" tvg-logo="https://imgur.com/Wj9yepw.jpeg" group-title="CANAIS | PREMIERE",Premiere 3 FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113131
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 HD" tvg-logo="https://imgur.com/Wj9yepw.jpeg" group-title="CANAIS | PREMIERE",Premiere 3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/35321
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 SD" tvg-logo="https://imgur.com/Wj9yepw.jpeg" group-title="CANAIS | PREMIERE",Premiere 3 SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113120
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 FHD" tvg-logo="https://imgur.com/Wj9yepw.jpeg" group-title="CANAIS | PREMIERE",Premiere 4 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/37553
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 FHD [H265]" tvg-logo="https://imgur.com/Wj9yepw.jpeg" group-title="CANAIS | PREMIERE",Premiere 4 FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113132
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 HD" tvg-logo="https://imgur.com/Wj9yepw.jpeg" group-title="CANAIS | PREMIERE",Premiere 4 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/35323
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 SD" tvg-logo="https://imgur.com/Wj9yepw.jpeg" group-title="CANAIS | PREMIERE",Premiere 4 SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113121
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 FHD" tvg-logo="https://imgur.com/Wj9yepw.jpeg" group-title="CANAIS | PREMIERE",Premiere 5 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/37554
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 FHD [H265]" tvg-logo="https://imgur.com/Wj9yepw.jpeg" group-title="CANAIS | PREMIERE",Premiere 5 FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113133
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 5 HD" tvg-logo="https://imgur.com/Wj9yepw.jpeg" group-title="CANAIS | PREMIERE",Premiere 5 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/35325
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 SD" tvg-logo="https://imgur.com/Wj9yepw.jpeg" group-title="CANAIS | PREMIERE",Premiere 5 SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113122
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 FHD" tvg-logo="https://imgur.com/Wj9yepw.jpeg" group-title="CANAIS | PREMIERE",Premiere 6 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/37555
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 FHD [H265]" tvg-logo="https://imgur.com/Wj9yepw.jpeg" group-title="CANAIS | PREMIERE",Premiere 6 FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113134
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 HD" tvg-logo="https://imgur.com/Wj9yepw.jpeg" group-title="CANAIS | PREMIERE",Premiere 6 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/35327
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 SD" tvg-logo="https://imgur.com/Wj9yepw.jpeg" group-title="CANAIS | PREMIERE",Premiere 6 SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113123
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 FHD" tvg-logo="https://imgur.com/Wj9yepw.jpeg" group-title="CANAIS | PREMIERE",Premiere 7 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/37556
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 FHD [H265]" tvg-logo="https://imgur.com/Wj9yepw.jpeg" group-title="CANAIS | PREMIERE",Premiere 7 FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113135
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 HD" tvg-logo="https://imgur.com/Wj9yepw.jpeg" group-title="CANAIS | PREMIERE",Premiere 7 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/35329
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere 7 SD" tvg-logo="https://imgur.com/Wj9yepw.jpeg" group-title="CANAIS | PREMIERE",Premiere 7 SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113124
+#EXTINF:-1 tvg-id="" tvg-name="Prime Box Brazil FHD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/primeboxbrazil.png" group-title="CANAIS | VARIEDADES",Prime Box Brazil FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17556
+#EXTINF:-1 tvg-id="" tvg-name="Prime Box Brazil HD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/primeboxbrazil.png" group-title="CANAIS | VARIEDADES",Prime Box Brazil HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17558
+#EXTINF:-1 tvg-id="" tvg-name="Record Brasilia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="CANAIS | ABERTOS",Record Brasilia HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113097
+#EXTINF:-1 tvg-id="" tvg-name="RECORD ITAPOAN HD - BAHIA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="CANAIS | ABERTOS",RECORD ITAPOAN HD - BAHIA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113043
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News FHD" tvg-logo="https://imgur.com/7gyWZD2.jpeg" group-title="CANAIS | NOTICIAS",Record News FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17532
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS FHD [H265]" tvg-logo="https://imgur.com/7gyWZD2.jpeg" group-title="CANAIS | NOTICIAS",RECORD NEWS FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113208
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News HD" tvg-logo="https://imgur.com/7gyWZD2.jpeg" group-title="CANAIS | NOTICIAS",Record News HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17534
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News SD" tvg-logo="https://imgur.com/7gyWZD2.jpeg" group-title="CANAIS | NOTICIAS",Record News SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17535
+#EXTINF:-1 tvg-id="" tvg-name="Record Sergipe - TV Atalaia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="CANAIS | ABERTOS",Record Sergipe - TV Atalaia HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113062
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Goiania HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="CANAIS | ABERTOS",Record TV Goiania HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113063
+#EXTINF:-1 tvg-id="" tvg-name="RecordTV Amazonas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="CANAIS | ABERTOS",RecordTV Amazonas HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/37280
+#EXTINF:-1 tvg-id="" tvg-name="RecordTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="CANAIS | ABERTOS",RecordTV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/37329
+#EXTINF:-1 tvg-id="" tvg-name="RecordTV MG HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="CANAIS | ABERTOS",RecordTV MG HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/37279
+#EXTINF:-1 tvg-id="" tvg-name="RecordTV RJ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="CANAIS | ABERTOS",RecordTV RJ HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38452
+#EXTINF:-1 tvg-id="" tvg-name="RecordTV SP FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="CANAIS | ABERTOS",RecordTV SP FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/37274
+#EXTINF:-1 tvg-id="" tvg-name="RecordTV SP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="CANAIS | ABERTOS",RecordTV SP HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/37273
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/redetv.png" group-title="CANAIS | ABERTOS",REDE TV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113078
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/redetv.png" group-title="CANAIS | ABERTOS",REDE TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113077
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/redetv.png" group-title="CANAIS | ABERTOS",REDE TV SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113076
+#EXTINF:-1 tvg-id="Redevida.br" tvg-name="REDE VIDA HD" tvg-logo="https://imgur.com/OpThoHW.jpeg" group-title="CANAIS | RELIGIOSOS",REDE VIDA HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18001
+#EXTINF:-1 tvg-id="" tvg-name="RedeTV HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/redetv.png" group-title="CANAIS | ABERTOS",RedeTV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/37296
+#EXTINF:-1 tvg-id="" tvg-name="RPC Parana HD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",RPC Parana HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113045
+#EXTINF:-1 tvg-id="" tvg-name="RPC PARANAVAI HD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",RPC PARANAVAI HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113095
+#EXTINF:-1 tvg-id="" tvg-name="SBT - ES SD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-5.png" group-title="CANAIS | ABERTOS",SBT - ES SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113070
+#EXTINF:-1 tvg-id="" tvg-name="SBT ES FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-5.png" group-title="CANAIS | ABERTOS",SBT ES FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113072
+#EXTINF:-1 tvg-id="" tvg-name="SBT ES HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-5.png" group-title="CANAIS | ABERTOS",SBT ES HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113071
+#EXTINF:-1 tvg-id="" tvg-name="SBT FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-5.png" group-title="CANAIS | ABERTOS",SBT FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/37327
+#EXTINF:-1 tvg-id="" tvg-name="SBT GO HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-5.png" group-title="CANAIS | ABERTOS",SBT GO HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/37299
+#EXTINF:-1 tvg-id="" tvg-name="SBT HD - Rede Massa" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-5.png" group-title="CANAIS | ABERTOS",SBT HD - Rede Massa
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/37298
+#EXTINF:-1 tvg-id="" tvg-name="SBT MG HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-5.png" group-title="CANAIS | ABERTOS",SBT MG HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/37328
+#EXTINF:-1 tvg-id="" tvg-name="SBT Parana HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-5.png" group-title="CANAIS | ABERTOS",SBT Parana HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113086
+#EXTINF:-1 tvg-id="" tvg-name="SBT RIO HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-5.png" group-title="CANAIS | ABERTOS",SBT RIO HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/106780
+#EXTINF:-1 tvg-id="" tvg-name="SBT RJ FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-5.png" group-title="CANAIS | ABERTOS",SBT RJ FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113088
+#EXTINF:-1 tvg-id="" tvg-name="SBT RJ HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-5.png" group-title="CANAIS | ABERTOS",SBT RJ HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113087
+#EXTINF:-1 tvg-id="" tvg-name="SBT RS HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-5.png" group-title="CANAIS | ABERTOS",SBT RS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113085
+#EXTINF:-1 tvg-id="" tvg-name="SBT Sergipe - TV Apariper HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-5.png" group-title="CANAIS | ABERTOS",SBT Sergipe - TV Apariper HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113065
+#EXTINF:-1 tvg-id="" tvg-name="SBT SP HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-5.png" group-title="CANAIS | ABERTOS",SBT SP HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/37285
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="Sony Channel FHD" tvg-logo="https://imgur.com/Gl9ydQI.jpeg" group-title="CANAIS | FILMES E SÉRIES",Sony Channel FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17842
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="Sony Channel FHD [H265]" tvg-logo="https://imgur.com/Gl9ydQI.jpeg" group-title="CANAIS | FILMES E SÉRIES",Sony Channel FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113161
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="Sony Channel HD" tvg-logo="https://imgur.com/Gl9ydQI.jpeg" group-title="CANAIS | FILMES E SÉRIES",Sony Channel HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17844
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="Sony Channel SD" tvg-logo="https://imgur.com/Gl9ydQI.jpeg" group-title="CANAIS | FILMES E SÉRIES",Sony Channel SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17889
+#EXTINF:-1 tvg-id="Space.br" tvg-name="Space FHD" tvg-logo="https://imgur.com/5zRQCeq.jpeg" group-title="CANAIS | FILMES E SÉRIES",Space FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17848
+#EXTINF:-1 tvg-id="Space.br" tvg-name="Space FHD [H265]" tvg-logo="https://imgur.com/5zRQCeq.jpeg" group-title="CANAIS | FILMES E SÉRIES",Space FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113164
+#EXTINF:-1 tvg-id="Space.br" tvg-name="Space HD" tvg-logo="https://imgur.com/5zRQCeq.jpeg" group-title="CANAIS | FILMES E SÉRIES",Space HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17850
+#EXTINF:-1 tvg-id="Space.br" tvg-name="Space SD" tvg-logo="https://imgur.com/5zRQCeq.jpeg" group-title="CANAIS | FILMES E SÉRIES",Space SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17852
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 2 FHD" tvg-logo="https://imgur.com/AznDBJd.jpeg" group-title="CANAIS | ESPORTES",SporTV 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18237
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 FHD [H265]" tvg-logo="https://imgur.com/AznDBJd.jpeg" group-title="CANAIS | ESPORTES",SporTV 2 FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113143
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 2 HD" tvg-logo="https://imgur.com/AznDBJd.jpeg" group-title="CANAIS | ESPORTES",SporTV 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18238
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 2 SD" tvg-logo="https://imgur.com/AznDBJd.jpeg" group-title="CANAIS | ESPORTES",SporTV 2 SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113111
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 3 FHD" tvg-logo="https://imgur.com/WHWT22B.jpeg" group-title="CANAIS | ESPORTES",SporTV 3 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18240
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 FHD [H265]" tvg-logo="https://imgur.com/WHWT22B.jpeg" group-title="CANAIS | ESPORTES",SporTV 3 FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113142
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 3 HD" tvg-logo="https://imgur.com/WHWT22B.jpeg" group-title="CANAIS | ESPORTES",SporTV 3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18241
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 3 SD" tvg-logo="https://imgur.com/WHWT22B.jpeg" group-title="CANAIS | ESPORTES",SporTV 3 SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113112
+#EXTINF:-1 tvg-id="" tvg-name="SporTV FHD" tvg-logo="https://imgur.com/70uh1PY.jpeg" group-title="CANAIS | ESPORTES",SporTV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18234
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV FHD [H265]" tvg-logo="https://imgur.com/70uh1PY.jpeg" group-title="CANAIS | ESPORTES",SporTV FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113144
+#EXTINF:-1 tvg-id="" tvg-name="SporTV HD" tvg-logo="https://imgur.com/70uh1PY.jpeg" group-title="CANAIS | ESPORTES",SporTV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18235
+#EXTINF:-1 tvg-id="" tvg-name="SporTV SD" tvg-logo="https://imgur.com/70uh1PY.jpeg" group-title="CANAIS | ESPORTES",SporTV SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113110
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel FHD" tvg-logo="https://imgur.com/aSRzdjN.jpeg" group-title="CANAIS | FILMES E SÉRIES",Star Channel FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/37316
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel FHD [H265]" tvg-logo="https://imgur.com/aSRzdjN.jpeg" group-title="CANAIS | FILMES E SÉRIES",Star Channel FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113155
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel HD" tvg-logo="https://imgur.com/aSRzdjN.jpeg" group-title="CANAIS | FILMES E SÉRIES",Star Channel HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/37314
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel SD" tvg-logo="https://imgur.com/aSRzdjN.jpeg" group-title="CANAIS | FILMES E SÉRIES",Star Channel SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/37313
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="Star Hits 1 FHD [H265]" tvg-logo="https://imgur.com/W1uyHvE.jpeg" group-title="CANAIS | FILMES E SÉRIES",Star Hits 1 FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113152
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="Star Hits 1 HD" tvg-logo="https://imgur.com/W1uyHvE.jpeg" group-title="CANAIS | FILMES E SÉRIES",Star Hits 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/37322
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="Star Hits 2 FHD [H265]" tvg-logo="https://imgur.com/W1uyHvE.jpeg" group-title="CANAIS | FILMES E SÉRIES",Star Hits 2 FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113153
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="Star Hits 2 HD" tvg-logo="https://imgur.com/W1uyHvE.jpeg" group-title="CANAIS | FILMES E SÉRIES",Star Hits 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/37325
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="Star Life FHD" tvg-logo="https://imgur.com/nYSPej4.jpeg" group-title="CANAIS | FILMES E SÉRIES",Star Life FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/37320
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="Star Life FHD [H265]" tvg-logo="https://imgur.com/nYSPej4.jpeg" group-title="CANAIS | FILMES E SÉRIES",Star Life FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113154
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="Star Life HD" tvg-logo="https://imgur.com/nYSPej4.jpeg" group-title="CANAIS | FILMES E SÉRIES",Star Life HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/37318
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="Star Life SD" tvg-logo="https://imgur.com/nYSPej4.jpeg" group-title="CANAIS | FILMES E SÉRIES",Star Life SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/37317
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SyFy FHD" tvg-logo="https://imgur.com/w38wCZV.jpeg" group-title="CANAIS | FILMES E SÉRIES",SyFy FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18034
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY FHD [H265]" tvg-logo="https://imgur.com/w38wCZV.jpeg" group-title="CANAIS | FILMES E SÉRIES",SYFY FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113158
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SyFy HD" tvg-logo="https://imgur.com/w38wCZV.jpeg" group-title="CANAIS | FILMES E SÉRIES",SyFy HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18035
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SyFy SD" tvg-logo="https://imgur.com/w38wCZV.jpeg" group-title="CANAIS | FILMES E SÉRIES",SyFy SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18036
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS FHD" tvg-logo="https://imgur.com/NhtcNBl.jpeg" group-title="CANAIS | FILMES E SÉRIES",TBS FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17854
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS FHD [H265]" tvg-logo="https://imgur.com/NhtcNBl.jpeg" group-title="CANAIS | FILMES E SÉRIES",TBS FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113163
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS HD" tvg-logo="https://imgur.com/NhtcNBl.jpeg" group-title="CANAIS | FILMES E SÉRIES",TBS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17856
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS SD" tvg-logo="https://imgur.com/NhtcNBl.jpeg" group-title="CANAIS | FILMES E SÉRIES",TBS SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17858
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action FHD" tvg-logo="https://imgur.com/qUU7S9h.jpeg" group-title="CANAIS | TELECINE ",Telecine Action FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18070
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action FHD H265" tvg-logo="https://imgur.com/qUU7S9h.jpeg" group-title="CANAIS | TELECINE ",Telecine Action FHD H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113188
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action HD" tvg-logo="https://imgur.com/qUU7S9h.jpeg" group-title="CANAIS | TELECINE ",Telecine Action HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18071
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action SD" tvg-logo="https://imgur.com/qUU7S9h.jpeg" group-title="CANAIS | TELECINE ",Telecine Action SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18072
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult FHD" tvg-logo="https://imgur.com/ROmu2g2.jpeg" group-title="CANAIS | TELECINE ",Telecine Cult FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18073
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult FHD [H265]" tvg-logo="https://imgur.com/ROmu2g2.jpeg" group-title="CANAIS | TELECINE ",Telecine Cult FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113189
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult HD" tvg-logo="https://imgur.com/ROmu2g2.jpeg" group-title="CANAIS | TELECINE ",Telecine Cult HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18074
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult SD" tvg-logo="https://imgur.com/ROmu2g2.jpeg" group-title="CANAIS | TELECINE ",Telecine Cult SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18075
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun FHD" tvg-logo="https://imgur.com/FR3Dt9e.jpeg" group-title="CANAIS | TELECINE ",Telecine Fun FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18076
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun FHD [H265]" tvg-logo="https://imgur.com/FR3Dt9e.jpeg" group-title="CANAIS | TELECINE ",Telecine Fun FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113190
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun HD" tvg-logo="https://imgur.com/FR3Dt9e.jpeg" group-title="CANAIS | TELECINE ",Telecine Fun HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18077
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun SD" tvg-logo="https://imgur.com/FR3Dt9e.jpeg" group-title="CANAIS | TELECINE ",Telecine Fun SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18078
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca FHD" tvg-logo="https://imgur.com/amjGZ9V.jpeg" group-title="CANAIS | TELECINE ",Telecine Pipoca FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18079
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca FHD [H265]" tvg-logo="https://imgur.com/amjGZ9V.jpeg" group-title="CANAIS | TELECINE ",Telecine Pipoca FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113191
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="Telecine Pipoca HD" tvg-logo="https://imgur.com/amjGZ9V.jpeg" group-title="CANAIS | TELECINE ",Telecine Pipoca HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18080
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca SD" tvg-logo="https://imgur.com/amjGZ9V.jpeg" group-title="CANAIS | TELECINE ",Telecine Pipoca SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18081
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium FHD" tvg-logo="https://imgur.com/YpVzg9e.jpeg" group-title="CANAIS | TELECINE ",Telecine Premium FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18082
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium FHD [H265]" tvg-logo="https://imgur.com/YpVzg9e.jpeg" group-title="CANAIS | TELECINE ",Telecine Premium FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113192
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium HD" tvg-logo="https://imgur.com/YpVzg9e.jpeg" group-title="CANAIS | TELECINE ",Telecine Premium HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18083
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium SD" tvg-logo="https://imgur.com/YpVzg9e.jpeg" group-title="CANAIS | TELECINE ",Telecine Premium SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18084
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch FHD" tvg-logo="https://imgur.com/qa9QYJZ.jpeg" group-title="CANAIS | TELECINE ",Telecine Touch FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18085
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch FHD [H265]" tvg-logo="https://imgur.com/qa9QYJZ.jpeg" group-title="CANAIS | TELECINE ",Telecine Touch FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113193
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch HD" tvg-logo="https://imgur.com/qa9QYJZ.jpeg" group-title="CANAIS | TELECINE ",Telecine Touch HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18086
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch SD" tvg-logo="https://imgur.com/qa9QYJZ.jpeg" group-title="CANAIS | TELECINE ",Telecine Touch SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18087
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC FHD" tvg-logo="https://imgur.com/yHpFYUJ.jpeg" group-title="CANAIS I DOCUMENTARIOS ",TLC FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17860
+#EXTINF:-1 tvg-id="" tvg-name="TLC FHD [H265]" tvg-logo="https://imgur.com/yHpFYUJ.jpeg" group-title="CANAIS I DOCUMENTARIOS ",TLC FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113224
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HD" tvg-logo="https://imgur.com/yHpFYUJ.jpeg" group-title="CANAIS I DOCUMENTARIOS ",TLC HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17862
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC SD" tvg-logo="https://imgur.com/yHpFYUJ.jpeg" group-title="CANAIS I DOCUMENTARIOS ",TLC SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17864
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD" tvg-logo="https://imgur.com/tg8fNtc.jpeg" group-title="CANAIS | FILMES E SÉRIES",TNT FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38454
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD [H265]" tvg-logo="https://imgur.com/tg8fNtc.jpeg" group-title="CANAIS | FILMES E SÉRIES",TNT FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113149
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD" tvg-logo="https://imgur.com/tg8fNtc.jpeg" group-title="CANAIS | FILMES E SÉRIES",TNT HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38453
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD" tvg-logo="https://imgur.com/tg8fNtc.jpeg" group-title="CANAIS | FILMES E SÉRIES",TNT SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113099
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT Series FHD [H265]" tvg-logo="https://imgur.com/V5UOoQu.jpeg" group-title="CANAIS | FILMES E SÉRIES",TNT Series FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113162
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT Séries FHD" tvg-logo="https://imgur.com/V5UOoQu.jpeg" group-title="CANAIS | FILMES E SÉRIES",TNT Séries FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17866
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT Séries HD" tvg-logo="https://imgur.com/V5UOoQu.jpeg" group-title="CANAIS | FILMES E SÉRIES",TNT Séries HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17868
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT Séries SD" tvg-logo="https://imgur.com/V5UOoQu.jpeg" group-title="CANAIS | FILMES E SÉRIES",TNT Séries SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17870
+#EXTINF:-1 tvg-id="Travelboxbrazil.br" tvg-name="Travel Box Brazil FHD" tvg-logo="https://imgur.com/vElj7CA.jpeg" group-title="CANAIS I DOCUMENTARIOS ",Travel Box Brazil FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17568
+#EXTINF:-1 tvg-id="" tvg-name="Travel Box Brazil FHD [H265]" tvg-logo="https://imgur.com/vElj7CA.jpeg" group-title="CANAIS I DOCUMENTARIOS ",Travel Box Brazil FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113179
+#EXTINF:-1 tvg-id="Travelboxbrazil.br" tvg-name="Travel Box Brazil HD" tvg-logo="https://imgur.com/vElj7CA.jpeg" group-title="CANAIS I DOCUMENTARIOS ",Travel Box Brazil HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17570
+#EXTINF:-1 tvg-id="Travelboxbrazil.br" tvg-name="Travel Box Brazil SD" tvg-logo="https://imgur.com/vElj7CA.jpeg" group-title="CANAIS I DOCUMENTARIOS ",Travel Box Brazil SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17572
+#EXTINF:-1 tvg-id="" tvg-name="TV Anhanguera Goiania" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",TV Anhanguera Goiania
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113060
+#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV APARECIDA HD" tvg-logo="https://imgur.com/1RiJyQ4.jpeg" group-title="CANAIS | RELIGIOSOS",TV APARECIDA HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17937
+#EXTINF:-1 tvg-id="" tvg-name="TV Aratu HD SBT Bahia" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/60/Logotipo_da_TV_Aratu.png" group-title="CANAIS | ABERTOS",TV Aratu HD SBT Bahia
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113040
+#EXTINF:-1 tvg-id="" tvg-name="TV Brasil FHD" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/31032afb0ddcda240d10e0de80793302.png" group-title="CANAIS | ABERTOS",TV Brasil FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/37288
+#EXTINF:-1 tvg-id="" tvg-name="TV Brasil HD" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/31032afb0ddcda240d10e0de80793302.png" group-title="CANAIS | ABERTOS",TV Brasil HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/37292
+#EXTINF:-1 tvg-id="" tvg-name="TV Cabralia HD Bahia Record" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/13/Logotipo_da_RecordTV_Itapoan.png/150px-Logotipo_da_RecordTV_Itapoan.png" group-title="CANAIS | ABERTOS",TV Cabralia HD Bahia Record
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/38836
+#EXTINF:-1 tvg-id="" tvg-name="TV Centro America SD" tvg-logo="https://pbs.twimg.com/profile_images/1612181212/ESFERA_TVCA_400x400.png" group-title="CANAIS | GLOBO",TV Centro America SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113195
+#EXTINF:-1 tvg-id="" tvg-name="TV CLUBE HD ( GLOBO PIAUI)" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",TV CLUBE HD ( GLOBO PIAUI)
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113046
+#EXTINF:-1 tvg-id="" tvg-name="TV COXA HD ( CORITIBA FC)" tvg-logo="https://1.bp.blogspot.com/-sZBO--nOt54/Xjag90Tts0I/AAAAAAAAIMI/oYw1ZtUUPnkPsD38_WPPvYMVRHlGGkyewCLcBGAsYHQ/s1600/CORITIBA%2BFOOT%2BBALL%2BCLUB.png" group-title="CANAIS | ESPORTES",TV COXA HD ( CORITIBA FC)
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113167
+#EXTINF:-1 tvg-id="" tvg-name="TV DIARIO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_Di%C3%A1rio_logo.svg/200px-TV_Di%C3%A1rio_logo.svg.png" group-title="CANAIS | ABERTOS",TV DIARIO HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/106779
+#EXTINF:-1 tvg-id="" tvg-name="TV Evangelizar" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/da/4f/8e/da4f8e42-fcb2-10c3-2d68-43b948636070/source/200x200bb.jpg" group-title="CANAIS | RELIGIOSOS",TV Evangelizar
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/39227
+#EXTINF:-1 tvg-id="" tvg-name="TV Goiania HD - Band" tvg-logo="https://imgur.com/c1yTmCX.jpeg" group-title="CANAIS | ABERTOS",TV Goiania HD - Band
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113064
+#EXTINF:-1 tvg-id="" tvg-name="TV Justica SD" tvg-logo="https://i.pinimg.com/originals/c0/a9/af/c0a9afa9583ae4d1c339d967e37ba191.jpg" group-title="CANAIS | ABERTOS",TV Justica SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113089
+#EXTINF:-1 tvg-id="" tvg-name="TV MORENA HD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",TV MORENA HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113096
+#EXTINF:-1 tvg-id="" tvg-name="TV Ra Tim Bum FHD [H265]" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/tvratimbum.png" group-title="CANAIS | INFANTIL",TV Ra Tim Bum FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113216
+#EXTINF:-1 tvg-id="" tvg-name="TV Rá Tim Bum! FHD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/tvratimbum.png" group-title="CANAIS | INFANTIL",TV Rá Tim Bum! FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17550
+#EXTINF:-1 tvg-id="" tvg-name="TV Rá Tim Bum! HD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/tvratimbum.png" group-title="CANAIS | INFANTIL",TV Rá Tim Bum! HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17552
+#EXTINF:-1 tvg-id="" tvg-name="TV Santa Cruz Bahia HD " tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",TV Santa Cruz Bahia HD 
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113042
+#EXTINF:-1 tvg-id="" tvg-name="Tv Taroba HD [BAND Parana]" tvg-logo="https://imgur.com/c1yTmCX.jpeg" group-title="CANAIS | ABERTOS",Tv Taroba HD [BAND Parana]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113079
+#EXTINF:-1 tvg-id="" tvg-name="TV VITORIA ES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/81/Logotipo_da_TV_Vit%C3%B3ria.png/200px-Logotipo_da_TV_Vit%C3%B3ria.png" group-title="CANAIS | ABERTOS",TV VITORIA ES FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113075
+#EXTINF:-1 tvg-id="" tvg-name="TV VITORIA ES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/81/Logotipo_da_TV_Vit%C3%B3ria.png/200px-Logotipo_da_TV_Vit%C3%B3ria.png" group-title="CANAIS | ABERTOS",TV VITORIA ES HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113074
+#EXTINF:-1 tvg-id="" tvg-name="TV VITORIA ES SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/81/Logotipo_da_TV_Vit%C3%B3ria.png/200px-Logotipo_da_TV_Vit%C3%B3ria.png" group-title="CANAIS | ABERTOS",TV VITORIA ES SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113073
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Universal Studio FHD" tvg-logo="https://imgur.com/m731Gw4.jpeg" group-title="CANAIS | FILMES E SÉRIES",Universal Studio FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18040
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Universal Studio FHD [H265]" tvg-logo="https://imgur.com/m731Gw4.jpeg" group-title="CANAIS | FILMES E SÉRIES",Universal Studio FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113157
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Universal Studio HD" tvg-logo="https://imgur.com/m731Gw4.jpeg" group-title="CANAIS | FILMES E SÉRIES",Universal Studio HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18041
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Universal Studio SD" tvg-logo="https://imgur.com/m731Gw4.jpeg" group-title="CANAIS | FILMES E SÉRIES",Universal Studio SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18042
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="Universal TV FHD" tvg-logo="https://imgur.com/50EERc9.jpeg" group-title="CANAIS | FILMES E SÉRIES",Universal TV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18043
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="Universal TV FHD [H265]" tvg-logo="https://imgur.com/50EERc9.jpeg" group-title="CANAIS | FILMES E SÉRIES",Universal TV FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113156
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="Universal TV HD" tvg-logo="https://imgur.com/50EERc9.jpeg" group-title="CANAIS | FILMES E SÉRIES",Universal TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18044
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="Universal TV SD" tvg-logo="https://imgur.com/50EERc9.jpeg" group-title="CANAIS | FILMES E SÉRIES",Universal TV SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113100
+#EXTINF:-1 tvg-id="" tvg-name="VH1 FHD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/vh1.png" group-title="CANAIS | VARIEDADES",VH1 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18022
+#EXTINF:-1 tvg-id="" tvg-name="VH1 HD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/vh1.png" group-title="CANAIS | VARIEDADES",VH1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18023
+#EXTINF:-1 tvg-id="" tvg-name="Viva FHD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/viva.png" group-title="CANAIS | VARIEDADES",Viva FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18025
+#EXTINF:-1 tvg-id="" tvg-name="Viva HD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/viva.png" group-title="CANAIS | VARIEDADES",Viva HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18026
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="Warner FHD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/warnerchannel.png" group-title="CANAIS | FILMES E SÉRIES",Warner FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/106777
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="Warner FHD [H265]" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/warnerchannel.png" group-title="CANAIS | FILMES E SÉRIES",Warner FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113150
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="Warner HD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/warnerchannel.png" group-title="CANAIS | FILMES E SÉRIES",Warner HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/106776
+#EXTINF:-1 tvg-id="" tvg-name="Warner SD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/warnerchannel.png" group-title="CANAIS | FILMES E SÉRIES",Warner SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17880
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO ALAGOANO HD" tvg-logo="https://cdn.footystats.org/img/competitions/brazil-alagoano.png" group-title="CANAIS | ESPORTES",CAMPEONATO ALAGOANO HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/106775
+#EXTINF:-1 tvg-id="" tvg-name="FlaTV" tvg-logo="https://www.seekpng.com/png/small/124-1245778_inscreva-se-na-flatv-de-graa-e-com.png" group-title="CANAIS | ESPORTES",FlaTV
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/90451
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel HD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/disneychannel.png" group-title="CANAIS | INFANTIL",Disney Channel HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/17685
+#EXTINF:-1 tvg-id="" tvg-name="Disney channel FHD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/disneychannel.png" group-title="CANAIS | INFANTIL",Disney channel FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113222
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast SD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/tooncast.png" group-title="CANAIS | INFANTIL",Tooncast SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18261
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast HD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/tooncast.png" group-title="CANAIS | INFANTIL",Tooncast HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113225
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast FHD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/tooncast.png" group-title="CANAIS | INFANTIL",Tooncast FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113226
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast FHD [H265]" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/tooncast.png" group-title="CANAIS | INFANTIL",Tooncast FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113227
+#EXTINF:-1 tvg-id="" tvg-name="LIGA FUTSAL 2021" tvg-logo="https://pbs.twimg.com/profile_images/1369299846021197829/bFz7aHRe.jpg" group-title="CANAIS | ESPORTES",LIGA FUTSAL 2021
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113228
+#EXTINF:-1 tvg-id="" tvg-name="REDE GOSPEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/ba/LGT_Rede_Gospel.png" group-title="CANAIS | RELIGIOSOS",REDE GOSPEL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113236
+#EXTINF:-1 tvg-id="" tvg-name="Gospel Movie TV HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/9ec2c361a5ce07ba0f7987bcd36dbb1d.jpg" group-title="CANAIS | RELIGIOSOS",Gospel Movie TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113237
+#EXTINF:-1 tvg-id="" tvg-name="TV GIDEOES HD" tvg-logo="https://lisboafilmes.com.br/uploads/tv_image/tv-gide%C3%95es.png" group-title="CANAIS | RELIGIOSOS",TV GIDEOES HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113238
+#EXTINF:-1 tvg-id="" tvg-name="REDE PLENITUDE TV HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/2b1ea269f673bbd4459aa53f2b78ff14.png" group-title="CANAIS | RELIGIOSOS",REDE PLENITUDE TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113239
+#EXTINF:-1 tvg-id="" tvg-name="TV GLOBINHO HD " tvg-logo="https://oplanetatv.clickgratis.com.br/_upload/content/2018/12/27/gloobinho-fez-sua-estreia-na-operadora-vivo-em-versao-hd-5c24d93c62445.jpg" group-title="CANAIS | INFANTIL",TV GLOBINHO HD 
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113240
+#EXTINF:-1 tvg-id="" tvg-name="TV  GLOBINHO FHD" tvg-logo="https://oplanetatv.clickgratis.com.br/_upload/content/2018/12/27/gloobinho-fez-sua-estreia-na-operadora-vivo-em-versao-hd-5c24d93c62445.jpg" group-title="CANAIS | INFANTIL",TV  GLOBINHO FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113241
+#EXTINF:-1 tvg-id="" tvg-name="TV Senado SD" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/fc38fd936776666be9f3cc8788da9607.png" group-title="CANAIS | ABERTOS",TV Senado SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113194
+#EXTINF:-1 tvg-id="" tvg-name="TV NSPORTS HD (JOGO 1)" tvg-logo="https://www.esm.com.br/assets/img/logos/tvnsports-pos.jpg" group-title="CANAIS | ESPORTES",TV NSPORTS HD (JOGO 1)
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113334
+#EXTINF:-1 tvg-id="" tvg-name="TV NSPORTS HD (JOGO 2)" tvg-logo="https://www.esm.com.br/assets/img/logos/tvnsports-pos.jpg" group-title="CANAIS | ESPORTES",TV NSPORTS HD (JOGO 2)
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113335
+#EXTINF:-1 tvg-id="" tvg-name="TV NSPORTS HD (JOGO 3)" tvg-logo="https://www.esm.com.br/assets/img/logos/tvnsports-pos.jpg" group-title="CANAIS | ESPORTES",TV NSPORTS HD (JOGO 3)
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113336
+#EXTINF:-1 tvg-id="" tvg-name="RIT TV HD " tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c44a8bd6e3634b22e307678c4f21d127.webp" group-title="CANAIS | RELIGIOSOS",RIT TV HD 
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113337
+#EXTINF:-1 tvg-id="" tvg-name="TV PAI ETERNO HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/6ea19e674e731e9eef76b96ab954e4b1.png" group-title="CANAIS | RELIGIOSOS",TV PAI ETERNO HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113338
+#EXTINF:-1 tvg-id="" tvg-name="REDE 21 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/b4/Rede_S%C3%A9culo_21.jpg/200px-Rede_S%C3%A9culo_21.jpg" group-title="CANAIS | RELIGIOSOS",REDE 21 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113339
+
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Belem HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="CANAIS | ABERTOS",Record TV Belem HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/113401
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Vanguarda S.J dos Campos SD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Vanguarda S.J dos Campos SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/392511
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Vanguarda S.J dos Campos HD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Vanguarda S.J dos Campos HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/392512
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Vanguarda S.J dos Campos FHD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",Globo TV Vanguarda S.J dos Campos FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/392513
+#EXTINF:-1 tvg-id="" tvg-name="RecordTV LITORAL SANTOS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="CANAIS | ABERTOS",RecordTV LITORAL SANTOS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/392514
+#EXTINF:-1 tvg-id="" tvg-name="TruTV FHD [H264]" tvg-logo="https://www.auditionfinder.com/wp-content/uploads/2017/09/Misfits-Monsters-Season-1-TruTV-300x300.jpg" group-title="CANAIS | VARIEDADES",TruTV FHD [H264]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/408360
+#EXTINF:-1 tvg-id="" tvg-name="TruTV SD" tvg-logo="https://www.auditionfinder.com/wp-content/uploads/2017/09/Misfits-Monsters-Season-1-TruTV-300x300.jpg" group-title="CANAIS | VARIEDADES",TruTV SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/408358
+#EXTINF:-1 tvg-id="" tvg-name="TruTV HD" tvg-logo="https://www.auditionfinder.com/wp-content/uploads/2017/09/Misfits-Monsters-Season-1-TruTV-300x300.jpg" group-title="CANAIS | VARIEDADES",TruTV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/408359
+#EXTINF:-1 tvg-id="" tvg-name="RecordTV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="CANAIS | ABERTOS",RecordTV SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/408368
+#EXTINF:-1 tvg-id="" tvg-name="ALADIN 24HS" tvg-logo="" group-title="CANAIS | 24 HORAS",ALADIN 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409632
+#EXTINF:-1 tvg-id="" tvg-name="As Meninas Superpoderosas 24HS" tvg-logo="" group-title="CANAIS | 24 HORAS",As Meninas Superpoderosas 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409633
+#EXTINF:-1 tvg-id="" tvg-name="BEN 10 24HS" tvg-logo="" group-title="CANAIS | 24 HORAS",BEN 10 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409634
+#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA 24HS" tvg-logo="" group-title="CANAIS | 24 HORAS",BOB ESPONJA 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409635
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad 24hs" tvg-logo="" group-title="CANAIS | 24 HORAS",Breaking Bad 24hs
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409636
+#EXTINF:-1 tvg-id="" tvg-name="CAO CORAGEM 24HS" tvg-logo="" group-title="CANAIS | 24 HORAS",CAO CORAGEM 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409637
+#EXTINF:-1 tvg-id="" tvg-name="Caverna do Dragão 24HS" tvg-logo="" group-title="CANAIS | 24 HORAS",Caverna do Dragão 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409638
+#EXTINF:-1 tvg-id="" tvg-name="Chapolin Colorado 24hs" tvg-logo="" group-title="CANAIS | 24 HORAS",Chapolin Colorado 24hs
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409639
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES 24HS" tvg-logo="" group-title="CANAIS | 24 HORAS",CHAVES 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409640
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES DESENHO 24HS" tvg-logo="" group-title="CANAIS | 24 HORAS",CHAVES DESENHO 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409641
+#EXTINF:-1 tvg-id="" tvg-name="Denis o Pimentinha 24HS" tvg-logo="" group-title="CANAIS | 24 HORAS",Denis o Pimentinha 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409642
+#EXTINF:-1 tvg-id="" tvg-name="Desenhos Biblicos 24hs" tvg-logo="" group-title="CANAIS | 24 HORAS",Desenhos Biblicos 24hs
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409643
+#EXTINF:-1 tvg-id="" tvg-name="Desenhos Disney 24HS" tvg-logo="" group-title="CANAIS | 24 HORAS",Desenhos Disney 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409644
+#EXTINF:-1 tvg-id="" tvg-name="Digimon 24HS" tvg-logo="" group-title="CANAIS | 24 HORAS",Digimon 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409645
+#EXTINF:-1 tvg-id="" tvg-name="Dois Homens e Meio 24HS" tvg-logo="" group-title="CANAIS | 24 HORAS",Dois Homens e Meio 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409646
+#EXTINF:-1 tvg-id="" tvg-name="Doug 24hs" tvg-logo="" group-title="CANAIS | 24 HORAS",Doug 24hs
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409647
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL 24HS" tvg-logo="" group-title="CANAIS | 24 HORAS",DRAGON BALL 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409648
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER 24HS" tvg-logo="" group-title="CANAIS | 24 HORAS",DRAGON BALL SUPER 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409649
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL Z 24HS" tvg-logo="" group-title="CANAIS | 24 HORAS",DRAGON BALL Z 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409650
+#EXTINF:-1 tvg-id="" tvg-name="Eu a Patroa e as Crianças 24hs" tvg-logo="" group-title="CANAIS | 24 HORAS",Eu a Patroa e as Crianças 24hs
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409651
+#EXTINF:-1 tvg-id="" tvg-name="Formiga Atómica 24hs" tvg-logo="" group-title="CANAIS | 24 HORAS",Formiga Atómica 24hs
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409652
+#EXTINF:-1 tvg-id="" tvg-name="Galinha Pintadinha 24hs" tvg-logo="" group-title="CANAIS | 24 HORAS",Galinha Pintadinha 24hs
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409653
+#EXTINF:-1 tvg-id="" tvg-name="Guardiões da Galaxia 24hs" tvg-logo="" group-title="CANAIS | 24 HORAS",Guardiões da Galaxia 24hs
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409654
+#EXTINF:-1 tvg-id="" tvg-name="He-Man 24hs" tvg-logo="" group-title="CANAIS | 24 HORAS",He-Man 24hs
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409655
+#EXTINF:-1 tvg-id="" tvg-name="Hércules 24hs" tvg-logo="" group-title="CANAIS | 24 HORAS",Hércules 24hs
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409656
+#EXTINF:-1 tvg-id="" tvg-name="Historias Disney 24hs" tvg-logo="" group-title="CANAIS | 24 HORAS",Historias Disney 24hs
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409657
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM ARANHA 24HS" tvg-logo="" group-title="CANAIS | 24 HORAS",HOMEM ARANHA 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409658
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro 24hs" tvg-logo="" group-title="CANAIS | 24 HORAS",Homem de Ferro 24hs
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409659
+#EXTINF:-1 tvg-id="" tvg-name="HOMEMS DE PRETO 24HS" tvg-logo="" group-title="CANAIS | 24 HORAS",HOMEMS DE PRETO 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409660
+#EXTINF:-1 tvg-id="" tvg-name="Incrível Hulk 24hs" tvg-logo="" group-title="CANAIS | 24 HORAS",Incrível Hulk 24hs
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409661
+#EXTINF:-1 tvg-id="" tvg-name="Jack-Chan 24hs" tvg-logo="" group-title="CANAIS | 24 HORAS",Jack-Chan 24hs
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409662
+#EXTINF:-1 tvg-id="" tvg-name="Jaspion 24HS" tvg-logo="" group-title="CANAIS | 24 HORAS",Jaspion 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409663
+#EXTINF:-1 tvg-id="" tvg-name="JIRAYA O Incrível Ninja 24HS" tvg-logo="" group-title="CANAIS | 24 HORAS",JIRAYA O Incrível Ninja 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409664
+#EXTINF:-1 tvg-id="" tvg-name="Kenan e Kel 24hs" tvg-logo="" group-title="CANAIS | 24 HORAS",Kenan e Kel 24hs
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409665
+#EXTINF:-1 tvg-id="" tvg-name="Luluzinha 24HS" tvg-logo="" group-title="CANAIS | 24 HORAS",Luluzinha 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409666
+#EXTINF:-1 tvg-id="" tvg-name="Medabots 24hs" tvg-logo="" group-title="CANAIS | 24 HORAS",Medabots 24hs
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409667
+#EXTINF:-1 tvg-id="" tvg-name="MegaMan 24hs" tvg-logo="" group-title="CANAIS | 24 HORAS",MegaMan 24hs
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409668
+#EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat 24hs" tvg-logo="" group-title="CANAIS | 24 HORAS",Mortal Kombat 24hs
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409669
+#EXTINF:-1 tvg-id="" tvg-name="Mr.Ben 24hs" tvg-logo="" group-title="CANAIS | 24 HORAS",Mr.Ben 24hs
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409670
+#EXTINF:-1 tvg-id="" tvg-name="NARUTO 24HS" tvg-logo="" group-title="CANAIS | 24 HORAS",NARUTO 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409671
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Shippuden DUB 24HS" tvg-logo="" group-title="CANAIS | 24 HORAS",Naruto Shippuden DUB 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409672
+#EXTINF:-1 tvg-id="" tvg-name="O Fantástico Mundo de Bobby 24hs" tvg-logo="" group-title="CANAIS | 24 HORAS",O Fantástico Mundo de Bobby 24hs
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409673
+#EXTINF:-1 tvg-id="" tvg-name="O INSPETOR 24hs" tvg-logo="" group-title="CANAIS | 24 HORAS",O INSPETOR 24hs
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409674
+#EXTINF:-1 tvg-id="" tvg-name="O MASKARA 24HS" tvg-logo="" group-title="CANAIS | 24 HORAS",O MASKARA 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409675
+#EXTINF:-1 tvg-id="" tvg-name="Os Anjinhos - Rugrats 24HS" tvg-logo="" group-title="CANAIS | 24 HORAS",Os Anjinhos - Rugrats 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409676
+#EXTINF:-1 tvg-id="" tvg-name="OS CAVALEIROS DO ZODIACO 24HS" tvg-logo="" group-title="CANAIS | 24 HORAS",OS CAVALEIROS DO ZODIACO 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409677
+#EXTINF:-1 tvg-id="" tvg-name="OS FLINTSTONES 24hs" tvg-logo="" group-title="CANAIS | 24 HORAS",OS FLINTSTONES 24hs
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409678
+#EXTINF:-1 tvg-id="" tvg-name="OS SIMPSONS 24HS" tvg-logo="" group-title="CANAIS | 24 HORAS",OS SIMPSONS 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409679
+#EXTINF:-1 tvg-id="" tvg-name="Os Vingadores 24hs" tvg-logo="" group-title="CANAIS | 24 HORAS",Os Vingadores 24hs
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409680
+#EXTINF:-1 tvg-id="" tvg-name="Papa-Léguas 24HS" tvg-logo="" group-title="CANAIS | 24 HORAS",Papa-Léguas 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409681
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig 24hs" tvg-logo="" group-title="CANAIS | 24 HORAS",Peppa Pig 24hs
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409682
+#EXTINF:-1 tvg-id="" tvg-name="PERNALONGA 24HS" tvg-logo="" group-title="CANAIS | 24 HORAS",PERNALONGA 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409683
+#EXTINF:-1 tvg-id="" tvg-name="Phineas e Ferb 24HS" tvg-logo="" group-title="CANAIS | 24 HORAS",Phineas e Ferb 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409684
+#EXTINF:-1 tvg-id="" tvg-name="PICA PAU 24HS" tvg-logo="" group-title="CANAIS | 24 HORAS",PICA PAU 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409685
+#EXTINF:-1 tvg-id="" tvg-name="Pink-e-Cerebro 24hs" tvg-logo="" group-title="CANAIS | 24 HORAS",Pink-e-Cerebro 24hs
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409686
+#EXTINF:-1 tvg-id="" tvg-name="POKEMON 24HS" tvg-logo="" group-title="CANAIS | 24 HORAS",POKEMON 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409687
+#EXTINF:-1 tvg-id="" tvg-name="Popeye O Marinheiro 24hs" tvg-logo="" group-title="CANAIS | 24 HORAS",Popeye O Marinheiro 24hs
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409688
+#EXTINF:-1 tvg-id="" tvg-name="Rambo 24hs" tvg-logo="" group-title="CANAIS | 24 HORAS",Rambo 24hs
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409689
+#EXTINF:-1 tvg-id="" tvg-name="Scooby-Doo 24HS" tvg-logo="" group-title="CANAIS | 24 HORAS",Scooby-Doo 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409690
+#EXTINF:-1 tvg-id="" tvg-name="Smallville 24hs" tvg-logo="" group-title="CANAIS | 24 HORAS",Smallville 24hs
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409691
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural 24hs" tvg-logo="" group-title="CANAIS | 24 HORAS",Sobrenatural 24hs
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409692
+#EXTINF:-1 tvg-id="" tvg-name="South Park 24HS" tvg-logo="" group-title="CANAIS | 24 HORAS",South Park 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409693
+#EXTINF:-1 tvg-id="" tvg-name="Steven Universe 24HS" tvg-logo="" group-title="CANAIS | 24 HORAS",Steven Universe 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409694
+#EXTINF:-1 tvg-id="" tvg-name="Superman 24hs" tvg-logo="" group-title="CANAIS | 24 HORAS",Superman 24hs
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409695
+#EXTINF:-1 tvg-id="" tvg-name="TARTARUGAS NINJAS 24HS" tvg-logo="" group-title="CANAIS | 24 HORAS",TARTARUGAS NINJAS 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409696
+#EXTINF:-1 tvg-id="" tvg-name="Thundercats 24HS" tvg-logo="" group-title="CANAIS | 24 HORAS",Thundercats 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409697
+#EXTINF:-1 tvg-id="" tvg-name="TIMAO E PUMBA 24HS" tvg-logo="" group-title="CANAIS | 24 HORAS",TIMAO E PUMBA 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409698
+#EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CHRIS 24hs" tvg-logo="" group-title="CANAIS | 24 HORAS",TODO MUNDO ODEIA O CHRIS 24hs
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409699
+#EXTINF:-1 tvg-id="" tvg-name="Tom & Jerry 24HS" tvg-logo="" group-title="CANAIS | 24 HORAS",Tom & Jerry 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409700
+#EXTINF:-1 tvg-id="" tvg-name="Tres Espias Demais 24hs" tvg-logo="" group-title="CANAIS | 24 HORAS",Tres Espias Demais 24hs
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409701
+#EXTINF:-1 tvg-id="" tvg-name="UM MALUCO NO PEDAÇO 24HS" tvg-logo="" group-title="CANAIS | 24 HORAS",UM MALUCO NO PEDAÇO 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409702
+#EXTINF:-1 tvg-id="" tvg-name="Uma Família da Pesada 24hs" tvg-logo="" group-title="CANAIS | 24 HORAS",Uma Família da Pesada 24hs
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409703
+#EXTINF:-1 tvg-id="" tvg-name="Ursinhos Carinhos 24hs" tvg-logo="" group-title="CANAIS | 24 HORAS",Ursinhos Carinhos 24hs
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409704
+#EXTINF:-1 tvg-id="" tvg-name="X-MAN 24HS" tvg-logo="" group-title="CANAIS | 24 HORAS",X-MAN 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409705
+#EXTINF:-1 tvg-id="" tvg-name="Xena 24hs" tvg-logo="" group-title="CANAIS | 24 HORAS",Xena 24hs
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409706
+#EXTINF:-1 tvg-id="" tvg-name="YU-GI-OH 24hs" tvg-logo="" group-title="CANAIS | 24 HORAS",YU-GI-OH 24hs
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409707
+#EXTINF:-1 tvg-id="" tvg-name="YU-YU-Hakusho 24hs" tvg-logo="" group-title="CANAIS | 24 HORAS",YU-YU-Hakusho 24hs
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409708
+#EXTINF:-1 tvg-id="" tvg-name="3 Palavrinhas 24hs" tvg-logo="" group-title="CANAIS | 24 HORAS",3 Palavrinhas 24hs
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409709
+#EXTINF:-1 tvg-id="" tvg-name="A Grande Familia 24hs" tvg-logo="" group-title="CANAIS | 24 HORAS",A Grande Familia 24hs
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409710
+#EXTINF:-1 tvg-id="" tvg-name="Bita e os Animais 24hrs" tvg-logo="" group-title="CANAIS | 24 HORAS",Bita e os Animais 24hrs
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409711
+#EXTINF:-1 tvg-id="" tvg-name="Liga da Justica 24hs" tvg-logo="" group-title="CANAIS | 24 HORAS",Liga da Justica 24hs
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409712
+#EXTINF:-1 tvg-id="" tvg-name="VAI QUE COLA 24HRS" tvg-logo="" group-title="CANAIS | 24 HORAS",VAI QUE COLA 24HRS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409713
+#EXTINF:-1 tvg-id="" tvg-name="Vai Que Cola 24hs" tvg-logo="" group-title="CANAIS | 24 HORAS",Vai Que Cola 24hs
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409714
+#EXTINF:-1 tvg-id="" tvg-name="Super Choque 24hs" tvg-logo="" group-title="CANAIS | 24 HORAS",Super Choque 24hs
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409715
+#EXTINF:-1 tvg-id="" tvg-name="A Feiticeira 24hs" tvg-logo="" group-title="CANAIS | 24 HORAS",A Feiticeira 24hs
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409716
+#EXTINF:-1 tvg-id="" tvg-name="Corrida Maluca" tvg-logo="" group-title="CANAIS | 24 HORAS",Corrida Maluca
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409717
+#EXTINF:-1 tvg-id="" tvg-name="24H BUBU E AS CORUJINHAS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H BUBU E AS CORUJINHAS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409718
+#EXTINF:-1 tvg-id="" tvg-name="24H O SHOW DO GARFIELD" tvg-logo="" group-title="CANAIS | 24 HORAS",24H O SHOW DO GARFIELD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409719
+#EXTINF:-1 tvg-id="" tvg-name="24H DANIEL TIGRE" tvg-logo="" group-title="CANAIS | 24 HORAS",24H DANIEL TIGRE
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409720
+#EXTINF:-1 tvg-id="" tvg-name="24H GALINHA PINTADINHA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H GALINHA PINTADINHA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409721
+#EXTINF:-1 tvg-id="" tvg-name="24H POLLY POCKET" tvg-logo="" group-title="CANAIS | 24 HORAS",24H POLLY POCKET
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409722
+#EXTINF:-1 tvg-id="" tvg-name="24H LOUIE" tvg-logo="" group-title="CANAIS | 24 HORAS",24H LOUIE
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409723
+#EXTINF:-1 tvg-id="" tvg-name="24H SEE T01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H SEE T01
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409724
+#EXTINF:-1 tvg-id="" tvg-name="24H JESUS UM REINO SEM FRONTEIRA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H JESUS UM REINO SEM FRONTEIRA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409725
+#EXTINF:-1 tvg-id="" tvg-name="24H AVATAR A LENDA DE KORA H265" tvg-logo="" group-title="CANAIS | 24 HORAS",24H AVATAR A LENDA DE KORA H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409726
+#EXTINF:-1 tvg-id="" tvg-name="24H CANÇÕES DE NINAR" tvg-logo="" group-title="CANAIS | 24 HORAS",24H CANÇÕES DE NINAR
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409727
+#EXTINF:-1 tvg-id="" tvg-name="24H 9-1-1" tvg-logo="" group-title="CANAIS | 24 HORAS",24H 9-1-1
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409728
+#EXTINF:-1 tvg-id="" tvg-name="24H GALINHA PINTADINHA MINI" tvg-logo="" group-title="CANAIS | 24 HORAS",24H GALINHA PINTADINHA MINI
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409729
+#EXTINF:-1 tvg-id="" tvg-name="CINE TRAPALHÕES" tvg-logo="" group-title="CANAIS | 24 HORAS",CINE TRAPALHÕES
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409730
+#EXTINF:-1 tvg-id="" tvg-name="24H PEPE LEGAL" tvg-logo="" group-title="CANAIS | 24 HORAS",24H PEPE LEGAL
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409731
+#EXTINF:-1 tvg-id="" tvg-name="24H SONIC THE HEDGEHOG" tvg-logo="" group-title="CANAIS | 24 HORAS",24H SONIC THE HEDGEHOG
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409732
+#EXTINF:-1 tvg-id="" tvg-name="24H ANIMANIACS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H ANIMANIACS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409733
+#EXTINF:-1 tvg-id="" tvg-name="24H AS NOIVAS DE COPACABANA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H AS NOIVAS DE COPACABANA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409734
+#EXTINF:-1 tvg-id="" tvg-name="24H A VIDA COMO ELA É" tvg-logo="" group-title="CANAIS | 24 HORAS",24H A VIDA COMO ELA É
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409735
+#EXTINF:-1 tvg-id="" tvg-name="24H MALHAÇÃO 1999" tvg-logo="" group-title="CANAIS | 24 HORAS",24H MALHAÇÃO 1999
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409736
+#EXTINF:-1 tvg-id="" tvg-name="24H ZILLION" tvg-logo="" group-title="CANAIS | 24 HORAS",24H ZILLION
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409737
+#EXTINF:-1 tvg-id="" tvg-name="24H OS SIMPSONS 2011-2020" tvg-logo="" group-title="CANAIS | 24 HORAS",24H OS SIMPSONS 2011-2020
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409738
+#EXTINF:-1 tvg-id="" tvg-name="24H PEGADINHAS AMERICANAS 2" tvg-logo="" group-title="CANAIS | 24 HORAS",24H PEGADINHAS AMERICANAS 2
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409739
+#EXTINF:-1 tvg-id="" tvg-name="24H GRAN HOTEL" tvg-logo="" group-title="CANAIS | 24 HORAS",24H GRAN HOTEL
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409740
+#EXTINF:-1 tvg-id="" tvg-name="24H CHERNOBYL" tvg-logo="" group-title="CANAIS | 24 HORAS",24H CHERNOBYL
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409741
+#EXTINF:-1 tvg-id="" tvg-name="24H REALITY Z" tvg-logo="" group-title="CANAIS | 24 HORAS",24H REALITY Z
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409742
+#EXTINF:-1 tvg-id="" tvg-name="24H LARGADOS E PELADOS A TRIBO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H LARGADOS E PELADOS A TRIBO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409743
+#EXTINF:-1 tvg-id="" tvg-name="24H LADY NIGHT" tvg-logo="" group-title="CANAIS | 24 HORAS",24H LADY NIGHT
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409744
+#EXTINF:-1 tvg-id="" tvg-name="24H MUNDO BITA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H MUNDO BITA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409745
+#EXTINF:-1 tvg-id="" tvg-name="24H OS SNORKS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H OS SNORKS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409746
+#EXTINF:-1 tvg-id="" tvg-name="24H TOM & JERRY CLASSICO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H TOM & JERRY CLASSICO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409747
+#EXTINF:-1 tvg-id="" tvg-name="24H BOB ESPONJA T01 A 04" tvg-logo="" group-title="CANAIS | 24 HORAS",24H BOB ESPONJA T01 A 04
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409748
+#EXTINF:-1 tvg-id="" tvg-name="24H PATRULHA CANINA T01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H PATRULHA CANINA T01
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409749
+#EXTINF:-1 tvg-id="" tvg-name="24H PATRULHA CANINA T02" tvg-logo="" group-title="CANAIS | 24 HORAS",24H PATRULHA CANINA T02
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409750
+#EXTINF:-1 tvg-id="" tvg-name="24H PATRULHA CANINA T03" tvg-logo="" group-title="CANAIS | 24 HORAS",24H PATRULHA CANINA T03
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409751
+#EXTINF:-1 tvg-id="" tvg-name="24H PATRULHA CANINA T04" tvg-logo="" group-title="CANAIS | 24 HORAS",24H PATRULHA CANINA T04
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409752
+#EXTINF:-1 tvg-id="" tvg-name="24H CHANGEMAN" tvg-logo="" group-title="CANAIS | 24 HORAS",24H CHANGEMAN
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409753
+#EXTINF:-1 tvg-id="" tvg-name="24H ESCOLINHA PROFESSOR RAIMUNDO ANOS 90" tvg-logo="" group-title="CANAIS | 24 HORAS",24H ESCOLINHA PROFESSOR RAIMUNDO ANOS 90
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409754
+#EXTINF:-1 tvg-id="" tvg-name="24H OS SIMPSON 2000/2010" tvg-logo="" group-title="CANAIS | 24 HORAS",24H OS SIMPSON 2000/2010
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409755
+#EXTINF:-1 tvg-id="" tvg-name="24H CAVERNA DO DRAGÃO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H CAVERNA DO DRAGÃO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409756
+#EXTINF:-1 tvg-id="" tvg-name="24H IRMÃO DO JOREL" tvg-logo="" group-title="CANAIS | 24 HORAS",24H IRMÃO DO JOREL
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409757
+#EXTINF:-1 tvg-id="" tvg-name="24H BLACK KAMEN RIDER" tvg-logo="" group-title="CANAIS | 24 HORAS",24H BLACK KAMEN RIDER
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409758
+#EXTINF:-1 tvg-id="" tvg-name="24H IRMÃOS A OBRA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H IRMÃOS A OBRA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409759
+#EXTINF:-1 tvg-id="" tvg-name="24H HOUSE OF CARDS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H HOUSE OF CARDS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409760
+#EXTINF:-1 tvg-id="" tvg-name="24H OS HERCULÓIDES" tvg-logo="" group-title="CANAIS | 24 HORAS",24H OS HERCULÓIDES
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409761
+#EXTINF:-1 tvg-id="" tvg-name="24H GIGANTES DA INDUSTRIA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H GIGANTES DA INDUSTRIA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409762
+#EXTINF:-1 tvg-id="" tvg-name="24H MARIA MAGDALENA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H MARIA MAGDALENA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409763
+#EXTINF:-1 tvg-id="" tvg-name="24H MARVEL DEMOLIDOR" tvg-logo="" group-title="CANAIS | 24 HORAS",24H MARVEL DEMOLIDOR
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409764
+#EXTINF:-1 tvg-id="" tvg-name="24H OS TRAPALHÕES" tvg-logo="" group-title="CANAIS | 24 HORAS",24H OS TRAPALHÕES
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409765
+#EXTINF:-1 tvg-id="" tvg-name="24H DRAGONBALL CLASSICO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H DRAGONBALL CLASSICO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409766
+#EXTINF:-1 tvg-id="" tvg-name="24H A TURMA DA PANTERA COR DE ROSA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H A TURMA DA PANTERA COR DE ROSA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409767
+#EXTINF:-1 tvg-id="" tvg-name="24H TURMA DO RONALDINHO GAUCHO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H TURMA DO RONALDINHO GAUCHO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409768
+#EXTINF:-1 tvg-id="" tvg-name="24H O PODEROSO MIGTHOR" tvg-logo="" group-title="CANAIS | 24 HORAS",24H O PODEROSO MIGTHOR
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409769
+#EXTINF:-1 tvg-id="" tvg-name="24H 3 PALAVRINHAS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H 3 PALAVRINHAS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409770
+#EXTINF:-1 tvg-id="" tvg-name="24H NARUTO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H NARUTO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409771
+#EXTINF:-1 tvg-id="" tvg-name="24H OS SMURFS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H OS SMURFS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409772
+#EXTINF:-1 tvg-id="" tvg-name="24H PERDIDO NAS ESTRELAS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H PERDIDO NAS ESTRELAS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409773
+#EXTINF:-1 tvg-id="" tvg-name="24H OS CAVALEIROS DO ZODIACO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H OS CAVALEIROS DO ZODIACO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409774
+#EXTINF:-1 tvg-id="" tvg-name="24H PLIC & PLOC" tvg-logo="" group-title="CANAIS | 24 HORAS",24H PLIC & PLOC
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409775
+#EXTINF:-1 tvg-id="" tvg-name="24H ROBOCOP DESENHO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H ROBOCOP DESENHO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409776
+#EXTINF:-1 tvg-id="" tvg-name="24H SCOOBY-DOO & SCOOBY-LOO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H SCOOBY-DOO & SCOOBY-LOO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409777
+#EXTINF:-1 tvg-id="" tvg-name="24H SURFISTA PRATEADO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H SURFISTA PRATEADO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409778
+#EXTINF:-1 tvg-id="" tvg-name="24H SOUTH PARK" tvg-logo="" group-title="CANAIS | 24 HORAS",24H SOUTH PARK
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409779
+#EXTINF:-1 tvg-id="" tvg-name="24H SPARTACUS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H SPARTACUS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409780
+#EXTINF:-1 tvg-id="" tvg-name="24H TARZAN" tvg-logo="" group-title="CANAIS | 24 HORAS",24H TARZAN
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409781
+#EXTINF:-1 tvg-id="" tvg-name="24H LARGADOS E PELADOS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H LARGADOS E PELADOS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409782
+#EXTINF:-1 tvg-id="" tvg-name="24H ENGRAÇADINHA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H ENGRAÇADINHA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409783
+#EXTINF:-1 tvg-id="" tvg-name="24H TV COLOSSO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H TV COLOSSO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409784
+#EXTINF:-1 tvg-id="" tvg-name="24H V A BATALHA FINAL" tvg-logo="" group-title="CANAIS | 24 HORAS",24H V A BATALHA FINAL
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409785
+#EXTINF:-1 tvg-id="" tvg-name="24H OS GÁRGULAS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H OS GÁRGULAS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409786
+#EXTINF:-1 tvg-id="" tvg-name="24H AMERICAN HOUSEWIFE" tvg-logo="" group-title="CANAIS | 24 HORAS",24H AMERICAN HOUSEWIFE
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409787
+#EXTINF:-1 tvg-id="" tvg-name="24H BONES" tvg-logo="" group-title="CANAIS | 24 HORAS",24H BONES
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409788
+#EXTINF:-1 tvg-id="" tvg-name="24H COMANDOS EM AÇÃO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H COMANDOS EM AÇÃO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409789
+#EXTINF:-1 tvg-id="" tvg-name="24H FREAKAZOID" tvg-logo="" group-title="CANAIS | 24 HORAS",24H FREAKAZOID
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409790
+#EXTINF:-1 tvg-id="" tvg-name="24H JIBAN" tvg-logo="" group-title="CANAIS | 24 HORAS",24H JIBAN
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409791
+#EXTINF:-1 tvg-id="" tvg-name="24H BYCROSSERS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H BYCROSSERS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409792
+#EXTINF:-1 tvg-id="" tvg-name="24H HEROES" tvg-logo="" group-title="CANAIS | 24 HORAS",24H HEROES
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409793
+#EXTINF:-1 tvg-id="" tvg-name="24H FUTURAMA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H FUTURAMA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409794
+#EXTINF:-1 tvg-id="" tvg-name="24H A VACA E O FRANGO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H A VACA E O FRANGO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409795
+#EXTINF:-1 tvg-id="" tvg-name="24H CASTORES PIRADOS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H CASTORES PIRADOS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409796
+#EXTINF:-1 tvg-id="" tvg-name="24H EU SOU O MAXIMO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H EU SOU O MAXIMO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409797
+#EXTINF:-1 tvg-id="" tvg-name="24H FAISCA & FUMAÇA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H FAISCA & FUMAÇA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409798
+#EXTINF:-1 tvg-id="" tvg-name="24H GATO FELIX" tvg-logo="" group-title="CANAIS | 24 HORAS",24H GATO FELIX
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409799
+#EXTINF:-1 tvg-id="" tvg-name="24H HE-MAN" tvg-logo="" group-title="CANAIS | 24 HORAS",24H HE-MAN
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409800
+#EXTINF:-1 tvg-id="" tvg-name="24H BANANAS DE PIJAMAS DESENHO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H BANANAS DE PIJAMAS DESENHO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409801
+#EXTINF:-1 tvg-id="" tvg-name="24H OS CAÇA FANTASMA DESENHO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H OS CAÇA FANTASMA DESENHO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409802
+#EXTINF:-1 tvg-id="" tvg-name="24H SHE-RA CLASSICA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H SHE-RA CLASSICA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409803
+#EXTINF:-1 tvg-id="" tvg-name="24H PUNKY A LEVADA DA BRECA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H PUNKY A LEVADA DA BRECA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409804
+#EXTINF:-1 tvg-id="" tvg-name="24H DRAGON BALL LONGAS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H DRAGON BALL LONGAS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409805
+#EXTINF:-1 tvg-id="" tvg-name="24H UM MALUCO NO PEDAÇO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H UM MALUCO NO PEDAÇO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409806
+#EXTINF:-1 tvg-id="" tvg-name="24H XENA A PRINCESA GUERREIRA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H XENA A PRINCESA GUERREIRA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409807
+#EXTINF:-1 tvg-id="" tvg-name="24H BOOBA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H BOOBA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409808
+#EXTINF:-1 tvg-id="" tvg-name="24H CARGA PESADA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H CARGA PESADA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409809
+#EXTINF:-1 tvg-id="" tvg-name="24H OS URSINHOS CARINHOSOS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H OS URSINHOS CARINHOSOS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409810
+#EXTINF:-1 tvg-id="" tvg-name="24H CAPITÃO CAVERNA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H CAPITÃO CAVERNA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409811
+#EXTINF:-1 tvg-id="" tvg-name="24H O SÓCIO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H O SÓCIO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409812
+#EXTINF:-1 tvg-id="" tvg-name="24H MARSHA E O URSO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H MARSHA E O URSO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409813
+#EXTINF:-1 tvg-id="" tvg-name="24H TRÊS ESPIÃS DEMAIS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H TRÊS ESPIÃS DEMAIS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409814
+#EXTINF:-1 tvg-id="" tvg-name="24H TAZ MANIA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H TAZ MANIA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409815
+#EXTINF:-1 tvg-id="" tvg-name="24H OS JOVENS TITÃS EM AÇÃO T-01 Á 04" tvg-logo="" group-title="CANAIS | 24 HORAS",24H OS JOVENS TITÃS EM AÇÃO T-01 Á 04
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409816
+#EXTINF:-1 tvg-id="" tvg-name="24H OS JOVENS TITÃS EM AÇÃO T05" tvg-logo="" group-title="CANAIS | 24 HORAS",24H OS JOVENS TITÃS EM AÇÃO T05
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409817
+#EXTINF:-1 tvg-id="" tvg-name="24H BOB CONSTRUTOR 1999" tvg-logo="" group-title="CANAIS | 24 HORAS",24H BOB CONSTRUTOR 1999
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409818
+#EXTINF:-1 tvg-id="" tvg-name="24H HILDA FURACÃO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H HILDA FURACÃO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409819
+#EXTINF:-1 tvg-id="" tvg-name="24H OS RONI" tvg-logo="" group-title="CANAIS | 24 HORAS",24H OS RONI
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409820
+#EXTINF:-1 tvg-id="" tvg-name="24H CONTOS ASSUSTADORES DA MASHA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H CONTOS ASSUSTADORES DA MASHA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409821
+#EXTINF:-1 tvg-id="" tvg-name="24H TV QUACK" tvg-logo="" group-title="CANAIS | 24 HORAS",24H TV QUACK
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409822
+#EXTINF:-1 tvg-id="" tvg-name="24H TRANSFORMERS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H TRANSFORMERS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409823
+#EXTINF:-1 tvg-id="" tvg-name="24H TODO MUNDO ODEIA O CHRIS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H TODO MUNDO ODEIA O CHRIS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409824
+#EXTINF:-1 tvg-id="" tvg-name="24H CHAVES MULTISHOW" tvg-logo="" group-title="CANAIS | 24 HORAS",24H CHAVES MULTISHOW
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409825
+#EXTINF:-1 tvg-id="" tvg-name="24H SUPERCAMPEÕES" tvg-logo="" group-title="CANAIS | 24 HORAS",24H SUPERCAMPEÕES
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409826
+#EXTINF:-1 tvg-id="" tvg-name="24H SUPERAMIGOS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H SUPERAMIGOS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409827
+#EXTINF:-1 tvg-id="" tvg-name="24H STREET FIGHTER" tvg-logo="" group-title="CANAIS | 24 HORAS",24H STREET FIGHTER
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409828
+#EXTINF:-1 tvg-id="" tvg-name="24H SITIO DO PICA PAU AMARELO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H SITIO DO PICA PAU AMARELO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409829
+#EXTINF:-1 tvg-id="" tvg-name="24H SHAZAAM" tvg-logo="" group-title="CANAIS | 24 HORAS",24H SHAZAAM
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409830
+#EXTINF:-1 tvg-id="" tvg-name="24H SAMURAI JACK" tvg-logo="" group-title="CANAIS | 24 HORAS",24H SAMURAI JACK
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409831
+#EXTINF:-1 tvg-id="" tvg-name="24H A VIDA MODERNA DE ROCKO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H A VIDA MODERNA DE ROCKO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409832
+#EXTINF:-1 tvg-id="" tvg-name="24H REN & STIMPY" tvg-logo="" group-title="CANAIS | 24 HORAS",24H REN & STIMPY
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409833
+#EXTINF:-1 tvg-id="" tvg-name="24H RAMBO DESENHO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H RAMBO DESENHO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409834
+#EXTINF:-1 tvg-id="" tvg-name="24H POWER RANGERS CLASSICO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H POWER RANGERS CLASSICO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409835
+#EXTINF:-1 tvg-id="" tvg-name="24H POLE POSITION" tvg-logo="" group-title="CANAIS | 24 HORAS",24H POLE POSITION
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409836
+#EXTINF:-1 tvg-id="" tvg-name="24H PINK E O CEREBRO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H PINK E O CEREBRO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409837
+#EXTINF:-1 tvg-id="" tvg-name="24H PICA- PAU" tvg-logo="" group-title="CANAIS | 24 HORAS",24H PICA- PAU
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409838
+#EXTINF:-1 tvg-id="" tvg-name="24H O PEQUENO SCOOBY-DOO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H O PEQUENO SCOOBY-DOO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409839
+#EXTINF:-1 tvg-id="" tvg-name="24H PAPA LÉGUAS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H PAPA LÉGUAS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409840
+#EXTINF:-1 tvg-id="" tvg-name="24H OS MISTÉRIOS DE PIU-PIU E FRAJOLA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H OS MISTÉRIOS DE PIU-PIU E FRAJOLA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409841
+#EXTINF:-1 tvg-id="" tvg-name="24H O PEQUENO URSO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H O PEQUENO URSO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409842
+#EXTINF:-1 tvg-id="" tvg-name="24H 44 GATOS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H 44 GATOS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409843
+#EXTINF:-1 tvg-id="" tvg-name="24H MUMIAS VIVAS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H MUMIAS VIVAS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409844
+#EXTINF:-1 tvg-id="" tvg-name="24H MISTER MAKER" tvg-logo="" group-title="CANAIS | 24 HORAS",24H MISTER MAKER
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409845
+#EXTINF:-1 tvg-id="" tvg-name="24H CHAVES TEMPORADA 01 E 02" tvg-logo="" group-title="CANAIS | 24 HORAS",24H CHAVES TEMPORADA 01 E 02
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409846
+#EXTINF:-1 tvg-id="" tvg-name="24H CHAVES TEMPORADA 03 E 04" tvg-logo="" group-title="CANAIS | 24 HORAS",24H CHAVES TEMPORADA 03 E 04
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409847
+#EXTINF:-1 tvg-id="" tvg-name="24H CHAVES TEMPORADA 05 E 06" tvg-logo="" group-title="CANAIS | 24 HORAS",24H CHAVES TEMPORADA 05 E 06
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409848
+#EXTINF:-1 tvg-id="" tvg-name="24H CHAVES TEMPORADA 07" tvg-logo="" group-title="CANAIS | 24 HORAS",24H CHAVES TEMPORADA 07
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409849
+#EXTINF:-1 tvg-id="" tvg-name="24H MORANGUINHO AVENTURAS EM TUTTI FRUTI" tvg-logo="" group-title="CANAIS | 24 HORAS",24H MORANGUINHO AVENTURAS EM TUTTI FRUTI
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409850
+#EXTINF:-1 tvg-id="" tvg-name="24H MICKEY CLASSICO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H MICKEY CLASSICO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409851
+#EXTINF:-1 tvg-id="" tvg-name="24H A TURMA DO ZÉ COLMÉIA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H A TURMA DO ZÉ COLMÉIA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409852
+#EXTINF:-1 tvg-id="" tvg-name="24H O MANDALORIANO T01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H O MANDALORIANO T01
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409853
+#EXTINF:-1 tvg-id="" tvg-name="24H DRAGONBALL SUPER H265" tvg-logo="" group-title="CANAIS | 24 HORAS",24H DRAGONBALL SUPER H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409854
+#EXTINF:-1 tvg-id="" tvg-name="24H DRAGONBALL Z SAGA SAYAJIN" tvg-logo="" group-title="CANAIS | 24 HORAS",24H DRAGONBALL Z SAGA SAYAJIN
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409855
+#EXTINF:-1 tvg-id="" tvg-name="24H DRAGONBALL Z SAGA NAMEKUSEI" tvg-logo="" group-title="CANAIS | 24 HORAS",24H DRAGONBALL Z SAGA NAMEKUSEI
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409856
+#EXTINF:-1 tvg-id="" tvg-name="24H DRAGONBALL Z SAGA FREEZA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H DRAGONBALL Z SAGA FREEZA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409857
+#EXTINF:-1 tvg-id="" tvg-name="24H DRAGONBALL Z SAGA ANDROIDES" tvg-logo="" group-title="CANAIS | 24 HORAS",24H DRAGONBALL Z SAGA ANDROIDES
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409858
+#EXTINF:-1 tvg-id="" tvg-name="24H DRAGONBALL Z SAGA CELL" tvg-logo="" group-title="CANAIS | 24 HORAS",24H DRAGONBALL Z SAGA CELL
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409859
+#EXTINF:-1 tvg-id="" tvg-name="24H DRAGONBALL Z SAGA TORNEIO DO CELL" tvg-logo="" group-title="CANAIS | 24 HORAS",24H DRAGONBALL Z SAGA TORNEIO DO CELL
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409860
+#EXTINF:-1 tvg-id="" tvg-name="24H DRAGONBALL Z SAGA SAYAMAN" tvg-logo="" group-title="CANAIS | 24 HORAS",24H DRAGONBALL Z SAGA SAYAMAN
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409861
+#EXTINF:-1 tvg-id="" tvg-name="24H DRAGONBALL Z SAGA BABIDI" tvg-logo="" group-title="CANAIS | 24 HORAS",24H DRAGONBALL Z SAGA BABIDI
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409862
+#EXTINF:-1 tvg-id="" tvg-name="24H DRAGONBALL Z SAGA MAJINBU" tvg-logo="" group-title="CANAIS | 24 HORAS",24H DRAGONBALL Z SAGA MAJINBU
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409863
+#EXTINF:-1 tvg-id="" tvg-name="24H A CASA DO MICKEY MOUSE" tvg-logo="" group-title="CANAIS | 24 HORAS",24H A CASA DO MICKEY MOUSE
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409864
+#EXTINF:-1 tvg-id="" tvg-name="24H A FAMILÍA HATHAWAYS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H A FAMILÍA HATHAWAYS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409865
+#EXTINF:-1 tvg-id="" tvg-name="24H MEU AMIGÃOZÃO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H MEU AMIGÃOZÃO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409866
+#EXTINF:-1 tvg-id="" tvg-name="24H ANIMAZOO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H ANIMAZOO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409867
+#EXTINF:-1 tvg-id="" tvg-name="24H BABY LOONEY TUNES" tvg-logo="" group-title="CANAIS | 24 HORAS",24H BABY LOONEY TUNES
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409868
+#EXTINF:-1 tvg-id="" tvg-name="24H OS BACKYARDIGANS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H OS BACKYARDIGANS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409869
+#EXTINF:-1 tvg-id="" tvg-name="24H BATMAN E ROBIN CLASSICO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H BATMAN E ROBIN CLASSICO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409870
+#EXTINF:-1 tvg-id="" tvg-name="24H SAKURA CARDCAPTORS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H SAKURA CARDCAPTORS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409871
+#EXTINF:-1 tvg-id="" tvg-name="24H BEN 10 OMNIVERSE" tvg-logo="" group-title="CANAIS | 24 HORAS",24H BEN 10 OMNIVERSE
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409872
+#EXTINF:-1 tvg-id="" tvg-name="24H BEN 10" tvg-logo="" group-title="CANAIS | 24 HORAS",24H BEN 10
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409873
+#EXTINF:-1 tvg-id="" tvg-name="24H SUPER CHOQUE" tvg-logo="" group-title="CANAIS | 24 HORAS",24H SUPER CHOQUE
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409874
+#EXTINF:-1 tvg-id="" tvg-name="24H BRAVESTAR" tvg-logo="" group-title="CANAIS | 24 HORAS",24H BRAVESTAR
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409875
+#EXTINF:-1 tvg-id="" tvg-name="24H FRANKSTEIN JR E OS IMPOSSIVEÍS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H FRANKSTEIN JR E OS IMPOSSIVEÍS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409876
+#EXTINF:-1 tvg-id="" tvg-name="24H XODÓ DA VOVÓ" tvg-logo="" group-title="CANAIS | 24 HORAS",24H XODÓ DA VOVÓ
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409877
+#EXTINF:-1 tvg-id="" tvg-name="24H WOLVERINE E OS X-MEN" tvg-logo="" group-title="CANAIS | 24 HORAS",24H WOLVERINE E OS X-MEN
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409878
+#EXTINF:-1 tvg-id="" tvg-name="24H ZORRO CLASSICO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H ZORRO CLASSICO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409879
+#EXTINF:-1 tvg-id="" tvg-name="24H BOB ZOOM" tvg-logo="" group-title="CANAIS | 24 HORAS",24H BOB ZOOM
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409880
+#EXTINF:-1 tvg-id="" tvg-name="24H CAVALO DE FOGO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H CAVALO DE FOGO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409881
+#EXTINF:-1 tvg-id="" tvg-name="24H TÁ CHOVENDO HAMBURGUER" tvg-logo="" group-title="CANAIS | 24 HORAS",24H TÁ CHOVENDO HAMBURGUER
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409882
+#EXTINF:-1 tvg-id="" tvg-name="24H CLARÊNCIO O OTIMISTA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H CLARÊNCIO O OTIMISTA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409883
+#EXTINF:-1 tvg-id="" tvg-name="24H CORAGEM O CÃO COVARDE" tvg-logo="" group-title="CANAIS | 24 HORAS",24H CORAGEM O CÃO COVARDE
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409884
+#EXTINF:-1 tvg-id="" tvg-name="24H CYBERCOPS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H CYBERCOPS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409885
+#EXTINF:-1 tvg-id="" tvg-name="24H DRAKE & JOSH" tvg-logo="" group-title="CANAIS | 24 HORAS",24H DRAKE & JOSH
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409886
+#EXTINF:-1 tvg-id="" tvg-name="24H DE VOLTA PARA O FUTURO DESENHO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H DE VOLTA PARA O FUTURO DESENHO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409887
+#EXTINF:-1 tvg-id="" tvg-name="24H DESENCANTO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H DESENCANTO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409888
+#EXTINF:-1 tvg-id="" tvg-name="24H AS AVENTURAS DE TOM & JERRY" tvg-logo="" group-title="CANAIS | 24 HORAS",24H AS AVENTURAS DE TOM & JERRY
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409889
+#EXTINF:-1 tvg-id="" tvg-name="24H DESENHOS BIBLICOS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H DESENHOS BIBLICOS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409890
+#EXTINF:-1 tvg-id="" tvg-name="24H MEGAMAN CLASSICO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H MEGAMAN CLASSICO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409891
+#EXTINF:-1 tvg-id="" tvg-name="24H OS 7A" tvg-logo="" group-title="CANAIS | 24 HORAS",24H OS 7A
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409892
+#EXTINF:-1 tvg-id="" tvg-name="24H DIGIMON" tvg-logo="" group-title="CANAIS | 24 HORAS",24H DIGIMON
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409893
+#EXTINF:-1 tvg-id="" tvg-name="24H OQUE HÁ DE NOVO SCOOBY DOO?" tvg-logo="" group-title="CANAIS | 24 HORAS",24H OQUE HÁ DE NOVO SCOOBY DOO?
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409894
+#EXTINF:-1 tvg-id="" tvg-name="24H QUE LEGAL SCOOBY DOO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H QUE LEGAL SCOOBY DOO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409895
+#EXTINF:-1 tvg-id="" tvg-name="24H PATO DONALD" tvg-logo="" group-title="CANAIS | 24 HORAS",24H PATO DONALD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409896
+#EXTINF:-1 tvg-id="" tvg-name="24H DOUG" tvg-logo="" group-title="CANAIS | 24 HORAS",24H DOUG
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409897
+#EXTINF:-1 tvg-id="" tvg-name="24H SILVERHAWKS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H SILVERHAWKS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409898
+#EXTINF:-1 tvg-id="" tvg-name="24H SUPERNATURAL T01 A 05" tvg-logo="" group-title="CANAIS | 24 HORAS",24H SUPERNATURAL T01 A 05
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409899
+#EXTINF:-1 tvg-id="" tvg-name="24H LEGO UMA AVENTURA NA CIDADE" tvg-logo="" group-title="CANAIS | 24 HORAS",24H LEGO UMA AVENTURA NA CIDADE
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409900
+#EXTINF:-1 tvg-id="" tvg-name="24H BREAKING BAD" tvg-logo="" group-title="CANAIS | 24 HORAS",24H BREAKING BAD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409901
+#EXTINF:-1 tvg-id="" tvg-name="24H POLICIA 24 HORAS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H POLICIA 24 HORAS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409902
+#EXTINF:-1 tvg-id="" tvg-name="24H DUCK DODGERS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H DUCK DODGERS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409903
+#EXTINF:-1 tvg-id="" tvg-name="24H DUCK TALES CLÁSSICO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H DUCK TALES CLÁSSICO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409904
+#EXTINF:-1 tvg-id="" tvg-name="24H FÁBULAS DA DISNEY" tvg-logo="" group-title="CANAIS | 24 HORAS",24H FÁBULAS DA DISNEY
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409905
+#EXTINF:-1 tvg-id="" tvg-name="24H VERDADES SECRETAS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H VERDADES SECRETAS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409906
+#EXTINF:-1 tvg-id="" tvg-name="24H OS FEITICEIROS DE WAVERLY PLACE" tvg-logo="" group-title="CANAIS | 24 HORAS",24H OS FEITICEIROS DE WAVERLY PLACE
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409907
+#EXTINF:-1 tvg-id="" tvg-name="24H FORMIGA ATÔMICA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H FORMIGA ATÔMICA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409908
+#EXTINF:-1 tvg-id="" tvg-name="24H GALINHA BABY" tvg-logo="" group-title="CANAIS | 24 HORAS",24H GALINHA BABY
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409909
+#EXTINF:-1 tvg-id="" tvg-name="24H GOOGLE FIVE" tvg-logo="" group-title="CANAIS | 24 HORAS",24H GOOGLE FIVE
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409910
+#EXTINF:-1 tvg-id="" tvg-name="24H O SHOW DOS LOONEY TUNES" tvg-logo="" group-title="CANAIS | 24 HORAS",24H O SHOW DOS LOONEY TUNES
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409911
+#EXTINF:-1 tvg-id="" tvg-name="24H O INCRÍVEL MUNDO DE GUMBALL" tvg-logo="" group-title="CANAIS | 24 HORAS",24H O INCRÍVEL MUNDO DE GUMBALL
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409912
+#EXTINF:-1 tvg-id="" tvg-name="24H EMPIRE" tvg-logo="" group-title="CANAIS | 24 HORAS",24H EMPIRE
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409913
+#EXTINF:-1 tvg-id="" tvg-name="24H iCARLY" tvg-logo="" group-title="CANAIS | 24 HORAS",24H iCARLY
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409914
+#EXTINF:-1 tvg-id="" tvg-name="24H LION MAN" tvg-logo="" group-title="CANAIS | 24 HORAS",24H LION MAN
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409915
+#EXTINF:-1 tvg-id="" tvg-name="24H JAKE E OS PIRATAS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H JAKE E OS PIRATAS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409916
+#EXTINF:-1 tvg-id="" tvg-name="24H OS JETSONS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H OS JETSONS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409917
+#EXTINF:-1 tvg-id="" tvg-name="24H HULK CLÁSSICO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H HULK CLÁSSICO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409918
+#EXTINF:-1 tvg-id="" tvg-name="24H JONNY QUEST" tvg-logo="" group-title="CANAIS | 24 HORAS",24H JONNY QUEST
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409919
+#EXTINF:-1 tvg-id="" tvg-name="24H KENAN E KEL" tvg-logo="" group-title="CANAIS | 24 HORAS",24H KENAN E KEL
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409920
+#EXTINF:-1 tvg-id="" tvg-name="24H LIE TO ME" tvg-logo="" group-title="CANAIS | 24 HORAS",24H LIE TO ME
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409921
+#EXTINF:-1 tvg-id="" tvg-name="24H  NIPTUCK ESTÉTICA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H  NIPTUCK ESTÉTICA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409922
+#EXTINF:-1 tvg-id="" tvg-name="24H X-MEN CLÁSSICO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H X-MEN CLÁSSICO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409923
+#EXTINF:-1 tvg-id="" tvg-name="24H SUPER-MÁQUINA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H SUPER-MÁQUINA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409924
+#EXTINF:-1 tvg-id="" tvg-name="24H OPERAÇÃO POLICIAL" tvg-logo="" group-title="CANAIS | 24 HORAS",24H OPERAÇÃO POLICIAL
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409925
+#EXTINF:-1 tvg-id="" tvg-name="24H FLY O PEQUENO GUERREIRO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H FLY O PEQUENO GUERREIRO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409926
+#EXTINF:-1 tvg-id="" tvg-name="24H PICA-PAU CLÁSSICO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H PICA-PAU CLÁSSICO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409927
+#EXTINF:-1 tvg-id="" tvg-name="24H EU A PATROA E AS CRIANÇAS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H EU A PATROA E AS CRIANÇAS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409928
+#EXTINF:-1 tvg-id="" tvg-name="24H THE BIG BANG THEORY T01 Á T05" tvg-logo="" group-title="CANAIS | 24 HORAS",24H THE BIG BANG THEORY T01 Á T05
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409929
+#EXTINF:-1 tvg-id="" tvg-name="OS SIMPSONS 1989/1999" tvg-logo="" group-title="CANAIS | 24 HORAS",OS SIMPSONS 1989/1999
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409930
+#EXTINF:-1 tvg-id="" tvg-name="24H JASPION" tvg-logo="" group-title="CANAIS | 24 HORAS",24H JASPION
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409931
+#EXTINF:-1 tvg-id="" tvg-name="24H SHAUN O CARNEIRO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H SHAUN O CARNEIRO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409932
+#EXTINF:-1 tvg-id="" tvg-name="24H OGGY E AS BARATAS TONTAS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H OGGY E AS BARATAS TONTAS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409933
+#EXTINF:-1 tvg-id="" tvg-name="24H LARANJA IRRITANTE" tvg-logo="" group-title="CANAIS | 24 HORAS",24H LARANJA IRRITANTE
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409934
+#EXTINF:-1 tvg-id="" tvg-name="24H DE FÉRIAS COM O EX BRASIL" tvg-logo="" group-title="CANAIS | 24 HORAS",24H DE FÉRIAS COM O EX BRASIL
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409935
+#EXTINF:-1 tvg-id="" tvg-name="24H DR.HOUSE" tvg-logo="" group-title="CANAIS | 24 HORAS",24H DR.HOUSE
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409936
+#EXTINF:-1 tvg-id="" tvg-name="24H DOIS HOMENS E MEIO T01 A 06" tvg-logo="" group-title="CANAIS | 24 HORAS",24H DOIS HOMENS E MEIO T01 A 06
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409937
+#EXTINF:-1 tvg-id="" tvg-name="24H HENRY DANGER" tvg-logo="" group-title="CANAIS | 24 HORAS",24H HENRY DANGER
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409938
+#EXTINF:-1 tvg-id="" tvg-name="24H DR.STONE (ANIME)" tvg-logo="" group-title="CANAIS | 24 HORAS",24H DR.STONE (ANIME)
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409939
+#EXTINF:-1 tvg-id="" tvg-name="24H OS SIMPSONS T.31" tvg-logo="" group-title="CANAIS | 24 HORAS",24H OS SIMPSONS T.31
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409940
+#EXTINF:-1 tvg-id="" tvg-name="24H HORA DE AVENTURA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H HORA DE AVENTURA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409941
+#EXTINF:-1 tvg-id="" tvg-name="24H GRAVITY FALLS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H GRAVITY FALLS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409942
+#EXTINF:-1 tvg-id="" tvg-name="24H AS TARTARUGAS NINJAS CLASSICO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H AS TARTARUGAS NINJAS CLASSICO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409943
+#EXTINF:-1 tvg-id="" tvg-name="24H POPEYE" tvg-logo="" group-title="CANAIS | 24 HORAS",24H POPEYE
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409944
+#EXTINF:-1 tvg-id="" tvg-name="24H INUYASHA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H INUYASHA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409945
+#EXTINF:-1 tvg-id="" tvg-name="24H DOIS HOMENS E MEIO T07 A 12" tvg-logo="" group-title="CANAIS | 24 HORAS",24H DOIS HOMENS E MEIO T07 A 12
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409946
+#EXTINF:-1 tvg-id="" tvg-name="24H BOB ESPONJA T05 A 08" tvg-logo="" group-title="CANAIS | 24 HORAS",24H BOB ESPONJA T05 A 08
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409947
+#EXTINF:-1 tvg-id="" tvg-name="24H CAPITÃO PLANETA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H CAPITÃO PLANETA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409948
+#EXTINF:-1 tvg-id="" tvg-name="24H SHAMAN KING (ANIME)" tvg-logo="" group-title="CANAIS | 24 HORAS",24H SHAMAN KING (ANIME)
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409949
+#EXTINF:-1 tvg-id="" tvg-name="24H MUCHA LUTA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H MUCHA LUTA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409950
+#EXTINF:-1 tvg-id="" tvg-name="24H ALF O E.TEIMOSO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H ALF O E.TEIMOSO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409951
+#EXTINF:-1 tvg-id="" tvg-name="24H HANNAH MONTANA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H HANNAH MONTANA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409952
+#EXTINF:-1 tvg-id="" tvg-name="24H MANNY MÃOS À OBRA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H MANNY MÃOS À OBRA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409953
+#EXTINF:-1 tvg-id="" tvg-name="24H VINGADORES OS SUPER HERÓIS MAIS PODEROSOS DA TERRA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H VINGADORES OS SUPER HERÓIS MAIS PODEROSOS DA TERRA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409954
+#EXTINF:-1 tvg-id="" tvg-name="24H STAR WARS GUERRA DOS CLONES T01 A 04" tvg-logo="" group-title="CANAIS | 24 HORAS",24H STAR WARS GUERRA DOS CLONES T01 A 04
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409955
+#EXTINF:-1 tvg-id="" tvg-name="24H STAR WARS GUERRA DOS CLONES T05 A 07" tvg-logo="" group-title="CANAIS | 24 HORAS",24H STAR WARS GUERRA DOS CLONES T05 A 07
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409956
+#EXTINF:-1 tvg-id="" tvg-name="24H VINGADORES UNIDOS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H VINGADORES UNIDOS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409957
+#EXTINF:-1 tvg-id="" tvg-name="24H PATRULHA CANINA T05" tvg-logo="" group-title="CANAIS | 24 HORAS",24H PATRULHA CANINA T05
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409958
+#EXTINF:-1 tvg-id="" tvg-name="24H DOUTORA BRINQUEDO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H DOUTORA BRINQUEDO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409959
+#EXTINF:-1 tvg-id="" tvg-name="24H NARUTO SHIPPUDEN T01 A 05" tvg-logo="" group-title="CANAIS | 24 HORAS",24H NARUTO SHIPPUDEN T01 A 05
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409960
+#EXTINF:-1 tvg-id="" tvg-name="24H BORUTO NARUTO NEXT GENERATIONS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H BORUTO NARUTO NEXT GENERATIONS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409961
+#EXTINF:-1 tvg-id="" tvg-name="24H  Blaze e os Monster Machines" tvg-logo="" group-title="CANAIS | 24 HORAS",24H  Blaze e os Monster Machines
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409962
+#EXTINF:-1 tvg-id="" tvg-name="24H Bubble Guppies" tvg-logo="" group-title="CANAIS | 24 HORAS",24H Bubble Guppies
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409963
+#EXTINF:-1 tvg-id="" tvg-name="24H Equipe Umizoomi" tvg-logo="" group-title="CANAIS | 24 HORAS",24H Equipe Umizoomi
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409964
+#EXTINF:-1 tvg-id="" tvg-name="24H Dora Aventureira" tvg-logo="" group-title="CANAIS | 24 HORAS",24H Dora Aventureira
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409965
+#EXTINF:-1 tvg-id="" tvg-name="24H Anos Incríveis" tvg-logo="" group-title="CANAIS | 24 HORAS",24H Anos Incríveis
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409966
+#EXTINF:-1 tvg-id="" tvg-name="24H Batman A Série Animada" tvg-logo="" group-title="CANAIS | 24 HORAS",24H Batman A Série Animada
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409967
+#EXTINF:-1 tvg-id="" tvg-name="24H Pesadelo Na Cozinha" tvg-logo="" group-title="CANAIS | 24 HORAS",24H Pesadelo Na Cozinha
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409968
+#EXTINF:-1 tvg-id="" tvg-name="24H Bear Grylls A Prova de Tudo" tvg-logo="" group-title="CANAIS | 24 HORAS",24H Bear Grylls A Prova de Tudo
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409969
+#EXTINF:-1 tvg-id="" tvg-name="24H Desafio Sob Fogo America Latina" tvg-logo="" group-title="CANAIS | 24 HORAS",24H Desafio Sob Fogo America Latina
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409970
+#EXTINF:-1 tvg-id="" tvg-name="24H Panico na Band 2014" tvg-logo="" group-title="CANAIS | 24 HORAS",24H Panico na Band 2014
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409971
+#EXTINF:-1 tvg-id="" tvg-name="24H Panico na Band 2015" tvg-logo="" group-title="CANAIS | 24 HORAS",24H Panico na Band 2015
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409972
+#EXTINF:-1 tvg-id="" tvg-name="24H Charlie Brown e Snoopy" tvg-logo="" group-title="CANAIS | 24 HORAS",24H Charlie Brown e Snoopy
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409973
+#EXTINF:-1 tvg-id="" tvg-name="24H JORNADA NAS ESTRELAS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H JORNADA NAS ESTRELAS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409974
+#EXTINF:-1 tvg-id="" tvg-name="24H Larva" tvg-logo="" group-title="CANAIS | 24 HORAS",24H Larva
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409975
+#EXTINF:-1 tvg-id="" tvg-name="24H Familia Dinossauro" tvg-logo="" group-title="CANAIS | 24 HORAS",24H Familia Dinossauro
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409976
+#EXTINF:-1 tvg-id="" tvg-name="24H Bob Esponja Kamp koral" tvg-logo="" group-title="CANAIS | 24 HORAS",24H Bob Esponja Kamp koral
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409977
+#EXTINF:-1 tvg-id="" tvg-name="24H Scooby Doo Longas" tvg-logo="" group-title="CANAIS | 24 HORAS",24H Scooby Doo Longas
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409978
+#EXTINF:-1 tvg-id="" tvg-name="24H Os Flintstones" tvg-logo="" group-title="CANAIS | 24 HORAS",24H Os Flintstones
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409979
+#EXTINF:-1 tvg-id="" tvg-name="24H APENAS UM SHOW" tvg-logo="" group-title="CANAIS | 24 HORAS",24H APENAS UM SHOW
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409980
+#EXTINF:-1 tvg-id="" tvg-name="24H Machine Man" tvg-logo="" group-title="CANAIS | 24 HORAS",24H Machine Man
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409981
+#EXTINF:-1 tvg-id="" tvg-name="24H Desafio em Dose Dupla" tvg-logo="" group-title="CANAIS | 24 HORAS",24H Desafio em Dose Dupla
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409982
+#EXTINF:-1 tvg-id="" tvg-name="24H VELOZES E FURIOSOS ESPIÕES DO ASFALTO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H VELOZES E FURIOSOS ESPIÕES DO ASFALTO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409983
+#EXTINF:-1 tvg-id="" tvg-name="24H As Trapalhadas de FlapJack" tvg-logo="" group-title="CANAIS | 24 HORAS",24H As Trapalhadas de FlapJack
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409984
+#EXTINF:-1 tvg-id="" tvg-name="24H Os Ursinhos Gummi" tvg-logo="" group-title="CANAIS | 24 HORAS",24H Os Ursinhos Gummi
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409985
+#EXTINF:-1 tvg-id="" tvg-name="24H Mickey Donald e Pateta" tvg-logo="" group-title="CANAIS | 24 HORAS",24H Mickey Donald e Pateta
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409986
+#EXTINF:-1 tvg-id="" tvg-name="24H MAD" tvg-logo="" group-title="CANAIS | 24 HORAS",24H MAD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409987
+#EXTINF:-1 tvg-id="" tvg-name="24H Invencível" tvg-logo="" group-title="CANAIS | 24 HORAS",24H Invencível
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409988
+#EXTINF:-1 tvg-id="" tvg-name="24H Criminal Minds T06 a 10" tvg-logo="" group-title="CANAIS | 24 HORAS",24H Criminal Minds T06 a 10
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409989
+#EXTINF:-1 tvg-id="" tvg-name="24H Criminal Minds S01 a S05" tvg-logo="" group-title="CANAIS | 24 HORAS",24H Criminal Minds S01 a S05
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409990
+#EXTINF:-1 tvg-id="" tvg-name="My Time Movie Network" tvg-logo="" group-title="CANAIS | 24 HORAS",My Time Movie Network
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409991
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01 *" tvg-logo="" group-title="CANAIS | 24 HORAS",CINE SKY 01 *
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409992
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 02 *" tvg-logo="" group-title="CANAIS | 24 HORAS",CINE SKY 02 *
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409993
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 03 *" tvg-logo="" group-title="CANAIS | 24 HORAS",CINE SKY 03 *
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409994
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 04 *" tvg-logo="" group-title="CANAIS | 24 HORAS",CINE SKY 04 *
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409995
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 05 *" tvg-logo="" group-title="CANAIS | 24 HORAS",CINE SKY 05 *
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409996
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 06 *" tvg-logo="" group-title="CANAIS | 24 HORAS",CINE SKY 06 *
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409997
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 07 *" tvg-logo="" group-title="CANAIS | 24 HORAS",CINE SKY 07 *
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409998
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 08 *" tvg-logo="" group-title="CANAIS | 24 HORAS",CINE SKY 08 *
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/409999
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 09 *" tvg-logo="" group-title="CANAIS | 24 HORAS",CINE SKY 09 *
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/410000
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10 *" tvg-logo="" group-title="CANAIS | 24 HORAS",CINE SKY 10 *
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/410001
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY LIGA DA JUSTIÇA" tvg-logo="" group-title="CANAIS | 24 HORAS",CINE SKY LIGA DA JUSTIÇA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/410002
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 4 FHD" tvg-logo="https://i.imgur.com/AG9Mqjy.png" group-title="CANAIS | ESPORTES",SporTV 4 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/410030
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 4 FHD [H265]" tvg-logo="https://i.imgur.com/AG9Mqjy.png" group-title="CANAIS | ESPORTES",SporTV 4 FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/410031
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 4 HD" tvg-logo="https://i.imgur.com/AG9Mqjy.png" group-title="CANAIS | ESPORTES",SporTV 4 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/410029
+#EXTINF:-1 tvg-id="" tvg-name="RecordTV Minas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="CANAIS | ABERTOS",RecordTV Minas HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/410043
+#EXTINF:-1 tvg-id="" tvg-name="RecordTV Minas FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="CANAIS | ABERTOS",RecordTV Minas FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/410044
+#EXTINF:-1 tvg-id="" tvg-name="Band Minas HD" tvg-logo="https://imgur.com/c1yTmCX.jpeg" group-title="CANAIS | ABERTOS",Band Minas HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/410045
+#EXTINF:-1 tvg-id="" tvg-name="Band Minas FHD" tvg-logo="https://imgur.com/c1yTmCX.jpeg" group-title="CANAIS | ABERTOS",Band Minas FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/410046
+#EXTINF:-1 tvg-id="" tvg-name="RPC CASCAVEL HD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",RPC CASCAVEL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/410047
+#EXTINF:-1 tvg-id="" tvg-name="RPC CASCAVEL FHD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="CANAIS | GLOBO",RPC CASCAVEL FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/410048
+#EXTINF:-1 tvg-id="" tvg-name="CANÇÃO NOVA SD" tvg-logo="https://imgur.com/LemdQhR.jpeg" group-title="CANAIS | RELIGIOSOS",CANÇÃO NOVA SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/410214
+#EXTINF:-1 tvg-id="" tvg-name="TV Cultura SD" tvg-logo="https://i.imgur.com/XsftdPw.png" group-title="CANAIS | VARIEDADES",TV Cultura SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/410215
+#EXTINF:-1 tvg-id="" tvg-name="Viva SD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/viva.png" group-title="CANAIS | VARIEDADES",Viva SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/18027
+#EXTINF:-1 tvg-id="" tvg-name="FURACAO TV HD" tvg-logo="https://sagresonline.com.br/wp-content/uploads/2020/08/Furacao-TV-324x351.jpg" group-title="CANAIS | ESPORTES",FURACAO TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://blazehd.online:80/Fabio2021/Fabio2021/410306
